@@ -1,0 +1,3044 @@
+internalTaxonId,scientificName,name,language,main
+10030,Hexanchus griseus,Bluntnose Sixgill Shark,English,true
+11200,Lamna nasus,Marracho,Portuguese,false
+11200,Lamna nasus,Marrajo Sardinero,Spanish; Castilian,false
+11200,Lamna nasus,Requin-taupe Commun,French,false
+11200,Lamna nasus,Tiburón Sardinero,Spanish; Castilian,false
+11200,Lamna nasus,Tintorera,Spanish; Castilian,false
+11200,Lamna nasus,Атлантическая сельдевая акула,Russian,false
+11200,Lamna nasus,Porbeagle,English,true
+161318,Leucoraja lentiginosa,Freckle Skate,English,true
+161331,Dactylobatus clarkii,Hook Skate,English,true
+161373,Pseudobatos percellens,Southern Guitarfish,English,false
+161373,Pseudobatos percellens,Fiddlerfish,South American Indian (Other),false
+161373,Pseudobatos percellens,Guitarra,South American Indian (Other),false
+161373,Pseudobatos percellens,Guitarra Chola,Spanish; Castilian,false
+161373,Pseudobatos percellens,Poisson-guitare Chola,French,false
+161373,Pseudobatos percellens,Puraque,South American Indian (Other),false
+161373,Pseudobatos percellens,Viola,Portuguese,false
+161373,Pseudobatos percellens,Chola Guitarfish,English,true
+161378,Carcharhinus acronotus,Blacknose Shark,English,true
+161403,Somniosus pacificus,ТИХООКЕАНСКАЯ ПОЛЯРНАЯ АКУЛА,Russian,false
+161403,Somniosus pacificus,Pacific Sleeper Shark,English,true
+161436,Myliobatis goodei,Aigle de Mer du Sud,French,false
+161436,Myliobatis goodei,Chucho Amarillo,Spanish; Castilian,false
+161436,Myliobatis goodei,Southern Eagle Ray,English,true
+161443,Etmopterus pusillus,Sagre Nain,French,false
+161443,Etmopterus pusillus,Tollo Lucero Liso,Spanish; Castilian,false
+161443,Etmopterus pusillus,Smooth Lanternshark,English,true
+161514,Dipturus oregoni,Hooktail Skate,English,true
+161517,Etmopterus lucifer,Blackbelly Lanternshark,English,false
+161517,Etmopterus lucifer,Blackbelly Lanternshark,English,true
+161518,Mustelus norrisi,Narrowfin Smoothhound,English,true
+161524,Carcharhinus isodon,Cação-dente-liso,Portuguese,false
+161524,Carcharhinus isodon,Fijntandhaai,Dutch; Flemish,false
+161524,Carcharhinus isodon,Galana Dientefino,Spanish; Castilian,false
+161524,Carcharhinus isodon,Finetooth Shark,English,true
+161564,Carcharhinus altimus,Knopp's Shark,English,false
+161564,Carcharhinus altimus,Baboso,Spanish; Castilian,false
+161564,Carcharhinus altimus,Grootsnuithaai,Dutch; Flemish,false
+161564,Carcharhinus altimus,Bignose Shark,English,true
+161610,Dipturus teevani,Caribbean Skate,English,true
+161681,Springeria folirostris,Leafnose Legskate,English,true
+161682,Cruriraja rugosa,Rough Pygmy Skate,English,true
+161696,Alopias superciliosus,Bigeye Thresher Shark,English,false
+161696,Alopias superciliosus,False Thresher,English,false
+161696,Alopias superciliosus,Long-tailed Shark,English,false
+161696,Alopias superciliosus,Whiptail,English,false
+161696,Alopias superciliosus,Alopias megalomatos,"Greek, Modern (1453-)",false
+161696,Alopias superciliosus,Azotador,Spanish; Castilian,false
+161696,Alopias superciliosus,Cação-raposa-olho-grande,Portuguese,false
+161696,Alopias superciliosus,Cá Nhàm đuôi dài mắt to,Vietnamese,false
+161696,Alopias superciliosus,Coleto,Spanish; Castilian,false
+161696,Alopias superciliosus,Coludo cebucano,Spanish; Castilian,false
+161696,Alopias superciliosus,Grootoog-sambokhaai,Afrikaans,false
+161696,Alopias superciliosus,Grootoogvoshaai,Dutch; Flemish,false
+161696,Alopias superciliosus,Großaugen-Fuchshai,German,false
+161696,Alopias superciliosus,Großäugiger Drescherhai,German,false
+161696,Alopias superciliosus,Guilla d'ulls grossos,Catalan; Valencian,false
+161696,Alopias superciliosus,Hachiware,Japanese,false
+161696,Alopias superciliosus,Hiu lancur,Indonesian,false
+161696,Alopias superciliosus,Hiu monyet,Indonesian,false
+161696,Alopias superciliosus,Hiu tikus,Indonesian,false
+161696,Alopias superciliosus,Jarjur,Arabic,false
+161696,Alopias superciliosus,Karibiankettuhai,Finnish,false
+161696,Alopias superciliosus,Mano hi'uka,Hawaiian,false
+161696,Alopias superciliosus,Mano laukahi'u,Hawaiian,false
+161696,Alopias superciliosus,Paitan,Indonesian,false
+161696,Alopias superciliosus,Pating,Philippine (Other),false
+161696,Alopias superciliosus,Peixe-raposo,Portuguese,false
+161696,Alopias superciliosus,Peixe-rato,Portuguese,false
+161696,Alopias superciliosus,Pejerrabo,Spanish; Castilian,false
+161696,Alopias superciliosus,Pesce volpe occhio grosso,Italian,false
+161696,Alopias superciliosus,Pez zorro,Spanish; Castilian,false
+161696,Alopias superciliosus,Qatwa albahar,Arabic,false
+161696,Alopias superciliosus,Raposo-de-olhos-grandes,Portuguese,false
+161696,Alopias superciliosus,Renard à Gros Yeux,French,false
+161696,Alopias superciliosus,Requin-renard à gros yeux,French,false
+161696,Alopias superciliosus,Sapan köpekbaligi,Turkish,false
+161696,Alopias superciliosus,Storögd Rävhaj,Swedish,false
+161696,Alopias superciliosus,Storøjet rævehaj,Danish,false
+161696,Alopias superciliosus,Suursilm-rebashai,Estonian,false
+161696,Alopias superciliosus,Süvavee-rebashai,Estonian,false
+161696,Alopias superciliosus,Terng boi suar,Malay,false
+161696,Alopias superciliosus,Tiburón zorro,Spanish; Castilian,false
+161696,Alopias superciliosus,Tiburón zorro de ojo grande,Spanish; Castilian,false
+161696,Alopias superciliosus,Tiburón zorro ojón,Spanish; Castilian,false
+161696,Alopias superciliosus,Tomanimanente,Malagasy,false
+161696,Alopias superciliosus,Tubarão-raposa de olho grande,Portuguese,false
+161696,Alopias superciliosus,Tubarão raposo,Portuguese,false
+161696,Alopias superciliosus,Tubarão-raposo-olhudo,Portuguese,false
+161696,Alopias superciliosus,Yu ekor panjang,Malay,false
+161696,Alopias superciliosus,Yu mata besar,Malay,false
+161696,Alopias superciliosus,Zorro,Spanish; Castilian,false
+161696,Alopias superciliosus,Zorro blanco,Spanish; Castilian,false
+161696,Alopias superciliosus,Zorro de mar,Spanish; Castilian,false
+161696,Alopias superciliosus,Zorro-de-olhos-grandes,Portuguese,false
+161696,Alopias superciliosus,Zorro negro,Spanish; Castilian,false
+161696,Alopias superciliosus,Zorro Ojón,Spanish; Castilian,false
+161696,Alopias superciliosus,Zorro olho grande,Portuguese,false
+161696,Alopias superciliosus,Žralok mlatec velkooký,Czech,false
+161696,Alopias superciliosus,قرش الدراس   - الثعلب أبو عين كبيرة,Arabic,false
+161696,Alopias superciliosus,Αλωπίας μεγαλόματος,"Greek, Modern (1453-)",false
+161696,Alopias superciliosus,Большеглазая лисья акула,Russian,false
+161696,Alopias superciliosus,三娘鲨,Chinese,false
+161696,Alopias superciliosus,大眼長尾鯊,Chinese,false
+161696,Alopias superciliosus,大眼长尾鲨,Chinese,false
+161696,Alopias superciliosus,深海狐鮫,Chinese,false
+161696,Alopias superciliosus,深海狐鲛,Chinese,false
+161696,Alopias superciliosus,深海長尾鯊,Chinese,false
+161696,Alopias superciliosus,深海长尾鲨,Chinese,false
+161696,Alopias superciliosus,长尾沙,Chinese,false
+161696,Alopias superciliosus,Bigeye Thresher,English,true
+161702,Rajella purpuriventralis,Purplebelly Skate,English,true
+161718,Dipturus olseni,Spreadfin Skate,English,true
+161731,Pteroplatytrygon violacea,Pastenague Violette,French,false
+161731,Pteroplatytrygon violacea,Raya Negra,Spanish; Castilian,false
+161731,Pteroplatytrygon violacea,Pelagic Stingray,English,true
+161743,Pseudobatos lentiginosus,Atlantic Guitarfish,English,false
+161743,Pseudobatos lentiginosus,Freckled Guitarfish,English,true
+19488,Rhincodon typus,Requin Baleine,French,false
+19488,Rhincodon typus,Tiburón Ballena,Spanish; Castilian,false
+19488,Rhincodon typus,القرش الحوت,Arabic,false
+19488,Rhincodon typus,Whale Shark,English,true
+195475,Rhynchobatus palpebratus,Eyebrow Wedgefish,English,true
+195488,Squalus suckleyi,Spiny Dogfish,English,false
+195488,Squalus suckleyi,Spotted Spiny Dogfish,English,false
+195488,Squalus suckleyi,Aiguillat du Nord Pacifique,French,false
+195488,Squalus suckleyi,Galludo del Pacifico,Spanish; Castilian,false
+195488,Squalus suckleyi,North Pacific Spiny Dogfish,English,true
+3851,Carcharhinus limbatus,قرش الساحل,Arabic,false
+3851,Carcharhinus limbatus,Blacktip Shark,English,true
+3852,Carcharhinus obscurus,Dusky Shark,English,true
+3853,Carcharhinus plumbeus,قرش طهر,Arabic,false
+3853,Carcharhinus plumbeus,Sandbar Shark,English,true
+3854,Carcharias taurus,Grey Nurse Shark,English,false
+3854,Carcharias taurus,Spotted Raggedtooth Shark,English,false
+3854,Carcharias taurus,Requin Taureau,French,false
+3854,Carcharias taurus,Toro Bacota,Spanish; Castilian,false
+3854,Carcharias taurus,قرش نمر الرملي,Arabic,false
+3854,Carcharias taurus,Sand Tiger Shark,English,true
+39324,Notorynchus cepedianus,Broadnose Sevengill Shark,English,true
+162293947,Centrophorus granulosus,Hiu Botol,Indonesian,false
+162293947,Centrophorus granulosus,Quelvacho,Spanish; Castilian,false
+162293947,Centrophorus granulosus,Squale-chagrin aiguille,French,false
+162293947,Centrophorus granulosus,Gulper Shark,English,true
+39331,Squatina occulta,Smoothback Angel Shark,English,false
+39331,Squatina occulta,Hidden Angelshark,English,true
+39336,Odontaspis noronhai,Requin Noronhai,French,false
+39336,Odontaspis noronhai,Solrayo Ojigrande,Spanish; Castilian,false
+39336,Odontaspis noronhai,Bigeye Sand Tiger,English,true
+39341,Isurus oxyrinchus,(قرش ماكو قصير الزعانف (الذيبة,Arabic,false
+39341,Isurus oxyrinchus,Shortfin Mako,English,true
+39347,Schroederichthys bivius,Pintarroja del Sur,Spanish; Castilian,false
+39347,Schroederichthys bivius,Narrowmouth Catshark,English,true
+39352,Galeorhinus galeus,School Shark,English,false
+39352,Galeorhinus galeus,Snapper Shark,English,false
+39352,Galeorhinus galeus,Soupfin Shark,English,false
+39352,Galeorhinus galeus,Cacao,Spanish; Castilian,false
+39352,Galeorhinus galeus,Cacao Tope,Portuguese,false
+39352,Galeorhinus galeus,Can Negro,Italian,false
+39352,Galeorhinus galeus,Requin-hâ,French,false
+39352,Galeorhinus galeus,Tope,English,true
+39359,Mustelus canis,Dusky Smoothhound,English,true
+39368,Carcharhinus brevipinna,Longnose Grey Shark,English,false
+39368,Carcharhinus brevipinna,Jaqueton,Spanish; Castilian,false
+39368,Carcharhinus brevipinna,Jarjur Naudth,Arabic,false
+39368,Carcharhinus brevipinna,Spinner Shark,English,true
+39372,Carcharhinus leucas,Lake Nicaragua Shark,English,false
+39372,Carcharhinus leucas,River Shark,English,false
+39372,Carcharhinus leucas,Swan River Shark,English,false
+39372,Carcharhinus leucas,Zambezi Shark,English,false
+39372,Carcharhinus leucas,قرش الثور,Arabic,false
+39372,Carcharhinus leucas,Bull Shark,English,true
+39374,Carcharhinus longimanus,Whitetip Oceanic Shark,English,false
+39374,Carcharhinus longimanus,White-tipped Shark,English,false
+39374,Carcharhinus longimanus,Whitetip Shark,English,false
+39374,Carcharhinus longimanus,Apoapo,Samoan,false
+39374,Carcharhinus longimanus,Marracho,Portuguese,false
+39374,Carcharhinus longimanus,Marracho Oceánico,Portuguese,false
+39374,Carcharhinus longimanus,Opesee-wittiphaai Requin Canal,Afrikaans,false
+39374,Carcharhinus longimanus,Requin Océanique,French,false
+39374,Carcharhinus longimanus,Tiburón Oceanico,Spanish; Castilian,false
+39374,Carcharhinus longimanus,Tubarâo,Portuguese,false
+39374,Carcharhinus longimanus,Tubarão galha-branca-oceanico,Portuguese,false
+39374,Carcharhinus longimanus,Yogore,Japanese,false
+39374,Carcharhinus longimanus,القرش أبيض الأطراف المحيطي,Arabic,false
+39374,Carcharhinus longimanus,大沙,Chinese,false
+39374,Carcharhinus longimanus,污斑白眼鮫,Chinese,false
+39374,Carcharhinus longimanus,污斑白眼鲛,Chinese,false
+39374,Carcharhinus longimanus,長鰭真鯊,Chinese,false
+39374,Carcharhinus longimanus,長鰭翼真鯊,Chinese,false
+39374,Carcharhinus longimanus,长鳍真鲨,Chinese,false
+39374,Carcharhinus longimanus,长鳍翼真鲨,Chinese,false
+39374,Carcharhinus longimanus,Oceanic Whitetip Shark,English,true
+39378,Galeocerdo cuvier,قرش النمر,Arabic,false
+39378,Galeocerdo cuvier,Tiger Shark,English,true
+39380,Negaprion brevirostris,Lemon Shark,English,true
+39381,Prionace glauca,Kalb al bhar,Arabic,false
+39381,Prionace glauca,Mouch labhar,Arabic,false
+39381,Prionace glauca,Qarsh Mizraqq,Arabic,false
+39381,Prionace glauca,Tubarão-azul,Portuguese,false
+39381,Prionace glauca,Zérica,Arabic,false
+39381,Prionace glauca,القرش الأزرق,Arabic,false
+39381,Prionace glauca,Blue Shark,English,true
+39385,Sphyrna lewini,القرش أبو مطرقة الصدفي,Arabic,false
+39385,Sphyrna lewini,Бронзовая молот-рыба,Russian,false
+39385,Sphyrna lewini,Scalloped Hammerhead,English,true
+39386,Sphyrna mokarran,Grand Requin-marteau,French,false
+39386,Sphyrna mokarran,Groot Hamerkop,Afrikaans,false
+39386,Sphyrna mokarran,Hira-shumokuzame,Japanese,false
+39386,Sphyrna mokarran,القرش أبو مطرقة الكبير,Arabic,false
+39386,Sphyrna mokarran,Great Hammerhead,English,true
+39388,Sphyrna zygaena,Requin-marteau commun,French,false
+39388,Sphyrna zygaena,Requin marteau lisse,French,false
+39388,Sphyrna zygaena,Tubarão Martelo,Portuguese,false
+39388,Sphyrna zygaena,القرش أبو مطرقة الانسيابي,Arabic,false
+39388,Sphyrna zygaena,Smooth Hammerhead,English,true
+39411,Fluvitrygon signifer,White-edge Freshwater Whipray,English,false
+39411,Fluvitrygon signifer,White-rimmed Stingray,English,false
+39411,Fluvitrygon signifer,White-edge Whipray,English,true
+41064,Pseudobatos horkelii,Brazilian Guitarfish,English,true
+41736,Carcharhinus galapagensis,Requin des Galápagos,French,false
+41736,Carcharhinus galapagensis,Tiburón de Galápagos,Spanish; Castilian,false
+41736,Carcharhinus galapagensis,Tubarão-das-Galápagos,Portuguese,false
+41736,Carcharhinus galapagensis,Галапагосская акула,Russian,false
+41736,Carcharhinus galapagensis,Galapagos Shark,English,true
+41741,Carcharhinus brachyurus,Bronze Whaler,English,false
+41741,Carcharhinus brachyurus,Bacota,Spanish; Castilian,false
+41741,Carcharhinus brachyurus,Copper Shark,English,true
+41801,Echinorhinus brucus,قرش العليق الشائك,Arabic,false
+41801,Echinorhinus brucus,Bramble Shark,English,true
+41823,Heptranchias perlo,Sharpnose Sevengill Shark,English,true
+41830,Isistius brasiliensis,Luminous Shark,English,false
+41830,Isistius brasiliensis,Cookie-cutter Shark,English,true
+152781967,Squalus mitsukurii,Aiguillat épinette,French,false
+152781967,Squalus mitsukurii,Galludo Espinilla,Spanish; Castilian,false
+152781967,Squalus mitsukurii,Shortspine Spurdog,English,true
+44185,Fluvitrygon oxyrhynchus,Longnose Marbled Stingray,English,false
+44185,Fluvitrygon oxyrhynchus,Longnose Marbled Whipray,English,false
+44185,Fluvitrygon oxyrhynchus,Marbled Freshwater Stingray,English,false
+44185,Fluvitrygon oxyrhynchus,Marbled Whipray,English,true
+44221,Apristurus parvipinnis,Holbiche Petites Ailes,French,false
+44221,Apristurus parvipinnis,Pejegato Mocho,Spanish; Castilian,false
+44221,Apristurus parvipinnis,Smallfin Catshark,English,true
+44565,Mitsukurina owstoni,Elfin Shark,English,false
+44565,Mitsukurina owstoni,Japanischer Nasenhai,German,false
+44565,Mitsukurina owstoni,Koboldhai,German,false
+44565,Mitsukurina owstoni,Mitsukurizame,Japanese,false
+44565,Mitsukurina owstoni,Nasenhai,German,false
+44565,Mitsukurina owstoni,Rekin Mitsukurina,Polish,false
+44565,Mitsukurina owstoni,Requin Lutin,French,false
+44565,Mitsukurina owstoni,Squalo Folletto,Indonesian,false
+44565,Mitsukurina owstoni,Squalo Goblin,Italian,false
+44565,Mitsukurina owstoni,Tenguzame,Japanese,false
+44565,Mitsukurina owstoni,Tiburones Duende,Spanish; Castilian,false
+44565,Mitsukurina owstoni,Tubarão Demónio,Portuguese,false
+44565,Mitsukurina owstoni,Tubarão-gnomo,Portuguese,false
+44565,Mitsukurina owstoni,Tubarão Narigudo,Portuguese,false
+44565,Mitsukurina owstoni,Tubarão-unicórnio,Portuguese,false
+44565,Mitsukurina owstoni,Акула-домовой,Russian,false
+44565,Mitsukurina owstoni,Goblin Shark,English,true
+44566,Pseudotriakis microdon,Keel-dorsal Shark,English,false
+44566,Pseudotriakis microdon,Musolón De Aleta Larga,Spanish; Castilian,false
+44566,Pseudotriakis microdon,Requin À Longue Dorsale,French,false
+44566,Pseudotriakis microdon,False Catshark,English,true
+44577,Benthobatis kreffti,Brazilian Blind Electric Ray,English,false
+44577,Benthobatis kreffti,Arraia Cega,Spanish; Castilian,false
+44577,Benthobatis kreffti,Krefft's Blind Numbfish,English,true
+44578,Galeus mincaronei,Tubarão-cauda-de-serra-do-sul,Spanish; Castilian,false
+44578,Galeus mincaronei,Southern Sawtail Catshark,English,true
+44581,Mustelus fasciatus,Striped Dogfish,English,false
+44581,Mustelus fasciatus,Cação-listrado,Portuguese,false
+44581,Mustelus fasciatus,Cação-malhado,Portuguese,false
+44581,Mustelus fasciatus,Gatuso,Spanish; Castilian,false
+44581,Mustelus fasciatus,Gatuzo,Spanish; Castilian,false
+44581,Mustelus fasciatus,Recorre-costas,Portuguese,false
+44581,Mustelus fasciatus,Striped Smoothhound,English,true
+44582,Psammobatis bergi,Raya Reticulada,Spanish; Castilian,false
+44582,Psammobatis bergi,Blotched Sandskate,English,true
+44583,Psammobatis extenta,Rayita Con Orlas,Spanish; Castilian,false
+44583,Psammobatis extenta,Zipper Sandskate,English,true
+44586,Schroederichthys saurisqualus,Lizard Catshark,English,true
+44587,Schroederichthys tenuis,Holbiche Mannequin,French,false
+44587,Schroederichthys tenuis,Pejegato Menudo,Spanish; Castilian,false
+44587,Schroederichthys tenuis,Tubarão-gato,Portuguese,false
+44587,Schroederichthys tenuis,Slender Catshark,English,true
+130394197,Scyliorhinus haeckelii,Cação Lagarto,Portuguese,false
+130394197,Scyliorhinus haeckelii,Freckled Catshark,English,true
+44590,Scyliorhinus hesperius,Alitán Ensillado,Spanish; Castilian,false
+44590,Scyliorhinus hesperius,Roussette selle blanche,French,false
+44590,Scyliorhinus hesperius,Whitesaddled Catshark,English,true
+44595,Rhinoptera brasiliensis,Ticon Cownose Ray,English,false
+44595,Rhinoptera brasiliensis,Brazilian Cownose Ray,English,true
+44597,Sympterygia bonapartii,Raya Marmorada,Spanish; Castilian,false
+44597,Sympterygia bonapartii,Smallnose Fanskate,English,true
+44598,Urotrygon microphthalmum,Smalleye Round Ray,English,true
+44603,Euprotomicroides zantedeschia,Tubarão-de-Cauda-Luminosa,Portuguese,false
+44603,Euprotomicroides zantedeschia,Taillight Shark,English,true
+44642,Sympterygia acuta,Raya Marrón Oscuro,Spanish; Castilian,false
+44642,Sympterygia acuta,Bignose Fanskate,English,true
+44644,Dipturus leptocaudus,Emplastro,Portuguese,false
+44644,Dipturus leptocaudus,Thintail Skate,English,true
+44645,Rajella sadowskii,Raya Morada,Spanish; Castilian,false
+44645,Rajella sadowskii,Brazilian Skate,English,true
+44656,Gurgesiella dorsalifera,Onefin Skate,English,true
+44666,Rhizoprionodon lalandii,Cação-frango,Portuguese,false
+44666,Rhizoprionodon lalandii,Cazón Chino,Spanish; Castilian,false
+44666,Rhizoprionodon lalandii,Frango,Portuguese,false
+44666,Rhizoprionodon lalandii,Rabo-seco,Portuguese,false
+44666,Rhizoprionodon lalandii,Brazilian Sharpnose Shark,English,true
+44993,Discopyge tschudii,Apron Ray,English,false
+44993,Discopyge tschudii,Tembladera,Spanish; Castilian,false
+44993,Discopyge tschudii,Apron Numbfish,English,true
+152784762,Gymnura micrura,Raia borboleta,Portuguese,false
+152784762,Gymnura micrura,Raie-papillon glabre,French,false
+152784762,Gymnura micrura,Raya guayanesa,Spanish; Castilian,false
+152784762,Gymnura micrura,Smooth Butterfly Ray,English,true
+60128,Rhinoptera bonasus,Cara de Vaca,Spanish; Castilian,false
+60128,Rhinoptera bonasus,Gavilan Mancha,Spanish; Castilian,false
+60128,Rhinoptera bonasus,Gavilan Manchado,Spanish; Castilian,false
+60128,Rhinoptera bonasus,Mourine Américaine,French,false
+60128,Rhinoptera bonasus,Raia-focinho-de-vaca,Portuguese,false
+60128,Rhinoptera bonasus,American Cownose Ray,English,true
+60135,Tetronarce puelcha,Argentine Torpedo,English,true
+60140,Harriotta raleighana,Bentnose Rabbitfish,English,false
+60140,Harriotta raleighana,Bigspine Spookfish,English,false
+60140,Harriotta raleighana,Longnose Chimaera,English,false
+60140,Harriotta raleighana,Long-nosed Chimaera,English,false
+60140,Harriotta raleighana,Longnosed Chimaera,English,false
+60140,Harriotta raleighana,Azuma-ginzame,Japanese,false
+60140,Harriotta raleighana,Chimère De Raleigh,French,false
+60140,Harriotta raleighana,Peje Rata,Spanish; Castilian,false
+60140,Harriotta raleighana,Quimera De Raleigh,Spanish; Castilian,false
+60140,Harriotta raleighana,Narrownose Chimaera,English,true
+60154,Dasyatis hypostigma,Arraia Manteiga,Portuguese,false
+60154,Dasyatis hypostigma,Groovebelly Stingray,English,true
+60159,Hypanus say,Bluntnose Stingray,English,true
+60161,Styracura schmardae,Chupare Stingray,English,false
+60161,Styracura schmardae,Chupare,Spanish; Castilian,false
+60161,Styracura schmardae,Lebisa,Spanish; Castilian,false
+60161,Styracura schmardae,Atlantic Chupare,English,true
+60189,Hydrolagus alberti,Gulf Chimaera,English,true
+60201,Sphyrna media,Cação-martelo,Portuguese,false
+60201,Sphyrna media,Cachuda,Spanish; Castilian,false
+60201,Sphyrna media,Cambeva,Portuguese,false
+60201,Sphyrna media,Cornuda Cuchara,Spanish; Castilian,false
+60201,Sphyrna media,Requin-marteau Écope,French,false
+60201,Sphyrna media,Tiburón Cabeza De Pala,Spanish; Castilian,false
+60201,Sphyrna media,Tiburón Martillo Cuchara,Spanish; Castilian,false
+60201,Sphyrna media,Scoophead Shark,English,true
+60202,Sphyrna tudes,Golden Hammerhead,English,false
+60202,Sphyrna tudes,Caranguejeira,Portuguese,false
+60202,Sphyrna tudes,Cornuda Ojichica,Spanish; Castilian,false
+60202,Sphyrna tudes,Pana Amarela,Portuguese,false
+60202,Sphyrna tudes,Requin-marteau À Petits Yeux,French,false
+60202,Sphyrna tudes,Smalleye Hammerhead,English,true
+60203,Mustelus schmitti,Caçonete E Cação-cola-fina,Portuguese,false
+60203,Mustelus schmitti,Cazón,Spanish; Castilian,false
+60203,Mustelus schmitti,Gatuzo,Spanish; Castilian,false
+60203,Mustelus schmitti,Narrownose Smoothhound,English,true
+60204,Mustelus higmani,Cação Boca De Velha,Portuguese,false
+60204,Mustelus higmani,Emissole Tiyeux,French,false
+60204,Mustelus higmani,Musola Amarilla,Spanish; Castilian,false
+60204,Mustelus higmani,Severino,Portuguese,false
+60204,Mustelus higmani,viuda amarilla,Spanish; Castilian,false
+60204,Mustelus higmani,Smalleye Smoothhound,English,true
+60206,Mustelus sinusmexicanus,Emissole,French,false
+60206,Mustelus sinusmexicanus,Musola,Spanish; Castilian,false
+60206,Mustelus sinusmexicanus,Gulf of Mexico Smoothhound,English,true
+60209,Cirrhigaleus asper,Aiguillat À Peau Rugueuse,French,false
+60209,Cirrhigaleus asper,Galludo Raspa,Spanish; Castilian,false
+60209,Cirrhigaleus asper,Roughskin Spurdog,English,true
+60210,Euprotomicrus bispinatus,Squale Pygmée,French,false
+60210,Euprotomicrus bispinatus,Tollo Pigmeo,Spanish; Castilian,false
+60210,Euprotomicrus bispinatus,Pygmy Shark,English,true
+60212,Isistius plutodus,Bigtooth Cookiecutter,English,false
+60212,Isistius plutodus,Gulf Dogfish,English,false
+60212,Isistius plutodus,Longtooth Cookiecutter Shark,English,false
+60212,Isistius plutodus,Kohire-darumazame,Japanese,false
+60212,Isistius plutodus,Squalelet Dentu,French,false
+60212,Isistius plutodus,Tollo Cigarro Dentón,Spanish; Castilian,false
+60212,Isistius plutodus,Largetooth Cookiecutter Shark,English,true
+60214,Squaliolus laticaudus,Squale Nain,French,false
+60214,Squaliolus laticaudus,Tollo Pigmeo Espinudo,Spanish; Castilian,false
+60214,Squaliolus laticaudus,Spined Pygmy Shark,English,true
+60215,Zameus squamulosus,Bruja Bocachica,Spanish; Castilian,false
+60215,Zameus squamulosus,Squale-grogneur Velouté,French,false
+60215,Zameus squamulosus,Velvet Dogfish,English,true
+60217,Carcharhinus perezi,Cabeza Dura,Spanish; Castilian,false
+60217,Carcharhinus perezi,Cação Bico-fino,Portuguese,false
+60217,Carcharhinus perezi,Requin De Recif,French,false
+60217,Carcharhinus perezi,Caribbean Reef Shark,English,true
+60218,Isogomphodon oxyrhynchus,Cacao Pato,Portuguese,false
+60218,Isogomphodon oxyrhynchus,Tubarão Quati,Portuguese,false
+60218,Isogomphodon oxyrhynchus,Daggernose Shark,English,true
+60219,Carcharhinus signatus,Tubarão-toninha,Portuguese,false
+60219,Carcharhinus signatus,Night Shark,English,true
+144136822,Carcharhinus porosus,Smalltail Shark,English,false
+144136822,Carcharhinus porosus,Tollo,English,false
+144136822,Carcharhinus porosus,Aleton,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Cação Azeiteiro,Portuguese,false
+144136822,Carcharhinus porosus,Cacao do Salgado,Portuguese,false
+144136822,Carcharhinus porosus,Cação Junteiro,Portuguese,false
+144136822,Carcharhinus porosus,Cazon,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Chaspat,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Cuero Duro O Cabeza Dura,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Requiem Tiqueue,French,false
+144136822,Carcharhinus porosus,Sarda,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Sicuri – Branco,Portuguese,false
+144136822,Carcharhinus porosus,Tiburón Poroso,Spanish; Castilian,false
+144136822,Carcharhinus porosus,Triaqueira,Portuguese,false
+144136822,Carcharhinus porosus,Smalltail Shark,English,true
+144141186,Ginglymostoma cirratum,Nurse Shark,English,false
+144141186,Ginglymostoma cirratum,Cação-lixa,Portuguese,false
+144141186,Ginglymostoma cirratum,Gata,Spanish; Castilian,false
+144141186,Ginglymostoma cirratum,Lambaru,Portuguese,false
+144141186,Ginglymostoma cirratum,Lixa,Portuguese,false
+144141186,Ginglymostoma cirratum,Tiburón-gata,Spanish; Castilian,false
+144141186,Ginglymostoma cirratum,Tubarão-lixa,Portuguese,false
+144141186,Ginglymostoma cirratum,Atlantic Nurse Shark,English,true
+60225,Isurus paucus,قرش ماكو طويل الزعانف,Arabic,false
+60225,Isurus paucus,Longfin Mako,English,true
+60230,Parmaturus campechiensis,Pejegato Campechano,Spanish; Castilian,false
+60230,Parmaturus campechiensis,Campeche Catshark,English,true
+60236,Etmopterus bigelowi,Blurred Lanternshark,English,true
+60239,Etmopterus hillianus,Sagre Antillais,French,false
+60239,Etmopterus hillianus,Tollo Lucero Antillano,Spanish; Castilian,false
+60239,Etmopterus hillianus,Caribbean Lanternshark,English,true
+61398,Atlantoraja cyclophora,Raia-santa,Portuguese,false
+61398,Atlantoraja cyclophora,Raja Ojona,Spanish; Castilian,false
+61398,Atlantoraja cyclophora,Raya de Círculos,Spanish; Castilian,false
+61398,Atlantoraja cyclophora,Eyespot Skate,English,true
+61407,Rhizoprionodon porosus,Cação-figuinho,Portuguese,false
+61407,Rhizoprionodon porosus,Cação-rabo-seco,Portuguese,false
+61407,Rhizoprionodon porosus,Cazon De Playa,Spanish; Castilian,false
+61407,Rhizoprionodon porosus,Cazón Picudo Antillano,Spanish; Castilian,false
+61407,Rhizoprionodon porosus,Frango,Portuguese,false
+61407,Rhizoprionodon porosus,Requin Aiguille Antillais,French,false
+61407,Rhizoprionodon porosus,Tiburón cazón antillano,Spanish; Castilian,false
+61407,Rhizoprionodon porosus,Caribbean Sharpnose Shark,English,true
+61416,Squalus cubensis,Aiguillat Cubain,French,false
+61416,Squalus cubensis,Cação-bagre,Portuguese,false
+61416,Squalus cubensis,Cação-de-espeto,Portuguese,false
+61416,Squalus cubensis,Galludo Cubano,Spanish; Castilian,false
+61416,Squalus cubensis,Spinoso,Spanish; Castilian,false
+61416,Squalus cubensis,Cuban Dogfish,English,true
+61419,Zapteryx brevirostris,Banjo,Portuguese,false
+61419,Zapteryx brevirostris,Shortnose Guitarfish,English,true
+6229,Dalatias licha,Black Shark,English,false
+6229,Dalatias licha,Seal Shark,English,false
+6229,Dalatias licha,Carocho,Spanish; Castilian,false
+6229,Dalatias licha,Kitefin Shark,English,true
+63101,Psammobatis rutrum,Rayita Sin Orlas,Spanish; Castilian,false
+63101,Psammobatis rutrum,Spade Sandskate,English,true
+63107,Callorhinchus callorynchus,Cockfish,English,false
+63107,Callorhinchus callorynchus,Pez Gallo,Spanish; Castilian,false
+63107,Callorhinchus callorynchus,American Elephantfish,English,true
+63108,Etmopterus gracilispinis,Sagre rubané,French,false
+63108,Etmopterus gracilispinis,Tollo Lucerno Bandoneado,Spanish; Castilian,false
+63108,Etmopterus gracilispinis,Tubarão-lanterna,Portuguese,false
+63108,Etmopterus gracilispinis,Tubarão-vagalume,Portuguese,false
+63108,Etmopterus gracilispinis,Broadbanded Lanternshark,English,true
+63109,Rioraja agassizii,Raia-santa,Portuguese,false
+63109,Rioraja agassizii,Raya Lisa,Spanish; Castilian,false
+63109,Rioraja agassizii,Rio Skate,English,true
+63110,Atlantoraja platana,Raya platana,English,false
+63110,Atlantoraja platana,Empalastro,Spanish; Castilian,false
+63110,Atlantoraja platana,Oscura,Spanish; Castilian,false
+63110,Atlantoraja platana,Platana,Spanish; Castilian,false
+63110,Atlantoraja platana,Raya Oscura,Spanish; Castilian,false
+63110,Atlantoraja platana,La Plata Skate,English,true
+63116,Dipturus trachydermus,Raya Espinosa,Spanish; Castilian,false
+63116,Dipturus trachydermus,Raya Espinuda,Spanish; Castilian,false
+63116,Dipturus trachydermus,Roughskin Skate,English,true
+116856245,Etmopterus granulosus,Baxter's Dogfish,English,false
+116856245,Etmopterus granulosus,Giant Lanternshark,English,false
+116856245,Etmopterus granulosus,Tollo Lucero,Spanish; Castilian,false
+116856245,Etmopterus granulosus,Southern Lanternshark,English,true
+63121,Psammobatis lentiginosa,Freckled Sandskate,English,false
+63121,Psammobatis lentiginosa,Raya Lenticulada,Spanish; Castilian,false
+63121,Psammobatis lentiginosa,Freckle Sandskate,English,true
+63124,Dipturus mennii,South Brazilian Skate,English,false
+63124,Dipturus mennii,Menni's Skate,English,true
+63133,Malacoraja obscura,Brazilian Soft Skate,English,true
+63137,Bathyraja schroederi,Raya de Boca Blanca,Spanish; Castilian,false
+63137,Bathyraja schroederi,Whitemouth Skate,English,true
+63142,Narcine bancroftii,Bancroft’s Numbfish,English,false
+63142,Narcine bancroftii,Caribbean Electric Ray,English,false
+63142,Narcine bancroftii,Lesser Electric Ray,English,false
+63142,Narcine bancroftii,Caribbean Numbfish,English,true
+63143,Bathyraja magellanica,Raya Atigrada,Spanish; Castilian,false
+63143,Bathyraja magellanica,Magellan Skate,English,true
+63144,Bathyraja multispinis,Raya Aserrada,Spanish; Castilian,false
+63144,Bathyraja multispinis,Multispine Skate,English,true
+63151,Hydrolagus matallanasi,Striped Rabbitfish,English,true
+104065040,Bathytoshia centroura,raia prego espinhosa,Portuguese,false
+104065040,Bathytoshia centroura,Roughtail Stingray,English,true
+63153,Gymnura altavela,Spiny Butterfly Ray,English,true
+63157,Narcine brasiliensis,Lesser Numbfish,English,true
+63161,Gurgesiella atlantica,Atlantic Pygmy Skate,English,false
+63161,Gurgesiella atlantica,Atlantic Finless Skate,English,true
+161322,Amblyraja robertsi,Bigmouth Skate,English,true
+161353,Potamotrygon falkneri,Largespot River Stingray,English,false
+161353,Potamotrygon falkneri,Raya Pititi,Spanish; Castilian,false
+161353,Potamotrygon falkneri,Raya Reticulada,Spanish; Castilian,false
+161353,Potamotrygon falkneri,Reticulated Freshwater Stingray,English,true
+161365,Potamotrygon schroederi,Rosette River Stingray,English,false
+161365,Potamotrygon schroederi,Arraia Branc,Portuguese,false
+161365,Potamotrygon schroederi,Arraia de Praia,Portuguese,false
+161365,Potamotrygon schroederi,Arraia Malhadinha,Portuguese,false
+161365,Potamotrygon schroederi,Raya Gucamaya,Spanish; Castilian,false
+161365,Potamotrygon schroederi,Raya Guyanesa,Spanish; Castilian,false
+161365,Potamotrygon schroederi,Raya Tigrita,Spanish; Castilian,false
+161365,Potamotrygon schroederi,Tiger Ray,English,true
+161425,Raja undulata,Undulate Ray,English,false
+161425,Raja undulata,Raia Curva,Portuguese,false
+161425,Raja undulata,Raie Brunette,French,false
+161425,Raja undulata,Raya Mosaica,Spanish; Castilian,false
+161425,Raja undulata,Razza Ondulata,Italian,false
+161425,Raja undulata,Undulate Skate,English,true
+161572,Potamotrygon castexi,Vermiculate River Stingray,English,true
+161573,Potamotrygon yepezi,Raya,Spanish; Castilian,false
+161573,Potamotrygon yepezi,Raya de Rio,Spanish; Castilian,false
+161573,Potamotrygon yepezi,Maracaibo River Stingray,English,true
+161657,Potamotrygon histrix,Liba Spari,English,false
+161657,Potamotrygon histrix,Spar,English,false
+161657,Potamotrygon histrix,Tjoeboela,English,false
+161657,Potamotrygon histrix,Arraia,Portuguese,false
+161657,Potamotrygon histrix,Arraia Pinheira,Portuguese,false
+161657,Potamotrygon histrix,Autobo,French,false
+161657,Potamotrygon histrix,Chipali,French,false
+161657,Potamotrygon histrix,Common Stingray,Portuguese,false
+161657,Potamotrygon histrix,Gemeier Stechrochen,German,false
+161657,Potamotrygon histrix,Ibochinado,French,false
+161657,Potamotrygon histrix,Marmorierter Süsswasserrochen,German,false
+161657,Potamotrygon histrix,Raia Clara,Portuguese,false
+161657,Potamotrygon histrix,Raie d´Eau Douce,French,false
+161657,Potamotrygon histrix,Raie Rivière,French,false
+161657,Potamotrygon histrix,Raya Barrosa,Spanish; Castilian,false
+161657,Potamotrygon histrix,Raya Parada,Spanish; Castilian,false
+161657,Potamotrygon histrix,Saipali,French,false
+161657,Potamotrygon histrix,Sipari,French,false
+161657,Potamotrygon histrix,Stekelvarkenzoetwaterrog,Dutch; Flemish,false
+161657,Potamotrygon histrix,Tiouba,French,false
+161657,Potamotrygon histrix,Tiouboula,French,false
+161657,Potamotrygon histrix,Tounaya,French,false
+161657,Potamotrygon histrix,Xoub,French,false
+161657,Potamotrygon histrix,Xouba,French,false
+161657,Potamotrygon histrix,Yawaiwiy,French,false
+161657,Potamotrygon histrix,Porcupine River Stingray,English,true
+161687,Potamotrygon brachyura,Giant Freshwater Stingray,English,true
+161691,Raja brachyura,Blonde Ray,English,false
+161691,Raja brachyura,Blonde Skate,English,true
+161699,Plesiotrygon iwamae,Antenna Ray,English,true
+165302,Potamotrygon constellata,Thorny River Stingray,English,true
+165303,Potamotrygon ocellata,Red-blotched River Stingray,English,true
+39400,Raja microocellata,Smalleyed Ray,English,false
+39400,Raja microocellata,Smalleyed Skate,English,true
+39402,Potamotrygon henlei,Arraia De Fogo,Portuguese,false
+39402,Potamotrygon henlei,Bigtooth River Stingray,English,true
+39403,Potamotrygon leopoldi,Xingu River Ray,English,false
+39403,Potamotrygon leopoldi,Xingu Freshwater Stingray,English,true
+39404,Potamotrygon motoro,Ocellate River Stingray,English,true
+44593,Potamotrygon schuemacheri,Parana River Stingray,English,false
+44593,Potamotrygon schuemacheri,Raya,Spanish; Castilian,false
+44594,Potamotrygon scobina,Arraia,English,false
+44594,Potamotrygon scobina,Raia Pintada,Portuguese,false
+44594,Potamotrygon scobina,Raia Preta,Portuguese,false
+44594,Potamotrygon scobina,Stechrochen,German,false
+44594,Potamotrygon scobina,Raspy River Stingray,English,true
+60134,Torpedo panthera,Leopard Torpedo,English,false
+60134,Torpedo panthera,Panther Torpedo,English,true
+61408,Rostroraja alba,Bottlenose Skate,English,false
+61408,Rostroraja alba,Spearnose Skate,English,false
+61408,Rostroraja alba,Raie Blanche,French,false
+61408,Rostroraja alba,Raya Bramante,Spanish; Castilian,false
+61408,Rostroraja alba,Razza Bianca,Italian,false
+61408,Rostroraja alba,White Skate,English,true
+63146,Raja montagui,Spotted Ray,English,false
+63146,Raja montagui,Raie Douce,French,false
+63146,Raja montagui,Raya Pintada,Spanish; Castilian,false
+63146,Raja montagui,Razza Maculate,Italian,false
+63146,Raja montagui,Spotted Skate,English,true
+14134315,Dipturus canutus,Grey Skate,English,true
+161339,Raja radula,Rough Ray,English,false
+161339,Raja radula,Raie Râpe,French,false
+161339,Raja radula,Raya Áspera,Spanish; Castilian,false
+161339,Raja radula,Rough Skate,English,true
+197086,Rajella fyllae,Fyllasrochen,German,false
+197086,Rajella fyllae,Fylla's Rog,Dutch; Flemish,false
+197086,Rajella fyllae,Kruglyi Skat,Russian,false
+197086,Rajella fyllae,Pólskata,Icelandic,false
+197086,Rajella fyllae,Raie Ronde,French,false
+197086,Rajella fyllae,Raya Redonda,Spanish; Castilian,false
+197086,Rajella fyllae,Rundskate,"Norwegian Nynorsk; Nynorsk, Norwegian",false
+197086,Rajella fyllae,Round Skate,English,true
+197087,Squatina dumeril,Sand Devil,English,false
+197087,Squatina dumeril,Ange de mer de sable,French,false
+197087,Squatina dumeril,Tiburon Angel,Spanish; Castilian,false
+197087,Squatina dumeril,Atlantic Angelshark,English,true
+161380,Cephaloscyllium sarawakensis,Sarawak Pygmy Swell Shark,English,true
+42566169,Aetobatus ocellatus,Ocellated Eagle Ray,English,false
+42566169,Aetobatus ocellatus,Sharpwing Eagle Ray,English,false
+42566169,Aetobatus ocellatus,Spotted Duckbill Ray,English,false
+42566169,Aetobatus ocellatus,Hihimanu,Rapanui,false
+42566169,Aetobatus ocellatus,Indische adelaarsrog,Dutch; Flemish,false
+42566169,Aetobatus ocellatus,Laiguline haugasrai,Estonian,false
+42566169,Aetobatus ocellatus,Raie léopard,French,false
+42566169,Aetobatus ocellatus,Siba puntíkatá,Czech,false
+42566169,Aetobatus ocellatus,斑点鹞鲼,Chinese,false
+42566169,Aetobatus ocellatus,斑點鷂鱝,Chinese,false
+42566169,Aetobatus ocellatus,睛斑鷂鱝,Chinese,false
+42566169,Aetobatus ocellatus,睛斑鹞鲼,Chinese,false
+42566169,Aetobatus ocellatus,Spotted Eagle Ray,English,true
+42568145,Cruriraja hulleyi,Hulley's Pgymy Skate,English,false
+42568145,Cruriraja hulleyi,Roughnose Legskate,English,true
+43270317,Trygonorrhina dumerilii,Banjo Shark,English,false
+43270317,Trygonorrhina dumerilii,Fiddler,English,false
+43270317,Trygonorrhina dumerilii,Green Skate,English,false
+43270317,Trygonorrhina dumerilii,Magpie Fiddler Ray,English,false
+43270317,Trygonorrhina dumerilii,Parrit,English,false
+43270317,Trygonorrhina dumerilii,Southern Fiddler,English,false
+43270317,Trygonorrhina dumerilii,Southern Fiddler Ray,English,true
+41866,Trygonorrhina fasciata,Banjo Shark,English,false
+41866,Trygonorrhina fasciata,Eastern Fiddler Ray,English,true
+161551,Deania profundorum,Squale-savate Lutin,French,false
+161551,Deania profundorum,Tollo Flecha,Spanish; Castilian,false
+161551,Deania profundorum,Arrowhead Dogfish,English,true
+63100,Dipturus oxyrinchus,Sharpnose Skate,English,false
+63100,Dipturus oxyrinchus,Picon,Spanish; Castilian,false
+63100,Dipturus oxyrinchus,Pocheteau Noir,French,false
+63100,Dipturus oxyrinchus,Razza Monaca,Italian,false
+63100,Dipturus oxyrinchus,Longnosed Skate,English,true
+161666,Neoraja caerulea,Blue Pygmy Skate,English,true
+161673,Raja polystigma,Speckled Ray,English,false
+161673,Raja polystigma,Raie Douce,French,false
+161673,Raja polystigma,Raie Tachetée,French,false
+161673,Raja polystigma,Raya Manchada,Spanish; Castilian,false
+161673,Raja polystigma,Raya Pintada,Spanish; Castilian,false
+161673,Raja polystigma,Razza Di Montagu,Italian,false
+161673,Raja polystigma,Speckled Skate,English,true
+161383,Neoraja iberica,Iberischer Zwergrochen,German,false
+161383,Neoraja iberica,Raia Pigméia Ibérica,Portuguese,false
+161383,Neoraja iberica,Raie Pygmée Ibérique,French,false
+161383,Neoraja iberica,Raya Pigmea Ibérica,Spanish; Castilian,false
+161383,Neoraja iberica,Iberian Pygmy Skate,English,true
+63120,Raja asterias,Starry Ray,English,false
+63120,Raja asterias,Raie Ètoilée,French,false
+63120,Raja asterias,Raya Estrellada,Spanish; Castilian,false
+63120,Raja asterias,Razza Stellata,Italian,false
+63120,Raja asterias,Starry Skate,English,true
+63125,Malacoraja kreffti,Raie De Krefft,French,false
+63125,Malacoraja kreffti,Raya De Krefft,Spanish; Castilian,false
+63125,Malacoraja kreffti,Krefft’s Skate,English,true
+161475,Hydrolagus lusitanicus,Coelho,Portuguese,true
+44207,Apristurus aphyodes,White Ghost Catshark,English,true
+161729,Dipturus nidarosiensis,Norwegian Skate,English,true
+161461,Leucoraja fullonica,Shagreen Skate,English,true
+161464,Leucoraja circularis,Sandy Skate,English,true
+161459,Raja maderensis,Madeira Skate,English,true
+161705,Galeus murinus,Chien Nordique,French,false
+161705,Galeus murinus,Mouse Catshark,English,true
+161626,Leucoraja naevus,Cuckoo Skate,English,true
+161622,Rajella kukujevi,Mid-Atlantic Skate,English,true
+61405,Leucoraja melitensis,Maltese Ray,English,false
+61405,Leucoraja melitensis,Raie De Malte,French,false
+61405,Leucoraja melitensis,Razza Maltese,Italian,false
+61405,Leucoraja melitensis,Maltese Skate,English,true
+161463,Rhinoptera marginata,Gavilán lusitánico,Spanish; Castilian,false
+161463,Rhinoptera marginata,Mourine lusitanienne,French,false
+161463,Rhinoptera marginata,Lusitanian Cownose Ray,English,true
+39375,Carcharhinus melanopterus,Blacktip Reef Shark,English,true
+58431796,Potamotrygon tigrina,Raya Amazonica,Spanish; Castilian,true
+161385,Potamotrygon magdalenae,Magdalena River Stingray,English,false
+161385,Potamotrygon magdalenae,Raya del Magdalena,Spanish; Castilian,false
+161385,Potamotrygon magdalenae,Raya de Río,Spanish; Castilian,false
+161385,Potamotrygon magdalenae,Magdalena Freshwater Stingray,English,true
+84784918,Aetomylaeus nichofii,Banded Eagle Ray,English,true
+60121,Aetomylaeus vespertilio,Reticulate Eagle Ray,English,false
+60121,Aetomylaeus vespertilio,Ornate Eagle Ray,English,true
+161597,Alopias pelagicus,Fox Shark,English,false
+161597,Alopias pelagicus,Pelagic Thresher,English,false
+161597,Alopias pelagicus,Smalltooth Thresher Shark,English,false
+161597,Alopias pelagicus,Thresher Shark,English,false
+161597,Alopias pelagicus,Whiptail Shark,English,false
+161597,Alopias pelagicus,환도상어,Korean,false
+161597,Alopias pelagicus,Akno,Chamorro,false
+161597,Alopias pelagicus,Avavee-rebashai,Estonian,false
+161597,Alopias pelagicus,Cá Nhàm đuôi dài,Vietnamese,false
+161597,Alopias pelagicus,Chalarm hang-daab,Thai,false
+161597,Alopias pelagicus,Cucut pedang,Indonesian,false
+161597,Alopias pelagicus,Hiu lancur,Indonesian,false
+161597,Alopias pelagicus,Hiu monyet,Indonesian,false
+161597,Alopias pelagicus,Hiu tikus,Indonesian,false
+161597,Alopias pelagicus,Hiu tikus,Indonesian,false
+161597,Alopias pelagicus,Hwan-do-sang-ǒ,Korean,false
+161597,Alopias pelagicus,Ikupi,Tokelau,false
+161597,Alopias pelagicus,Kleintand-sambokhaai,Afrikaans,false
+161597,Alopias pelagicus,Kooseh-e-derazdom,Persian,false
+161597,Alopias pelagicus,Mano hi'uka,Hawaiian,false
+161597,Alopias pelagicus,Mano laukahi'u,Hawaiian,false
+161597,Alopias pelagicus,Nitari,Japanese,false
+161597,Alopias pelagicus,Onagazame,Japanese,false
+161597,Alopias pelagicus,Pating,Philippine (Other),false
+161597,Alopias pelagicus,Pelagický žralok mlatec,Czech,false
+161597,Alopias pelagicus,Pelagische voshaai,Dutch; Flemish,false
+161597,Alopias pelagicus,Qiǎn hǎi cháng wěi shā,Chinese,false
+161597,Alopias pelagicus,Renard pélagique,French,false
+161597,Alopias pelagicus,Requin-renard,French,false
+161597,Alopias pelagicus,Requin renard pélagique,French,false
+161597,Alopias pelagicus,Stillahavsrävhaj,Swedish,false
+161597,Alopias pelagicus,Stillehavsrævehaj,Danish,false
+161597,Alopias pelagicus,Terng boi suar,Malay,false
+161597,Alopias pelagicus,Tiburon zorro,Spanish; Castilian,false
+161597,Alopias pelagicus,Tikusan,Indonesian,false
+161597,Alopias pelagicus,Tubarão-raposo-do-Indico,Portuguese,false
+161597,Alopias pelagicus,Ulappakettuhai,Finnish,false
+161597,Alopias pelagicus,Yee tikoh,Indonesian,false
+161597,Alopias pelagicus,Yu ekor panjang,Malay,false
+161597,Alopias pelagicus,Yu tikus,Malay,false
+161597,Alopias pelagicus,Zorro de mar,Spanish; Castilian,false
+161597,Alopias pelagicus,Zorro pelágico,Spanish; Castilian,false
+161597,Alopias pelagicus,Zorro pelágico,Portuguese,false
+161597,Alopias pelagicus,قرش الدراس   - قط البحار,Arabic,false
+161597,Alopias pelagicus,акула лисья,Russian,false
+161597,Alopias pelagicus,лисья-акула,Russian,false
+161597,Alopias pelagicus,浅海狐鲛,Chinese,false
+161597,Alopias pelagicus,浅海长尾鲨,Chinese,false
+161597,Alopias pelagicus,淺海狐鮫,Chinese,false
+161597,Alopias pelagicus,淺海長尾鯊,Chinese,false
+161597,Alopias pelagicus,长尾沙,Chinese,false
+161597,Alopias pelagicus,Pelagic Thresher,English,true
+63119,Amblyraja hyperborea,Blackbelly Skate,English,false
+63119,Amblyraja hyperborea,Boreal Skate,English,false
+63119,Amblyraja hyperborea,Arktisk Rokke,Danish,false
+63119,Amblyraja hyperborea,Ishavsskøta,Faroese,false
+63119,Amblyraja hyperborea,Isskate,Norwegian,false
+63119,Amblyraja hyperborea,Raie Arctique,French,false
+63119,Amblyraja hyperborea,Raie Boréale,French,false
+63119,Amblyraja hyperborea,Raja Polarna,Polish,false
+63119,Amblyraja hyperborea,Raya Ártica,Spanish; Castilian,false
+63119,Amblyraja hyperborea,Severnyi Skat,Russian,false
+63119,Amblyraja hyperborea,Skjótta Skata,Icelandic,false
+63119,Amblyraja hyperborea,Arctic Skate,English,true
+41718,Apristurus albisoma,White-bodied Catshark,English,true
+42701,Apristurus ampliceps,Roughskin Catshark,English,true
+42703,Apristurus bucephalus,Bighead Catshark,English,true
+44217,Apristurus longicephalus,Smoothbelly Catshark,English,false
+44217,Apristurus longicephalus,Holbiche À Grande Tête,French,false
+44217,Apristurus longicephalus,Pejegato Cabezón,Spanish; Castilian,false
+44217,Apristurus longicephalus,Longhead Catshark,English,true
+161596,Aptychotrema rostrata,Banks Shovelnose Ray,English,false
+161596,Aptychotrema rostrata,Eragoni,English,false
+161596,Aptychotrema rostrata,Shovelnose Shark,English,false
+161596,Aptychotrema rostrata,Eastern Shovelnose Ray,English,true
+60179,Aptychotrema timorensis,Spotted Shovelnose Ray,English,true
+44186,Aptychotrema vincentiana,Southern Shovelnose Ray,English,false
+44186,Aptychotrema vincentiana,Yellow Shovelnose Ray,English,false
+44186,Aptychotrema vincentiana,Western Shovelnose Ray,English,true
+41720,Asymbolus analis,Australian Spotted Catshark,English,false
+41720,Asymbolus analis,Grey Spotted Catshark,English,true
+41721,Asymbolus funebris,Blotched Catshark,English,true
+41722,Asymbolus occiduus,Western Spotted Catshark,English,true
+41723,Asymbolus pallidus,Pale Spotted Catshark,English,true
+41724,Asymbolus parvus,Dwarf Catshark,English,true
+41725,Asymbolus rubiginosus,Rusty Catshark,English,false
+41725,Asymbolus rubiginosus,Spotted Catshark,English,false
+41725,Asymbolus rubiginosus,Orange Spotted Catshark,English,true
+41726,Asymbolus submaculatus,Saddled Catshark,English,false
+41726,Asymbolus submaculatus,Variegated Catshark,English,true
+41727,Asymbolus vincenti,Gulf Catshark,English,true
+41728,Atelomycterus fasciatus,Banded Catshark,English,true
+41729,Atelomycterus macleayi,Marbled Catshark,English,false
+41729,Atelomycterus macleayi,Australian Marbled Catshark,English,true
+161434,Atelomycterus marnkalha,Eastern Banded Catshark,English,true
+41731,Aulohalaelurus labiosus,Black Spotted Catshark,English,true
+161387,Bathyraja ishiharai,Ishihara's Skate,English,false
+161387,Bathyraja ishiharai,Abyssal Skate,English,true
+39335,Brachaelurus colcloughi,Bluegray Carpetshark,English,false
+39335,Brachaelurus colcloughi,Bluegrey Carpetshark,English,false
+39335,Brachaelurus colcloughi,Colclough's Shark,English,true
+41732,Brachaelurus waddi,Blind Shark,English,true
+44171,Bythaelurus incanus,Sombre Catshark,English,true
+41743,Callorhinchus milii,Elephant Shark,English,false
+41743,Callorhinchus milii,Ghost Shark,English,false
+41743,Callorhinchus milii,Reperepe,English,false
+41743,Callorhinchus milii,Whitefish,English,false
+41743,Callorhinchus milii,Elephant Fish,English,true
+40797,Carcharhinus amblyrhynchoides,Chalarm Nah-moo,Thai,false
+40797,Carcharhinus amblyrhynchoides,Cucut lanjaman,Javanese,false
+40797,Carcharhinus amblyrhynchoides,Pating,Philippine (Other),false
+40797,Carcharhinus amblyrhynchoides,Yu,Malay,false
+40797,Carcharhinus amblyrhynchoides,قِرش نحيف,Arabic,false
+40797,Carcharhinus amblyrhynchoides,Graceful Shark,English,true
+41733,Carcharhinus cautus,Nervous Shark,English,true
+70680197,Carcharhinus dussumieri,Widemouth Blackspot Shark,English,false
+70680197,Carcharhinus dussumieri,قرش ذو الخدود البيضاء,Arabic,false
+70680197,Carcharhinus dussumieri,Whitecheek Shark,English,true
+41735,Carcharhinus fitzroyensis,Creek Whaler,English,true
+41738,Carcharhinus sealei,Requin À Tache Noir,French,false
+41738,Carcharhinus sealei,Tiburón Alinegro,Spanish; Castilian,false
+41738,Carcharhinus sealei,Blackspot Shark,English,true
+41739,Carcharhinus tilstoni,Blacktip Whaler,English,false
+41739,Carcharhinus tilstoni,Australian Blacktip Shark,English,true
+41740,Centrophorus harrissoni,Dumb Gulper Shark,English,false
+41740,Centrophorus harrissoni,Harrisson's Gulper Shark,English,false
+41740,Centrophorus harrissoni,Harrisson's Dogfish,English,true
+42838,Centrophorus moluccensis,Smallfin Gulper Shark,English,false
+42838,Centrophorus moluccensis,Endeavour Dogfish,English,true
+41871,Centrophorus squamosus,Hiu Botol,Indonesian,false
+41871,Centrophorus squamosus,Quelvacho Negro,Spanish; Castilian,false
+41871,Centrophorus squamosus,Squale-chagrin De L'Atlantique,French,false
+41871,Centrophorus squamosus,Leafscale Gulper Shark,English,true
+195485,Centrophorus westraliensis,Western Gulper Shark,English,true
+41746,Centroscyllium kamoharai,Jelly Shark,English,false
+41746,Centroscyllium kamoharai,Aiguillat Lisse,French,false
+41746,Centroscyllium kamoharai,Hadaka-kasumizame,Japanese,false
+41746,Centroscyllium kamoharai,Hadaka-kasumi-zame,Japanese,false
+41746,Centroscyllium kamoharai,Tollo Negro Liso,Spanish; Castilian,false
+41746,Centroscyllium kamoharai,Bareskin Dogfish,English,true
+41749,Centroscymnus owstonii,Owston's Dogfish,English,false
+41749,Centroscymnus owstonii,Roughskin Dogfish,English,true
+46864,Centroselachus crepidater,Golden Dogfish,English,false
+46864,Centroselachus crepidater,Longnose Velvet Dogfish,English,true
+42706,Cephaloscyllium albipinnum,Whitefin Swellshark,English,true
+174145,Cephaloscyllium cooki,Cook’s Swellshark,English,true
+195422,Cephaloscyllium hiscosellum,Reticulate Swellshark,English,true
+41753,Cephaloscyllium laticeps,Draughtboard Shark,English,false
+41753,Cephaloscyllium laticeps,Nutcracker Shark,English,false
+41753,Cephaloscyllium laticeps,Sleepy Joe,English,false
+41753,Cephaloscyllium laticeps,Australian Swellshark,English,true
+181361,Cephaloscyllium signourum,Flagtail Swellshark,English,true
+42710,Cephaloscyllium speccum,Speckled Swellshark,English,true
+42707,Cephaloscyllium variegatum,Saddled Swellshark,English,true
+42709,Cephaloscyllium zebrum,Narrowbar Swellshark,English,true
+41872,Chiloscyllium punctatum,Brownbanded Bamboo Shark,English,false
+41872,Chiloscyllium punctatum,Grey Carpetshark,English,true
+195427,Chimaera argiloba,Whitefin Chimaera,English,true
+195429,Chimaera fulva,Southern Chimaera,English,true
+60185,Chimaera lignaria,Carpenter’s Chimaera,English,false
+60185,Chimaera lignaria,Giant Purple Chimaera,English,false
+60185,Chimaera lignaria,Giant Chimaera,English,true
+195430,Chimaera macrospina,Longspine Chimaera,English,true
+60187,Chimaera phantasma,Ginzame,Japanese,false
+60187,Chimaera phantasma,Silver Chimaera,English,true
+41794,Chlamydoselachus anguineus,Lizard Shark,English,false
+41794,Chlamydoselachus anguineus,Scaffold Shark,English,false
+41794,Chlamydoselachus anguineus,Frilled Shark,English,true
+161321,Cirrhigaleus australis,Southern Mandarin Shark,English,true
+41797,Hemitrygon fluviorum,Brown Stingray,English,false
+41797,Hemitrygon fluviorum,Estuary Stingaree,English,false
+41797,Hemitrygon fluviorum,Estuary Stingray,English,true
+41798,Deania calcea,Brier Shark,English,false
+41798,Deania calcea,Shovelnose Dogfish,English,false
+41798,Deania calcea,Birdbeak Dogfish,English,true
+161635,Deania quadrispinosa,Squale-savate à Long Nez,French,false
+161635,Deania quadrispinosa,Tollo Trompalarga,Spanish; Castilian,false
+161635,Deania quadrispinosa,Longsnout Dogfish,English,true
+195443,Dentiraja flindersi,Pygmy Thornback Skate,English,true
+161489,Dentiraja lemprieri,Denticulate Skate,English,false
+161489,Dentiraja lemprieri,Lempriere's Skate,English,false
+161489,Dentiraja lemprieri,Thornback Skate,English,true
+195444,Dipturus acrobelus,Brown Bight Skate,English,false
+195444,Dipturus acrobelus,Deepwater Skate,English,true
+195445,Dipturus apricus,Pale Tropical Skate,English,true
+161637,Dentiraja australis,Sydney Skate,English,true
+161329,Dentiraja cerva,White-spotted Skate,English,true
+195446,Dentiraja endeavouri,Endeavour Skate,English,true
+195447,Dentiraja falloarga,Eye Skate,English,false
+195447,Dentiraja falloarga,False Argus Skate,English,true
+195448,Dipturus grahamorum,Graham's Skate,English,true
+161535,Dipturus gudgeri,Greenback Skate,English,false
+161535,Dipturus gudgeri,Bight Skate,English,true
+195449,Dentiraja healdi,Leyland's Skate,English,false
+195449,Dentiraja healdi,Heald's Skate,English,true
+195450,Dipturus melanospilus,Blacktip Skate,English,true
+195451,Dentiraja oculus,Ocellate Skate,English,true
+202053,Dentiraja polyommata,Argus Skate,English,true
+195452,Dipturus queenslandicus,Queensland Deepwater Skate,English,true
+195453,Dipturus wengi,Weng's Skate,English,true
+41802,Echinorhinus cookei,Spinous Shark,English,false
+41802,Echinorhinus cookei,Prickly Shark,English,true
+161649,Etmopterus brachyurus,Short-tail Lanternshark,English,true
+41805,Etmopterus dianthus,Pink Lanternshark,English,true
+41806,Etmopterus dislineatus,Lined Lanternshark,English,true
+41807,Etmopterus evansi,Blackmouth Lanternshark,English,true
+41808,Etmopterus fusus,Pygmy Lanternshark,English,true
+161407,Etmopterus molleri,Moller's Lanternshark,English,false
+161407,Etmopterus molleri,Slendertail Lanternshark,English,true
+124696811,Etmopterus unicolor,Brown Lanternshark,English,true
+41873,Eucrossorhinus dasypogon,Tasselled Wobbegong,English,true
+41810,Eusphyra blochii,Slender Hammerhead,English,false
+41810,Eusphyra blochii,Aqrun,Arabic,false
+41810,Eusphyra blochii,قرش ذو الرأس الجناحي,Arabic,false
+41810,Eusphyra blochii,Winghead Shark,English,true
+41811,Figaro boardmani,Banded Shark,English,false
+41811,Figaro boardmani,Sawtail Shark,English,false
+41811,Figaro boardmani,Australian Sawtail Shark,English,true
+42711,Figaro striatus,Northern Sawtail Shark,English,true
+39351,Furgaleus macki,Whiskery Shark,English,true
+41812,Galeus gracilis,Slender Sawtail Shark,English,true
+60166,Glaucostegus granulatus,سمكة السوس,Arabic,false
+60166,Glaucostegus granulatus,Sharpnose Guitarfish,English,true
+104061138,Glaucostegus typus,Giant Shovelnose Ray,English,false
+104061138,Glaucostegus typus,Giant Guitarfish,English,true
+42712,Glyphis garricki,Northern River Shark,English,true
+39379,Glyphis glyphis,Speartooth Shark,English,true
+161342,Gymnura australis,Australian Butterfly Ray,English,true
+42713,Halaelurus sellus,Rusty Catshark,English,true
+161539,Hemigaleus australiensis,Australian Weasel Shark,English,true
+41874,Hemipristis elongata,Fossil Shark,English,false
+41874,Hemipristis elongata,قرش ذو الأسنان البارزة,Arabic,false
+41874,Hemipristis elongata,Snaggletooth Shark,English,true
+41818,Hemiscyllium ocellatum,Epaulette Shark,English,true
+41820,Hemiscyllium trispeculare,Speckled Carpetshark,English,true
+41822,Hemitriakis falcata,Sicklefin Hound Shark,English,true
+41824,Heterodontus galeatus,Crested Bullhead Shark,English,false
+41824,Heterodontus galeatus,Crested Port Jackson Shark,English,false
+41824,Heterodontus galeatus,Crested Hornshark,English,true
+39334,Heterodontus portusjacksoni,Port Jackson Shark,English,true
+41825,Heterodontus zebra,Barred Shark,English,false
+41825,Heterodontus zebra,Bullhead Shark,English,false
+41825,Heterodontus zebra,Zebra Bullhead Shark,English,false
+41825,Heterodontus zebra,Zebra Port Jackson Shark,English,false
+41825,Heterodontus zebra,Maou Urh Sha,Chinese,false
+41825,Heterodontus zebra,Shima-nekozame,Japanese,false
+41825,Heterodontus zebra,Barred Bullhead Shark,English,true
+152781341,Hexanchus nakamurai,Cañabota Ojigrande,Spanish; Castilian,false
+152781341,Hexanchus nakamurai,Requin Vache,French,false
+152781341,Hexanchus nakamurai,Bigeyed Sixgill Shark,English,true
+161674,Hexatrygon bickelli,Sixgill Stingray,English,true
+195456,Himantura leoparda,Pari Bunga,Malay,false
+195456,Himantura leoparda,Pari Macan,Javanese,false
+195456,Himantura leoparda,Leopard Whipray,English,true
+195433,Hydrolagus homonycteris,Black Ghostshark,English,true
+195434,Hydrolagus marmoratus,Marbled Ghostshark,English,true
+41828,Hypnos monopterygius,Crampfish,English,false
+41828,Hypnos monopterygius,Numbie,English,false
+41828,Hypnos monopterygius,Coffin Ray,English,true
+39354,Hypogaleus hyugaensis,Blacktip Topeshark,English,false
+39354,Hypogaleus hyugaensis,Pencil Shark,English,true
+41829,Iago garricki,Longnose Hound Shark,English,true
+161390,Insentiraja laxipella,Eastern Looseskin Skate,English,true
+161553,Insentiraja subtilispinosa,Velvet Skate,English,false
+161553,Insentiraja subtilispinosa,Western Looseskin Skate,English,true
+161655,Irolita waitii,Round Skate,English,false
+161655,Irolita waitii,Southern Round Skate,English,true
+195457,Irolita westraliensis,Western Round Skate,English,true
+195458,Leucoraja pristispina,Sawback Skate,English,true
+39355,Mustelus antarcticus,Sweet William,English,false
+39355,Mustelus antarcticus,Gummy Shark,English,true
+63165,Mustelus ravidus,Grey Gummy Shark,English,true
+42716,Mustelus stevensi,Western Spotted Gummy Shark,English,true
+195426,Mustelus walkeri,Eastern Spotted Gummy Shark,English,true
+161700,Narcinops lasti,Last's Numbfish,English,false
+161700,Narcinops lasti,Western Numbfish,English,true
+60124,Myliobatis hamlyni,Purple Eagle Ray,English,true
+195460,Narcinops nelsoni,Eastern Numbfish,English,true
+195462,Narcinops ornata,Ornate Numbfish,English,true
+161628,Narcinops tasmaniensis,Tasmanian Numbfish,English,true
+161346,Narcinops westraliensis,Banded Numbfish,English,true
+60150,Neotrygon annotata,Brown Stingray,English,false
+60150,Neotrygon annotata,Plain Maskray,English,true
+60156,Neotrygon leylandi,Painted Maskray,English,true
+195463,Neotrygon ningalooensis,Ningaloo Maskray,English,true
+195464,Neotrygon picta,Speckled Maskray,English,true
+195465,Notoraja azurea,Blue Skate,English,true
+161647,Notoraja hirticauda,Ghost Skate,English,true
+161559,Notoraja ochroderma,Pale Skate,English,true
+195468,Notoraja sticta,Blotched Skate,English,true
+195469,Okamejei arafurensis,Arafura Skate,English,true
+195470,Okamejei leptoura,Thintail Skate,English,true
+161664,Orectolobus floridus,Floral Banded Wobbegong,English,true
+161709,Orectolobus halei,Gulf Wobbegong,English,false
+161709,Orectolobus halei,Large Ornate Wobbegong,English,false
+161709,Orectolobus halei,Banded Wobbegong,English,true
+42717,Orectolobus hutchinsi,Western Wobbegong,English,true
+41837,Orectolobus maculatus,Spotted Wobbegong,English,true
+41838,Orectolobus ornatus,Ornate Wobbegong,English,true
+161651,Orectolobus parvimaculatus,Dwarf Spotted Wobbegong,English,true
+195439,Orectolobus reticulatus,Network Wobbegong,English,true
+41839,Orectolobus wardi,Northern Wobbegong,English,true
+41840,Oxynotus bruniensis,Prickly Dogfish,English,true
+41841,Parascyllium collare,Collared Carpetshark,English,true
+195440,Parascyllium elongatum,Elongate Carpetshark,English,true
+41842,Parascyllium ferrugineum,Rusty Carpetshark,English,true
+41843,Parascyllium sparsimaculatum,Ginger Carpetshark,English,true
+41844,Parascyllium variolatum,Necklace Carpetshark,English,false
+41844,Parascyllium variolatum,Varied Carpetshark,English,true
+161337,Pavoraja alleni,Allens Skate,English,true
+195471,Pavoraja arenaria,Yellow Skate,English,false
+195471,Pavoraja arenaria,Sandy Skate,English,true
+195472,Pavoraja mosaica,Mosaic Skate,English,true
+161370,Pavoraja nitida,Graceful Skate,English,false
+161370,Pavoraja nitida,Roughback Skate,English,false
+161370,Pavoraja nitida,Shining Skate,English,false
+161370,Pavoraja nitida,Peacock Skate,English,true
+195473,Pavoraja pseudonitida,False Peacock Skate,English,true
+60111,Plesiobatis daviesi,Deepwater Stingray,English,false
+60111,Plesiobatis daviesi,Giant Stingaree,English,true
+42720,Pristiophorus delicatus,Tropical Sawshark,English,true
+41846,Pristiophorus nudipinnis,Southern Sawshark,English,true
+46865,Scymnodon plunketi,Plunket's Dogfish,English,false
+46865,Scymnodon plunketi,Waite's Dogfish,English,false
+46865,Scymnodon plunketi,Plunket's Shark,English,true
+42721,Rhinobatos sainsburyi,Goldeneye Shovelnose Ray,English,true
+60146,Rhinochimaera pacifica,Knifenose Chimaera,English,false
+60146,Rhinochimaera pacifica,Tengu-ginzame,Japanese,false
+60146,Rhinochimaera pacifica,Pacific Spookfish,English,true
+161530,Rhinoptera neglecta,Flap Ray,English,false
+161530,Rhinoptera neglecta,Australian Cownose Ray,English,true
+41850,Rhizoprionodon acutus,Fish-shark,English,false
+41850,Rhizoprionodon acutus,Longman's Dogshark,English,false
+41850,Rhizoprionodon acutus,White-eyed Shark,English,false
+41850,Rhizoprionodon acutus,Gaîndé goundaw,Arabic,false
+41850,Rhizoprionodon acutus,Taess,Arabic,false
+41850,Rhizoprionodon acutus,Milk Shark,English,true
+41852,Rhizoprionodon taylori,Australian Sharpnose Shark,English,true
+41853,Rhynchobatus australiae,سمكة الوتد ذات الأنف القاروري,Arabic,false
+41853,Rhynchobatus australiae,Bottlenose Wedgefish,English,true
+41855,Scymnodalatias albicauda,Whitetail Dogfish,English,true
+195477,Sinobatis bulbicauda,Western Legskate,English,true
+195478,Sinobatis caerulea,Indigo Legskate,English,false
+195478,Sinobatis caerulea,Blue Legskate,English,true
+195479,Sinobatis filicauda,Eastern Legskate,English,true
+41857,Somniosus antarcticus,Blimp Shark,English,false
+41857,Somniosus antarcticus,Whitely's Sleeper Shark,English,false
+41857,Somniosus antarcticus,Southern Sleeper Shark,English,true
+161496,Spiniraja whitleyi,Great Skate,English,false
+161496,Spiniraja whitleyi,Rough Skate,English,false
+161496,Spiniraja whitleyi,Wedgenose Skate,English,false
+161496,Spiniraja whitleyi,Whitley's Skate,English,false
+161496,Spiniraja whitleyi,Melbourne Skate,English,true
+41858,Squaliolus aliae,Smalleye Pygmy Shark,English,true
+42723,Squalus albifrons,Eastern Highfin Spurdog,English,true
+158616,Squalus altipinnis,Western Highfin Spurdog,English,true
+161360,Squalus chloroculus,Greeneye Spurdog,English,true
+42725,Squalus crassispinus,Fatspine Spurdog,English,true
+158617,Squalus edmundsi,Edmunds’ Spurdog,English,true
+42727,Squalus grahami,Eastern Longnose Spurdog,English,true
+124553086,Squalus megalops,Shortnose Spurdog,English,true
+161404,Squalus montalbani,Philippine Spurdog,English,true
+42726,Squalus nasutus,Western Longnose Spurdog,English,true
+42722,Squalus notocaudatus,Bartail Spurdog,English,true
+42729,Squatina albipunctata,Eastern Angel Shark,English,true
+41862,Squatina australis,Australian Angel Shark,English,true
+42728,Squatina pseudocellata,Western Angel Shark,English,true
+41863,Squatina tergocellata,Archbishop,English,false
+41863,Squatina tergocellata,Ornate Angel Shark,English,true
+41864,Sutorectus tentaculatus,Cobbler Carpet Shark,English,false
+41864,Sutorectus tentaculatus,Cobbler Wobbegong,English,true
+60162,Taeniurops meyeni,Black-blotched Stingray,English,false
+60162,Taeniurops meyeni,Black-spotted Stingray,English,false
+60162,Taeniurops meyeni,Fantail Stingray,English,false
+60162,Taeniurops meyeni,Giant Reef Ray,English,false
+60162,Taeniurops meyeni,Round Ribbontail Ray,English,false
+60162,Taeniurops meyeni,Speckled Stingray,English,false
+60162,Taeniurops meyeni,Pastenague Eventail,French,false
+60162,Taeniurops meyeni,Blotched Fantail Ray,English,true
+60080,Trygonoptera galba,Yellow Shovelnose Stingaree,English,true
+60081,Trygonoptera imitata,Eastern Shovelnose Stingaree,English,true
+60082,Trygonoptera mucosa,Bebil,English,false
+60082,Trygonoptera mucosa,Kejetuck,English,false
+60082,Trygonoptera mucosa,Western Stingaree,English,false
+60082,Trygonoptera mucosa,Western Shovelnose Stingaree,English,true
+60083,Trygonoptera ovalis,Striped Stingaree,English,true
+60084,Trygonoptera personata,Masked Stingaree,English,true
+60085,Trygonoptera testacea,Common Stingaree,English,true
+39413,Urogymnus asperrimus,Porcupine Ray,English,true
+60088,Urolophus bucculentus,Great Stingaree,English,false
+60088,Urolophus bucculentus,Sandyback Stingaree,English,true
+60089,Urolophus circularis,Circular Stingaree,English,true
+60090,Urolophus cruciatus,Crossback Stingaree,English,false
+60090,Urolophus cruciatus,Banded Stingaree,English,true
+60092,Urolophus expansus,Wide Stingaree,English,true
+60093,Urolophus flavomosaicus,Patchwork Stingaree,English,true
+60094,Urolophus gigas,Sinclair’s Stingaree,English,false
+60094,Urolophus gigas,Spotted Stingaree,English,true
+42730,Urolophus kapalensis,Kapala Stingaree,English,true
+60097,Urolophus lobatus,Lobed Stingaree,English,true
+60098,Urolophus mitosis,Blotched Stingaree,English,false
+60098,Urolophus mitosis,Mitotic Stingaree,English,true
+60100,Urolophus orarius,Coastal Stingaree,English,true
+60102,Urolophus paucimaculatus,Dixons Stingaree,English,false
+60102,Urolophus paucimaculatus,White-spotted Stingaree,English,false
+60102,Urolophus paucimaculatus,Sparsely-spotted Stingaree,English,true
+60103,Urolophus piperatus,Coral Sea Stingaree,English,true
+60104,Urolophus sufflavus,Yellowback Stingaree,English,true
+60105,Urolophus viridis,Greenback Stingaree,English,true
+60106,Urolophus westraliensis,Brown Stingaree,English,true
+64442,Dipturus maugeanus,Port Davey Skate,English,false
+64442,Dipturus maugeanus,Maugean Skate,English,true
+18907453,Dasyatis tortonesei,Tortonese's Stingray,English,true
+18903491,Dipturus intermedius,Flapper Skate,English,true
+70679787,Carcharhinus coatesi,Coates's Shark,English,false
+70679787,Carcharhinus coatesi,Australian Blackspot Shark,English,true
+70680908,Carcharhinus tjutjot,Indonesian Whaler Shark,English,true
+70681387,Pavoraja umbrosa,Dusky Skate,English,true
+70686656,Myliobatis tenuicaudatus,Australian Eagle Ray,English,false
+70686656,Myliobatis tenuicaudatus,New Zealand Eagle Ray,English,false
+70686656,Myliobatis tenuicaudatus,Whai Repo,Maori,false
+70686656,Myliobatis tenuicaudatus,Southern Eagle Ray,English,true
+70688138,Dentiraja confusa,Longnose Skate,English,true
+70688333,Rajella challengeri,Challenger Skate,English,true
+42700,Apristurus melanoasper,Black Roughscale Catshark,English,false
+42700,Apristurus melanoasper,Holbiche Noir,French,false
+42700,Apristurus melanoasper,Fleshynose Catshark,English,true
+44222,Apristurus pinguis,Bulldog Catshark,English,true
+44223,Apristurus platyrhynchus,Bigfin Catshark,English,false
+44223,Apristurus platyrhynchus,Borneo Catshark,English,false
+44223,Apristurus platyrhynchus,Spatula Catshark,English,false
+44223,Apristurus platyrhynchus,Spatulasnout Catshark,English,false
+44223,Apristurus platyrhynchus,Herazame,Japanese,false
+44223,Apristurus platyrhynchus,Holbiche Malaise,French,false
+44223,Apristurus platyrhynchus,Holbiche Spatula,French,false
+44223,Apristurus platyrhynchus,Pejegato De Borneo,Spanish; Castilian,false
+44223,Apristurus platyrhynchus,Pejegato Espatulado,Spanish; Castilian,false
+44223,Apristurus platyrhynchus,Flatnose Catshark,English,true
+44225,Apristurus sinensis,Freckled Catshark,English,false
+44225,Apristurus sinensis,Holbiche Chuchu,French,false
+44225,Apristurus sinensis,Pejegato Chino,Spanish; Castilian,false
+44225,Apristurus sinensis,South China Catshark,English,true
+63127,Bathyraja richardsoni,Deepsea Skate,English,false
+63127,Bathyraja richardsoni,Richardson’s Ray,English,false
+63127,Bathyraja richardsoni,Raie De Richardson,French,false
+63127,Bathyraja richardsoni,Raya De Richardson,Spanish; Castilian,false
+63127,Bathyraja richardsoni,Richardson’s Skate,English,true
+60139,Harriotta haeckeli,Quimera De Espina Pequeña,Spanish; Castilian,false
+60139,Harriotta haeckeli,Smallspine Spookfish,English,true
+41875,Hemiscyllium hallstromi,Papuan Epaulette Shark,English,true
+60197,Hydrolagus trolli,Pointynose Blue Chimaera,English,false
+60197,Hydrolagus trolli,Ray Troll’s Chimaera,English,false
+60197,Hydrolagus trolli,Abyssal Ghostshark,English,true
+42718,Parmaturus bigus,Beige Catshark,English,false
+42718,Parmaturus bigus,Holbiche beige,French,false
+42718,Parmaturus bigus,Short-tail Catshark,English,true
+60144,Rhinochimaera africana,Paddlenose Chimaera,English,false
+60144,Rhinochimaera africana,Kuro-tengu-ginzame,Japanese,false
+60144,Rhinochimaera africana,Paddlenose Spookfish,English,true
+41856,Scymnodalatias sherwoodi,Sherwood's Dogfish,English,true
+80671020,Bathyraja panthera,Leopard Skate,English,true
+39333,Heterodontus francisci,Bullhead Shark,English,false
+39333,Heterodontus francisci,California Horn Shark,English,false
+39333,Heterodontus francisci,Horned Shark,English,false
+39333,Heterodontus francisci,Port Jackson Shark,English,false
+39333,Heterodontus francisci,Dormilón Cornudo,Spanish; Castilian,false
+39333,Heterodontus francisci,Requin Dormeur Cornu,French,false
+39333,Heterodontus francisci,Horn Shark,English,true
+44209,Apristurus brunneus,Brown Catshark,English,false
+44209,Apristurus brunneus,Holbiche Brune,French,false
+44209,Apristurus brunneus,Pejegato Marrón,Spanish; Castilian,false
+44215,Apristurus kampae,Holbiche Tapir,French,false
+44215,Apristurus kampae,Pejegato Trompudo,Spanish; Castilian,false
+44215,Apristurus kampae,Longnose Catshark,English,true
+44226,Apristurus spongiceps,Holbiche Tête Molle,French,false
+44226,Apristurus spongiceps,Pejegato Esponjosa,Spanish; Castilian,false
+44226,Apristurus spongiceps,Spongehead Catshark,English,true
+60227,Cephaloscyllium ventriosum,Swellshark,English,false
+60227,Cephaloscyllium ventriosum,Holbiche Ventrue,French,false
+60227,Cephaloscyllium ventriosum,Pejegato Hinchado,Spanish; Castilian,false
+60227,Cephaloscyllium ventriosum,Swell Shark,English,true
+60231,Parmaturus xaniurus,Filetail Catshark,English,true
+161334,Mustelus californicus,Gray Smooth-hound,English,true
+161648,Mustelus henlei,Brown Smoothhound,English,true
+161640,Mustelus lunulatus,Musola Segadora,Spanish; Castilian,false
+161640,Mustelus lunulatus,Sicklefin Smoothhound,English,true
+39363,Triakis semifasciata,Leopard Shark,English,true
+39396,Tetronarce californica,Pacific Electric Ray,English,false
+39396,Tetronarce californica,Pacific Torpedo,English,true
+60177,Zapteryx exasperata,Mottled Guitarfish,English,false
+60177,Zapteryx exasperata,Prickly Skate,English,false
+60177,Zapteryx exasperata,Striped Guitarfish,English,false
+60177,Zapteryx exasperata,Guitarra Pinta,Spanish; Castilian,false
+60177,Zapteryx exasperata,Guitarra Rayada,Spanish; Castilian,false
+60177,Zapteryx exasperata,Banded Guitarfish,English,true
+60112,Platyrhinoidis triseriata,California Thornback,English,false
+60112,Platyrhinoidis triseriata,Thornback,English,false
+60112,Platyrhinoidis triseriata,Thornback Ray,English,true
+2636,Bathyraja abyssicola,Deepsea Skate,English,true
+161661,Bathyraja aleutica,Aryushian-kasube,Japanese,false
+161661,Bathyraja aleutica,АЛЕУТСКИЙ СКАТ,Russian,false
+161661,Bathyraja aleutica,Aleutian Skate,English,true
+161706,Bathyraja kincaidii,Sandpaper Skate,English,true
+161430,Bathyraja lindbergi,Commander Skate,English,true
+161350,Bathyraja maculata,Whiteblotched Skate,English,true
+161319,Bathyraja mariposa,Butterfly Skate,English,true
+161683,Bathyraja microtrachys,Fine-spined Skate,English,true
+161381,Bathyraja minispinosa,Smallthorn Skate,English,false
+161381,Bathyraja minispinosa,Whitebrow Skate,English,true
+161471,Bathyraja parmifera,Isuno-kasube,Japanese,false
+161471,Bathyraja parmifera,ЩИТОНОСНЫЙ СКАТ,Russian,false
+161471,Bathyraja parmifera,Alaska Skate,English,true
+161486,Bathyraja spinosissima,Pacific White Skate,English,true
+161375,Bathyraja trachura,Black Skate,English,false
+161375,Bathyraja trachura,Yasuda-kasube,Japanese,false
+161375,Bathyraja trachura,ГРУБОХВОСТЫЙ СКАТ,Russian,false
+161375,Bathyraja trachura,ЧЕРНЫЙ СКАТ,Russian,false
+161375,Bathyraja trachura,Roughtail Skate,English,true
+161594,Bathyraja violacea,Okhotsk Skate,English,true
+161452,Amblyraja badia,Roughshoulder Skate,English,false
+161452,Amblyraja badia,Broad Skate,English,true
+161466,Beringraja inornata,California Skate,English,true
+161595,Beringraja rhina,Longnose Skate,English,true
+161629,Beringraja stellulata,Prickly Skate,English,false
+161629,Beringraja stellulata,Rock Skate,English,false
+161629,Beringraja stellulata,Starry Skate,English,false
+161629,Beringraja stellulata,Pacific Starry Skate,English,true
+60108,Urobatis halleri,Round Stingray,English,true
+60152,Hypanus dipterurus,Raya Látigo,Spanish; Castilian,false
+60152,Hypanus dipterurus,Raya Lodera,Spanish; Castilian,false
+60152,Hypanus dipterurus,Diamond Stingray,English,true
+39416,Myliobatis californicus,Poncho Gris,Spanish; Castilian,false
+39416,Myliobatis californicus,Raya Murciélago,Spanish; Castilian,false
+39416,Myliobatis californicus,Tecolote,Spanish; Castilian,false
+39416,Myliobatis californicus,Bat Ray,English,true
+60191,Hydrolagus colliei,White-spotted Ratfish,English,false
+60191,Hydrolagus colliei,Spotted Ratfish,English,true
+44514,Centroscyllium nigrum,Pacific Black Dogfish,English,false
+44514,Centroscyllium nigrum,Tollo Fume,Spanish; Castilian,false
+44514,Centroscyllium nigrum,Tollo Negro Peine,Spanish; Castilian,false
+44514,Centroscyllium nigrum,Combtooth Dogfish,English,true
+44205,Trigonognathus kabeyai,Waniguchi-tunozame,Japanese,false
+44205,Trigonognathus kabeyai,Viper Dogfish,English,true
+161402,Bathyraja interrupta,Bering Skate,English,true
+161600,Bathyraja taranetzi,Doro-kasube,Japanese,false
+161600,Bathyraja taranetzi,СКАТ ТАРАНЦА,Russian,false
+161600,Bathyraja taranetzi,Mud Skate,English,true
+44183,Beringraja binoculata,Big Skate,English,true
+83284529,Tetronarce cowleyi,South African Torpedo,English,true
+84785231,Aetomylaeus caeruleofasciatus,Blue-banded Eagle Ray,English,true
+39399,Raja clavata,Thornback Skate,English,true
+41876,Odontaspis ferox,Herbst's Nurse Shark,English,false
+41876,Odontaspis ferox,Ragged-tooth Shark,English,false
+41876,Odontaspis ferox,Sand Shark,English,false
+41876,Odontaspis ferox,Smalltooth Sand Tiger Shark,English,false
+41876,Odontaspis ferox,Requin Feroce,French,false
+41876,Odontaspis ferox,Solrayo,Spanish; Castilian,false
+41876,Odontaspis ferox,Smalltooth Sand Tiger,English,true
+60176,Acroteriobatus zanzibarensis,Zanzibar Guitarfish,English,true
+103933123,Rhinobatos borneensis,Borneo Guitarfish,English,true
+60171,Pseudobatos productus,Northern Guitarfish,English,false
+60171,Pseudobatos productus,Pointed-nosed Guitarfish,English,false
+60171,Pseudobatos productus,Shovelnose Guitarfish,English,true
+104005557,Rhinobatos schlegelii,Sakatazame,Japanese,false
+104005557,Rhinobatos schlegelii,Brown Guitarfish,English,true
+104007203,Rhinobatos whitei,Philippine Guitarfish,English,true
+104019954,Rhynchobatus immaculatus,Taiwanese Wedgefish,English,true
+104021731,Aetobatus laticeps,Pacific Whitespotted Eagle Ray,English,false
+104021731,Aetobatus laticeps,Pacific Eagle Ray,English,true
+104021947,Aetobatus narutobiei,Naru-tobiei,Japanese,false
+104021947,Aetobatus narutobiei,Naru Eagle Ray,English,true
+104025473,Myliobatis ridens,Shortnose Eagle Ray,English,true
+104039923,Bathytoshia brevicaudata,Short-tail Stingray,English,false
+104039923,Bathytoshia brevicaudata,Smooth Stingray,English,true
+104050689,Glaucostegus cemiculus,Guitarra Barbanegra,Spanish; Castilian,false
+104050689,Glaucostegus cemiculus,Pesce Chitarra,Italian,false
+104050689,Glaucostegus cemiculus,Raie-guitare Fouisseuse,French,false
+104050689,Glaucostegus cemiculus,Blackchin Guitarfish,English,true
+104071039,Bathytoshia lata,Brown Stingray,English,true
+104085094,Telatrygon zugei,Pale-edge Sharpnose Ray,English,true
+104087812,Telatrygon crozieri,Indian Sharpnose Ray,English,true
+104110247,Hemitrygon longicauda,Merauke Stingray,English,true
+60148,Hemitrygon akajei,Aka-ei,Japanese,false
+60148,Hemitrygon akajei,Red Stingray,English,true
+161533,Hemitrygon bennetti,Bennett's Stingray,English,true
+195442,Hemitrygon parvonigra,Ikan Pari,Indonesian,false
+195442,Hemitrygon parvonigra,Pari,Malay,false
+195442,Hemitrygon parvonigra,Dwarf Black Stingray,English,true
+181244884,Hypanus americanus,Pastenague Américaine,French,false
+181244884,Hypanus americanus,Raia Cravadora,Portuguese,false
+181244884,Hypanus americanus,Raia-lixa,Portuguese,false
+181244884,Hypanus americanus,Raia-manteiga,Portuguese,false
+181244884,Hypanus americanus,Raia-prego,Portuguese,false
+181244884,Hypanus americanus,Raya Americana,Spanish; Castilian,false
+181244884,Hypanus americanus,Raya Chucho,Spanish; Castilian,false
+181244884,Hypanus americanus,Raya-látigo Americana,Spanish; Castilian,false
+181244884,Hypanus americanus,Southern Stingray,English,true
+44592,Hypanus guttatus,Raia-bico-de-remo,Portuguese,false
+44592,Hypanus guttatus,Raia-lixa,Portuguese,false
+44592,Hypanus guttatus,Raya Latigo Hocicona,Spanish; Castilian,false
+44592,Hypanus guttatus,Longnose Stingray,English,true
+45925,Hypanus marianae,Brazilian Large-eyed Stingray,English,false
+45925,Hypanus marianae,Raia-mariquita,Portuguese,false
+45925,Hypanus marianae,Large-eye Stingray,English,true
+161582,Megatrygon microps,Smalleye Stingray,English,true
+104166970,Neotrygon australiae,Australian Bluespotted Maskray,English,true
+104167060,Neotrygon trigonoides,Coral Sea Maskray,English,true
+60151,Fontitrygon colarensis,Arraia Branca Bicuda,Portuguese,false
+60151,Fontitrygon colarensis,Raia Branca,Portuguese,false
+60151,Fontitrygon colarensis,Colares Stingray,English,true
+39406,Fontitrygon garouaensis,Niger Stingray,English,false
+39406,Fontitrygon garouaensis,Smooth Freshwater Stingray,English,false
+39406,Fontitrygon garouaensis,Smooth Stingray,English,true
+60153,Fontitrygon geijskesi,Pastenague Bécune,French,false
+60153,Fontitrygon geijskesi,Raia Morcego,Portuguese,false
+60153,Fontitrygon geijskesi,Raja-látigo Picúa,Spanish; Castilian,false
+60153,Fontitrygon geijskesi,Wingfin Stingray,English,true
+161495,Fontitrygon margarita,Daisy Whipray,English,true
+39414,Fontitrygon ukpam,Pincushion Ray,English,false
+39414,Fontitrygon ukpam,Thorny Freshwater Stingray,English,false
+39414,Fontitrygon ukpam,Raie pastenague d’eau douce,French,false
+39414,Fontitrygon ukpam,Thorny Whipray,English,true
+104179262,Brevitrygon heterura,Dwarf Whipray,English,true
+104180270,Brevitrygon javaensis,Javan Whipray,English,true
+195455,Maculabatis astra,Coachwhip Ray,English,false
+195455,Maculabatis astra,Tosh's Longtail Ray,English,false
+195455,Maculabatis astra,Tosh's Whipray,English,false
+195455,Maculabatis astra,Wulura,English,false
+195455,Maculabatis astra,Krabene Lai-mang-won,Thai,false
+195455,Maculabatis astra,Pari aer,Indonesian,false
+195455,Maculabatis astra,Pari Rimau,Malay,false
+195455,Maculabatis astra,Pari Tutul,Javanese,false
+195455,Maculabatis astra,Blackspotted Whipray,English,true
+104188627,Maculabatis macrura,Sharpnose Whipray,English,true
+161505,Maculabatis toshi,Brown Whipray,English,true
+161615,Pateobatis fai,Pink Whipray,English,true
+195319,Urogymnus dalyensis,Freshwater Whipray,English,true
+195320,Urogymnus polylepis,Giant Freshwater Ray,English,false
+195320,Urogymnus polylepis,Giant Freshwater Whipray,English,true
+104306073,Pastinachus gracilicaudus,Narrow Cowtail Ray,English,true
+104306247,Pastinachus stellurostris,Starrynose Cowtail Ray,English,true
+39371,Carcharhinus leiodon,Smoothtooth Blacktip,English,false
+39371,Carcharhinus leiodon,Gladtandzwarttiphaai,Dutch; Flemish,false
+39371,Carcharhinus leiodon,Silehambune hallhai,Estonian,false
+39371,Carcharhinus leiodon,قرش ذو الأسنان الناعمة و الأطراف السوداء,Arabic,false
+39371,Carcharhinus leiodon,光齒真鯊,Chinese,false
+39371,Carcharhinus leiodon,光齿真鲨,Chinese,false
+39371,Carcharhinus leiodon,Smoothtooth Blacktip Shark,English,true
+44227,Bythaelurus alcockii,Arabian Catshark,English,false
+44227,Bythaelurus alcockii,Arabian Catshark,English,false
+44227,Bythaelurus alcockii,Arabian Catshark,English,true
+60131,Torpedo adenensis,Aden Gulf Torpedo,English,false
+60131,Torpedo adenensis,Aden Torpedo,English,true
+60143,Neoharriotta pumila,Arabian Sicklefin Chimaera,English,true
+60172,Acroteriobatus salalah,Shippeen,Arabic,false
+60172,Acroteriobatus salalah,Salalah Guitarfish,English,true
+161340,Amblyraja reversa,Reverse Skate,English,true
+161349,Benthobatis moresbyi,Dark Blindray,English,false
+161349,Benthobatis moresbyi,Indian Blind Numbfish,English,true
+161426,Chiloscyllium arabicum,Bamboa Arábiga,Spanish; Castilian,false
+161426,Chiloscyllium arabicum,Grbeh-kooseh-e-arabi,Iranian (Other),false
+161426,Chiloscyllium arabicum,Hayassa,Arabic,false
+161426,Chiloscyllium arabicum,Requin-chabot Camot,French,false
+161426,Chiloscyllium arabicum,قرش الخيزران العربي,Arabic,false
+161426,Chiloscyllium arabicum,Arabian Carpetshark,English,true
+161447,Rhinobatos punctifer,Salfooh,Arabic,false
+161447,Rhinobatos punctifer,سمكة السوس,Arabic,false
+161447,Rhinobatos punctifer,Spotted Guitarfish,English,true
+161470,Apristurus indicus,Smallbelly Catshark,English,true
+161476,Acroteriobatus variegatus,Stripenose Guitarfish,English,true
+161488,Halaelurus boesemani,Speckled Catshark,English,true
+161499,Ctenacis fehlmanni,Requin Chat Arlequin,French,false
+161499,Ctenacis fehlmanni,Tollo Coludo Arlequín,Spanish; Castilian,false
+161499,Ctenacis fehlmanni,Harlequin Catshark,English,true
+161613,Torpedo suessii,Red Sea Torpedo,English,true
+161625,Halaelurus quagga,Quagga Catshark,English,true
+161632,Heteronarce bentuviai,Eilat Sleeper Ray,English,true
+161663,Heteronarce mollis,Lloyd's Electric Ray,English,false
+161663,Heteronarce mollis,Soft Sleeper Ray,English,true
+161690,Narcine oculifera,Oman Electric Ray,English,false
+161690,Narcine oculifera,Anan,Arabic,false
+161690,Narcine oculifera,Fattara,Arabic,false
+161690,Narcine oculifera,Fuki,Arabic,false
+161690,Narcine oculifera,Lukhma,Arabic,false
+161690,Narcine oculifera,Bigeye Numbfish,English,true
+161720,Heterodontus omanensis,Dormilón de Omán,Spanish; Castilian,false
+161720,Heterodontus omanensis,Omaani härghai,Estonian,false
+161720,Heterodontus omanensis,Requin Dormeur d’Oman,French,false
+161720,Heterodontus omanensis,Oman Bullhead Shark,English,true
+161723,Raja pita,Luchma um shook,Arabic,false
+161723,Raja pita,Pita Skate,English,true
+161728,Brevitrygon imbricata,Kabang,Thai,false
+161728,Brevitrygon imbricata,Pari Blentung,Malay,false
+161728,Brevitrygon imbricata,Pari Lalat,Malay,false
+161728,Brevitrygon imbricata,Pari Pasir,Malay,false
+161728,Brevitrygon imbricata,Pari Tanjung,Malay,false
+161728,Brevitrygon imbricata,Bengal Whipray,English,true
+47407786,Maculabatis randalli,Arabian Banded Whipray,English,true
+70682503,Pastinachus sephen,Pastenague Plumetée,English,false
+70682503,Pastinachus sephen,Cowtail Ray,English,true
+103055306,Planonasus parini,Dwarf False Catshark,English,true
+103055459,Apristurus breviventralis,Shortbelly Catshark,English,true
+104023514,Aetomylaeus milvus,Ocellate Eagle Ray,English,true
+107604242,Acroteriobatus omanensis,سمكة السوس,Arabic,false
+107604242,Acroteriobatus omanensis,Oman Guitarfish,English,true
+107604828,Okamejei ornata,Ornate Skate,English,true
+107604987,Maculabatis arabica,Pakistan Whipray,English,true
+104176764,Brevitrygon walga,Dwarf Whipray,English,false
+104176764,Brevitrygon walga,Scaly Whipray,English,true
+112949827,Orbiraja jensenae,Sulu Ring Skate,English,true
+44996,Squatina africana,Afrikaanse Engelhaai,Afrikaans,false
+44996,Squatina africana,Anjo Africano,Portuguese,false
+44996,Squatina africana,African Angelshark,English,true
+161638,Squatina legnota,Indonesian Angel Shark,English,true
+115696622,Carcharhinus obsoletus,False Smalltail Shark,English,false
+115696622,Carcharhinus obsoletus,Lost Shark,English,true
+39369,Carcharhinus hemiodon,قرش بوندشيري,Arabic,false
+39369,Carcharhinus hemiodon,Pondicherry Shark,English,true
+60095,Urolophus javanicus,Java Stingaree,English,true
+39356,Mustelus lenticulatus,Spotted Smoothhound,English,false
+39356,Mustelus lenticulatus,Rig,English,true
+41719,Apristurus exsanguis,Deepwater Catshark,English,false
+41719,Apristurus exsanguis,Pale Catshark,English,false
+41719,Apristurus exsanguis,New Zealand Catshark,English,true
+41752,Cephaloscyllium isabellum,Draughtboard Shark,English,false
+41752,Cephaloscyllium isabellum,Pekapeka,Maori,false
+41752,Cephaloscyllium isabellum,Carpet Shark,English,true
+41799,Dipturus innominatus,New Zealand Smooth Skate,English,false
+41799,Dipturus innominatus,Smooth Skate,English,true
+41800,Dipturus nasutus,New Zealand Rough Skate,English,false
+41800,Dipturus nasutus,Rough Skate,English,true
+41804,Etmopterus caudistigmus,Tailspot Lanternshark,English,false
+41804,Etmopterus caudistigmus,Tailspot Lanternshark,English,true
+41809,Etmopterus pseudosqualiolus,False Pygmy Shark,English,true
+41814,Gollum attenuatus,Slender Smoothhound,English,true
+41826,Hydrolagus bemisi,Pale Ghostshark,English,true
+41827,Hydrolagus novaezealandiae,Dark Ghostshark,English,true
+41845,Parmaturus macmillani,McMillan's Catshark,English,true
+41860,Squalus melanurus,Blacktailed Spurdog,English,true
+116863205,Typhlonarke aysoni,Blind Legged Torpedo,English,false
+116863205,Typhlonarke aysoni,Round Electric Ray,English,false
+116863205,Typhlonarke aysoni,Blind Electric Ray,English,true
+41870,Aulohalaelurus kanakorum,New Caledonia Catshark,English,true
+44170,Bythaelurus dawsoni,New Zealand Catshark,English,false
+44170,Bythaelurus dawsoni,Dawson's Catshark,English,true
+60091,Urolophus deforgesi,Deforge’s Stingaree,English,false
+60091,Urolophus deforgesi,Chesterfield Stingaree,English,true
+60099,Urolophus neocaledoniensis,New Caledonian Stingaree,English,true
+60101,Urolophus papilio,Butterfly Stingaree,English,true
+161382,Bathyraja shuntovi,Narrownose Skate,English,false
+161382,Bathyraja shuntovi,Longnose Deepsea Skate,English,true
+161414,Brochiraja leviveneta,Blue Deepsea Skate,English,true
+161420,Brochiraja spinifera,Prickly Deepsea Skate,English,true
+161469,Squalus raoulensis,Kermadec Spiny Dogfish,English,true
+161500,Brochiraja microspinifera,Small Deepsea Skate,English,true
+161509,Parmaturus albimarginatus,Whitetip Catshark,English,true
+161550,Brochiraja albilabiata,Whitelip Skate,English,true
+161552,Somniosus longus,Frog Shark,English,true
+161577,Arhynchobatis asperrimus,Longtailed Skate,English,true
+161602,Brochiraja asperula,Smooth Deepsea Skate,English,true
+161688,Brochiraja aenigma,Enigma Skate,English,true
+161703,Squalus bucephalus,Bighead Spurdog,English,true
+161717,Scymnodon ringens,Bruja,Spanish; Castilian,false
+161717,Scymnodon ringens,Squale-grogneur Commun,French,false
+161717,Scymnodon ringens,Knifetooth Dogfish,English,true
+161726,Parmaturus albipenis,Holbiche à Sexe Blanc,French,false
+161726,Parmaturus albipenis,White-clasper Catshark,English,true
+195421,Asymbolus galacticus,Chien Étoilé,French,false
+195421,Asymbolus galacticus,Starry Catshark,English,true
+195425,Galeus priapus,Chien Priape,French,false
+195425,Galeus priapus,Phallic Catshark,English,true
+195466,Notoraja lira,Broken Ridge Skate,English,true
+195467,Notoraja sapphira,Raie Saphir,French,false
+195467,Notoraja sapphira,Sapphire Skate,English,true
+195487,Squalus griffini,Brown Dogfish,English,false
+195487,Squalus griffini,Greeneye,English,false
+195487,Squalus griffini,Grey Spiny Dogfish,English,false
+195487,Squalus griffini,Griffin's Dogfish,English,false
+195487,Squalus griffini,Koinga,Maori,false
+195487,Squalus griffini,Oke Oke,Maori,false
+195487,Squalus griffini,Pioke,Maori,false
+195487,Squalus griffini,Northern Spiny Dogfish,English,true
+61417,Squatina aculeata,Monkfish,English,false
+61417,Squatina aculeata,Spiny Angelshark,English,false
+61417,Squatina aculeata,Ange De Mer Épineux,French,false
+61417,Squatina aculeata,Angel,Spanish; Castilian,false
+61417,Squatina aculeata,Angelote Espinudo,Spanish; Castilian,false
+61417,Squatina aculeata,Escat,Catalan; Valencian,false
+61417,Squatina aculeata,Escat Veixigall,Catalan; Valencian,false
+61417,Squatina aculeata,Squadrolino,Italian,false
+61417,Squatina aculeata,Squalo Angelo,Italian,false
+61417,Squatina aculeata,Ακανθορίνα,"Greek, Modern (1453-)",false
+61417,Squatina aculeata,Sawback Angelshark,English,true
+61418,Squatina oculata,Ange De Mer De Bonaparte,French,false
+61418,Squatina oculata,Ange De Mer Jaune,French,false
+61418,Squatina oculata,Ange De Mer Ocellé,French,false
+61418,Squatina oculata,Angel,Spanish; Castilian,false
+61418,Squatina oculata,Angelote,Spanish; Castilian,false
+61418,Squatina oculata,Angelote Manchado,Spanish; Castilian,false
+61418,Squatina oculata,Escat,Catalan; Valencian,false
+61418,Squatina oculata,Escat Veixigall,Catalan; Valencian,false
+61418,Squatina oculata,Pez Angel,Spanish; Castilian,false
+61418,Squatina oculata,Sagrin,Italian,false
+61418,Squatina oculata,Squadrolino,Italian,false
+61418,Squatina oculata,Squadro Pelle Rossa,Italian,false
+61418,Squatina oculata,Venezia,Italian,false
+61418,Squatina oculata,Ματορίνα,"Greek, Modern (1453-)",false
+61418,Squatina oculata,Smoothback Angelshark,English,true
+44571,Squatina armata,Chilean Angelshark,English,true
+39329,Squatina argentina,Longfin Angelshark,English,false
+39329,Squatina argentina,Angelito,Spanish; Castilian,false
+39329,Squatina argentina,Angelote argentino,Spanish; Castilian,false
+39329,Squatina argentina,Cação Anjo de Asa Longa,Portuguese,false
+39329,Squatina argentina,Pez Ángel,Spanish; Castilian,false
+39329,Squatina argentina,Argentine Angelshark,English,true
+116847578,Neotrygon kuhlii,Bluespotted Maskray,English,false
+116847578,Neotrygon kuhlii,Bluespotted Stingray,English,false
+116847578,Neotrygon kuhlii,Kuhl's Maskray,English,true
+116850766,Taeniura lymma,Bluespotted Fantail Ray,English,false
+116850766,Taeniura lymma,Bluespotted Ribbontail,English,false
+116850766,Taeniura lymma,Bluespotted Ribbontail Ray,English,false
+116850766,Taeniura lymma,Ribbontailed Stingray,English,false
+116850766,Taeniura lymma,Bluespotted Lagoon Ray,English,true
+116855477,Taeniura lessoni,Oceania Fantail Ray,English,true
+116855925,Himantura australis,Australian Whipray,English,true
+116855963,Telatrygon biasa,Indonesian Sharpnose Ray,English,true
+116857982,Apristurus garricki,Garrick's Catshark,English,true
+116858686,Centroscymnus macracanthus,Largespine Velvet Dogfish,English,false
+116858686,Centroscymnus macracanthus,Sapata Espinuda,Spanish; Castilian,false
+116858686,Centroscymnus macracanthus,Largespine Velvet Shark,English,true
+116861529,Tetronarce nobiliana,Torpedine Nera,Italian,false
+116861529,Tetronarce nobiliana,Torpille noire,French,false
+116861529,Tetronarce nobiliana,Tremolina Negra,Spanish; Castilian,false
+116861529,Tetronarce nobiliana,Great Torpedo Ray,English,true
+116862720,Tetronarce occidentalis,Western Atlantic Torpedo Ray,English,true
+116863615,Bathyraja leucomelanos,Raie domino,French,false
+116863615,Bathyraja leucomelanos,Domino Skate,English,true
+116863801,Bathyraja pacifica,Pacific Blonde Skate,English,true
+116864194,Brochiraja heuresa,Eureka Skate,English,true
+116864416,Brochiraja vittacauda,Ribbontail Skate,English,true
+116878521,Notoraja alisae,Velcro Skate,English,true
+116878536,Notoraja fijiensis,Fijian Velvet Skate,English,true
+116878550,Notoraja inusitata,Strange Skate,English,true
+116878564,Notoraja longiventralis,Longlobe Velvet Skate,English,true
+116878608,Chimaera carophila,Brown Chimaera,English,true
+116878630,Etmopterus viator,Traveller Lanternshark,English,true
+42704,Apristurus australis,Pinocchio Catshark,English,true
+116880225,Squatina caillieti,Cailliet's Angelshark,English,true
+116880357,Squatina david,Angelote de David,Spanish; Castilian,false
+116880357,Squatina david,David Angelote ,French,false
+116880357,Squatina david,David's Angelshark,English,true
+41861,Squalus rancureli,Aiguillat Cyrano,French,false
+41861,Squalus rancureli,Galludo Cirano,Spanish; Castilian,false
+41861,Squalus rancureli,Cyrano Spurdog,English,true
+39332,Squatina squatina,Angel Shark,English,false
+39332,Squatina squatina,Fiddle fish,English,false
+39332,Squatina squatina,Monkfish,English,false
+39332,Squatina squatina,Agnulu,Corsican,false
+39332,Squatina squatina,Aingueru-guardakoa,Basque,false
+39332,Squatina squatina,Ange,French,false
+39332,Squatina squatina,Ange De Mer,French,false
+39332,Squatina squatina,Ange de Mer Commun,French,false
+39332,Squatina squatina,Angel,French,false
+39332,Squatina squatina,Angel,Catalan; Valencian,false
+39332,Squatina squatina,Angela,Italian,false
+39332,Squatina squatina,Angelo,Italian,false
+39332,Squatina squatina,Angelote,Spanish; Castilian,false
+39332,Squatina squatina,Angelu,Italian,false
+39332,Squatina squatina,Anjo,Portuguese,false
+39332,Squatina squatina,Antjou,French,false
+39332,Squatina squatina,Bourgeois,French,false
+39332,Squatina squatina,Bourget,French,false
+39332,Squatina squatina,Engelhai,German,false
+39332,Squatina squatina,Escat,Catalan; Valencian,false
+39332,Squatina squatina,Keler,Turkish,false
+39332,Squatina squatina,Keler Balığının,Turkish,false
+39332,Squatina squatina,L'anelot,French,false
+39332,Squatina squatina,L'ange,French,false
+39332,Squatina squatina,Martrame,French,false
+39332,Squatina squatina,Meerengel,German,false
+39332,Squatina squatina,Mermejuela,Spanish; Castilian,false
+39332,Squatina squatina,Mordacle,French,false
+39332,Squatina squatina,Pardon,Spanish; Castilian,false
+39332,Squatina squatina,Peixe Anjo,Portuguese,false
+39332,Squatina squatina,Pesce Angelo,Italian,false
+39332,Squatina squatina,Pescio Angeo,Italian,false
+39332,Squatina squatina,Pesciu Anghjulu,Corsican,false
+39332,Squatina squatina,Pez Angel,Spanish; Castilian,false
+39332,Squatina squatina,Razzu,Corsican,false
+39332,Squatina squatina,Rina,Italian,false
+39332,Squatina squatina,Sgheru,Corsican,false
+39332,Squatina squatina,Sguaru,Corsican,false
+39332,Squatina squatina,Sklat,Croatian,false
+39332,Squatina squatina,Sokot,Croatian,false
+39332,Squatina squatina,Squadro,Italian,false
+39332,Squatina squatina,Squadro Bianco,Italian,false
+39332,Squatina squatina,Squadrolino,Italian,false
+39332,Squatina squatina,Squadro Pelle Nera,Italian,false
+39332,Squatina squatina,Squadro Pelle Rossa,Italian,false
+39332,Squatina squatina,Squadru,Italian,false
+39332,Squatina squatina,Squaéna,Italian,false
+39332,Squatina squatina,Squaléna,Italian,false
+39332,Squatina squatina,Squatine Occelee,French,false
+39332,Squatina squatina,Squatronu,Corsican,false
+39332,Squatina squatina,Squatru,Italian,false
+39332,Squatina squatina,Squatru Cefalu,Italian,false
+39332,Squatina squatina,Terrezzino,Italian,false
+39332,Squatina squatina,Viola,Portuguese,false
+39332,Squatina squatina,Violin,Italian,false
+39332,Squatina squatina,Αγγελοκαρχαρίας-Ρίνα,"Greek, Modern (1453-)",false
+39332,Squatina squatina,Angelshark,English,true
+117839264,Apristurus nakayai,Holbiche à iris blanc,French,false
+117839264,Apristurus nakayai,Milk-eye Catshark,English,true
+39394,Rhynchobatus djiddensis,Reuse Sandkruiper,Afrikaans,false
+39394,Rhynchobatus djiddensis,سمكة الوتد المنقط الفاتحة,Arabic,false
+39394,Rhynchobatus djiddensis,Whitespotted Wedgefish,English,true
+161588,Paratrygon aiereba,Ceja Ray,English,false
+161588,Paratrygon aiereba,Arraia Aramassá ou Maramassá,Portuguese,false
+161588,Paratrygon aiereba,Arraia Nari-nari,Portuguese,false
+161588,Paratrygon aiereba,Arraia Paraíba,Portuguese,false
+161588,Paratrygon aiereba,Discusray,Portuguese,false
+161588,Paratrygon aiereba,Raya,Spanish; Castilian,false
+161588,Paratrygon aiereba,Raya Manta,Spanish; Castilian,false
+161588,Paratrygon aiereba,Manzana Ray,English,true
+169473392,Glyphis gangeticus,Ganges Shark,English,true
+39338,Megachasma pelagios,Megamouth Shark,English,true
+39342,Lamna ditropis,"Тихоокеанская сельдевая акула, лососевая акула",Russian,false
+39342,Lamna ditropis,Salmon Shark,English,true
+39345,Haploblepharus edwardsii,Puffadder Shyshark,English,false
+39345,Haploblepharus edwardsii,Happy Eddie,English,true
+39346,Haploblepharus fuscus,Brown Shyshark,English,true
+39348,Poroderma africanum,Striped Catshark,English,false
+39348,Poroderma africanum,Pyjama Shark,English,true
+39349,Scyliorhinus capensis,Geelspikkel-kathaai,Afrikaans,false
+39349,Scyliorhinus capensis,Yellowspotted Catshark,English,true
+39350,Leptocharias smithii,Emissole barbue,French,false
+39350,Leptocharias smithii,Tiburón barbudo,Spanish; Castilian,false
+39350,Leptocharias smithii,Barbeled Houndshark,English,true
+39353,Hemitriakis leucoperiptera,Whitefin Topeshark,English,true
+39357,Mustelus asterias,Starry Smoothhound,English,true
+39358,Mustelus mustelus,Émissole lisse,French,false
+39358,Mustelus mustelus,Musola,Spanish; Castilian,false
+39358,Mustelus mustelus,Common Smoothhound,English,true
+39360,Scylliogaleus quecketti,Flapnose Houndshark,English,true
+39361,Triakis acutipinna,Tollo del Ecuador,Spanish; Castilian,false
+39361,Triakis acutipinna,Sharpfin Houndshark,English,true
+39362,Triakis megalopterus,Sloephaai,Afrikaans,false
+39362,Triakis megalopterus,Spotted Gully Shark,English,true
+39367,Carcharhinus borneensis,Borneo Shark,English,true
+39382,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,English,true
+39407,Hemitrygon laosensis,Mekong Freshwater Stingray,English,false
+39407,Hemitrygon laosensis,Ca duoi bong lao,Vietnamese,false
+39407,Hemitrygon laosensis,Pa fa hang,Lao,false
+39407,Hemitrygon laosensis,Pla fah lai,Thai,false
+39407,Hemitrygon laosensis,Trey bawbel,Central Khmer,false
+39407,Hemitrygon laosensis,Mekong Stingray,English,true
+39771,Dipturus laevis,Barndoor Skate,English,true
+41730,Atelomycterus marmoratus,Chien Corail,French,false
+41730,Atelomycterus marmoratus,Pintarrojia,Spanish; Castilian,false
+41730,Atelomycterus marmoratus,Coral Catshark,English,true
+41745,Centrophorus uyato,Southern Dogfish,English,false
+41745,Centrophorus uyato,Little Gulper Shark,English,true
+41791,Chiloscyllium indicum,Ridgebacked Bamboo Shark,English,false
+41791,Chiloscyllium indicum,Ca Cheo Beo,Vietnamese,false
+41791,Chiloscyllium indicum,Chalarm Gope,Thai,false
+41791,Chiloscyllium indicum,Kau Kang Sha,Chinese,false
+41791,Chiloscyllium indicum,Slender Bambooshark,English,true
+41792,Chiloscyllium griseum,Bamboa Gris,Spanish; Castilian,false
+41792,Chiloscyllium griseum,Requin-chabot Gris,French,false
+41792,Chiloscyllium griseum,قرش الخيزران الرمادي,Arabic,false
+41792,Chiloscyllium griseum,Grey Bamboo Shark,English,true
+41795,Cirrhigaleus barbifer,Hige-Tunozame,Japanese,false
+41795,Cirrhigaleus barbifer,Mandarin Shark,English,true
+41813,Gogolia filewoodi,Sailback Houndshark,English,true
+41816,Hemigaleus microstoma,Sickelfin Weasel Shark,English,true
+41848,Rhina ancylostoma,Mud Skate,English,false
+41848,Rhina ancylostoma,Shark Ray,English,false
+41848,Rhina ancylostoma,الحريري ذو الفم المقوس,Arabic,false
+41848,Rhina ancylostoma,Bowmouth Guitarfish,English,true
+41854,Rhynchobatus laevis,سمكة الوتد ذات الأنف الأملس,Arabic,false
+41854,Rhynchobatus laevis,Smoothnose Wedgefish,English,true
+44206,Oxynotus japonicus,Oroshi-zame,Japanese,false
+44206,Oxynotus japonicus,Japanese Roughshark,English,true
+44210,Apristurus fedorovi,Arame-herazame,Japanese,false
+44210,Apristurus fedorovi,Северная кошачья акула,Russian,false
+44210,Apristurus fedorovi,Stout Catshark,English,true
+44211,Apristurus gibbosus,Humpback Catshark,English,true
+44212,Apristurus herklotsi,Longfin Catshark,English,true
+44213,Apristurus internatus,Shortnose Demon Catshark,English,true
+44214,Apristurus investigatoris,Holbiche Platnez,French,false
+44214,Apristurus investigatoris,Pejegato Ato,Spanish; Castilian,false
+44214,Apristurus investigatoris,Broadnose Catshark,English,true
+44216,Apristurus laurussonii,Pejegato Islándico,Spanish; Castilian,false
+44216,Apristurus laurussonii,Roussette D'Islande,French,false
+44216,Apristurus laurussonii,Iceland Catshark,English,true
+44218,Apristurus macrorhynchus,Naga-herazame,Japanese,false
+44218,Apristurus macrorhynchus,Длиннорылая черная кошачья акула,Russian,false
+44218,Apristurus macrorhynchus,Flathead Catshark,English,true
+44219,Apristurus macrostomus,Broadmouth Catshark,English,true
+44220,Apristurus micropterygeus,Smalldorsal Catshark,English,true
+44224,Apristurus profundorum,Deepwater Catshark,English,false
+44224,Apristurus profundorum,Holbiche Papoila,French,false
+44224,Apristurus profundorum,Pejegato Abisal,Spanish; Castilian,false
+44229,Bythaelurus immaculatus,Spotless Catshark,English,true
+171728748,Pliotrema warreni,Sixgill Sawshark,English,false
+171728748,Pliotrema warreni,Saagbek,Afrikaans,false
+171728748,Pliotrema warreni,Seskief-saaghaai,Afrikaans,false
+171728748,Pliotrema warreni,Warren's Sixgill Sawshark,English,true
+44515,Mollisquama parini,Pocket Shark,English,true
+44563,Centrophorus isodon,Blackfin Gulper Shark,English,true
+44564,Etmopterus sheikoi,Rasptooth Dogfish,English,true
+44567,Centroscyllium granulatum,Tollo Fume,Spanish; Castilian,false
+44567,Centroscyllium granulatum,Tollo Negro Raspa,Spanish; Castilian,false
+44567,Centroscyllium granulatum,Granular Dogfish,English,true
+44568,Oxynotus caribbaeus,Caribbean Roughshark,English,true
+44570,Scymnodalatias oligodon,Sparsetooth Dogfish,English,true
+44572,Apristurus canutus,Holbiche Grise,French,false
+44572,Apristurus canutus,Pejegato Cano,Spanish; Castilian,false
+44572,Apristurus canutus,Hoary Catshark,English,true
+44573,Apristurus nasutus,Holbiche Cyrano,French,false
+44573,Apristurus nasutus,Pejegato Hocicón,Spanish; Castilian,false
+44573,Apristurus nasutus,Largenose Catshark,English,true
+44574,Apristurus stenseni,Holbiche Nébuleuse,French,false
+44574,Apristurus stenseni,Pejegato Panameño,Spanish; Castilian,false
+44574,Apristurus stenseni,Panama Ghost Catshark,English,true
+44576,Bathyraja longicauda,Raya De Cola Larga,Spanish; Castilian,false
+44576,Bathyraja longicauda,Slimtail Skate,English,true
+44579,Heterodontus quoyi,Peruvian Horn Shark,English,false
+44579,Heterodontus quoyi,Tiburón Gato de Galápagos,Spanish; Castilian,false
+44579,Heterodontus quoyi,Tiburón Tamborín,Spanish; Castilian,false
+44579,Heterodontus quoyi,Galápagos Bullhead Shark,English,true
+44580,Mustelus dorsalis,Musola Blanca,Spanish; Castilian,false
+44580,Mustelus dorsalis,Sharptooth Smoothhound,English,true
+44584,Pseudobatos planiceps,Pacific Guitarfish,English,true
+44585,Schroederichthys chilensis,Pintarroja Común,Spanish; Castilian,false
+44585,Schroederichthys chilensis,Chilean Catshark,English,true
+44591,Sphyrna corona,Mallethead Shark,English,false
+44591,Sphyrna corona,Cornuda Coronada,Spanish; Castilian,false
+44591,Sphyrna corona,Requin-marteau Cornu,French,false
+44591,Sphyrna corona,Scalloped Bonnethead,English,true
+44596,Sympterygia brevicaudata,Raya Costera Del Norte,Spanish; Castilian,false
+44596,Sympterygia brevicaudata,Shorttail Fanskate,English,true
+44599,Apristurus manis,Ghost Catshark,English,true
+44600,Anacanthobatis marmorata,Spotted Legskate,English,true
+44601,Indobatis ori,Black Legskate,English,true
+44602,Apristurus saldanha,Saldanha Catshark,English,true
+44604,Bythaelurus clevai,Broadhead Catshark,English,true
+141744346,Bythaelurus lutarius,Bruin Kathaai,Afrikaans,false
+141744346,Bythaelurus lutarius,Mud Catshark,English,true
+44606,Cephaloscyllium sufflans,Blaasophaai,Afrikaans,false
+44606,Cephaloscyllium sufflans,Balloon Shark,English,true
+44607,Dipturus campbelli,Blackspot Skate,English,true
+44608,Dipturus lanceorostratus,Rattail Skate,English,true
+44609,Dipturus pullopunctatus,Slime Skate,English,true
+44610,Dipturus stenorhynchus,Prownose Skate,English,true
+44611,Eridacnis sinuans,African Ribbontail Catshark,English,true
+44612,Halaelurus lineatus,Band-kathaai,Afrikaans,false
+44612,Halaelurus lineatus,Lined Catshark,English,true
+44613,Halaelurus natalensis,Tier-kathaai,Afrikaans,false
+44613,Halaelurus natalensis,Tiger Catshark,English,true
+44615,Neoraja stehmanni,South African Dwarf Skate,English,true
+44617,Pseudoginglymostoma brevicaudatum,Shorttail Nurse Shark,English,true
+44618,Rajella caudaspinosa,Munchkin Skate,English,true
+44619,Rajella leoparda,Leopard Skate,English,true
+44620,Rajella ravidula,Smoothback Skate,English,true
+44621,Torpedo fuscomaculata,Swartspikkel-drilvis,Afrikaans,false
+44621,Torpedo fuscomaculata,Blackspotted Torpedo,English,true
+44639,Apristurus riveri,Holbiche Grandes Oreilles,French,false
+44639,Apristurus riveri,Pejegato Agallón,Spanish; Castilian,false
+44639,Apristurus riveri,Broadgill Catshark,English,true
+44643,Sympterygia lima,Raya Costera Chilena,Spanish; Castilian,false
+44643,Sympterygia lima,Filetail Fanskate,English,true
+44646,Urobatis marmoratus,Chilean Round Ray,English,true
+44647,Urotrygon chilensis,Chilean Round Ray,English,true
+44649,Galeus polli,African Sawtail Catshark,English,true
+44650,Rajella barnardi,Bigthorn Skate,English,true
+44651,Rajella dissimilis,Ghost Skate,English,true
+44652,Amblyraja frerichsi,Thickbody Skate,English,false
+44652,Amblyraja frerichsi,Raya de Hondura,Spanish; Castilian,false
+44652,Amblyraja frerichsi,Thickbody Skate,English,true
+44653,Aculeola nigra,Tollo Negro,Spanish; Castilian,false
+44653,Aculeola nigra,Tollo Negro De Cachos,Spanish; Castilian,false
+44653,Aculeola nigra,Hooktooth Dogfish,English,true
+44654,Gurgesiella furvescens,Dusky Finless Skate,English,true
+44655,Rajella nigerrima,Blackish Skate,English,true
+44657,Apristurus microps,Smalleye Catshark,English,true
+60086,Spinilophus armatus,New Ireland Stingaree,English,true
+60087,Urolophus aurantiacus,Sepia Stingray,English,false
+60087,Urolophus aurantiacus,Oriental Stingaree,English,true
+60096,Urolophus kaianus,Kai Stingaree,English,true
+60107,Urobatis concentricus,Raie Ronde Concentríque,French,false
+60107,Urobatis concentricus,Raya Redonda De Manchas,Spanish; Castilian,false
+60107,Urobatis concentricus,Bullseye Round Ray,English,true
+60110,Urobatis maculatus,Cortez Round Stingray,English,false
+60110,Urobatis maculatus,Spotted Round Ray,English,true
+60113,Gymnura zonura,Zonetail Butterfly Ray,English,true
+60116,Gymnura natalensis,Backwater Butterfly Ray,English,false
+60116,Gymnura natalensis,Diamond Ray,English,true
+60117,Gymnura poecilura,Longtail Butterfly Ray,English,true
+60118,Dipturus crosnieri,Madagascar Skate,English,true
+169243577,Aetobatus flagellum,Longhead Eagle Ray,English,true
+60120,Aetomylaeus maculatus,Mottled Eagle Ray,English,true
+60123,Myliobatis chilensis,Chucho,Spanish; Castilian,false
+60123,Myliobatis chilensis,Peje-aguila,Spanish; Castilian,false
+60123,Myliobatis chilensis,Chilean Eagle Ray,English,true
+60125,Myliobatis longirostris,Snouted Eagle Ray,English,false
+60125,Myliobatis longirostris,Aguila Picuda,Spanish; Castilian,false
+60125,Myliobatis longirostris,Raya Picuda,Spanish; Castilian,false
+60125,Myliobatis longirostris,Longnose Eagle Ray,English,true
+60126,Myliobatis peruvianus,Peruvian Eagle Ray,English,true
+60127,Aetomylaeus bovinus,Bullray,English,false
+60127,Aetomylaeus bovinus,Aigle vachette,French,false
+60127,Aetomylaeus bovinus,Ratão-bispo,Portuguese,false
+60127,Aetomylaeus bovinus,Duckbill Eagle Ray,English,true
+60129,Rhinoptera javanica,Flapnose Ray,English,false
+60129,Rhinoptera javanica,Mayla-cadde,Somali,false
+60129,Rhinoptera javanica,Mourine Javanaise,French,false
+60129,Rhinoptera javanica,Ratãos Cabeçudos,Portuguese,false
+60129,Rhinoptera javanica,Javanese Cownose Ray,English,true
+60130,Rhinoptera steindachneri,Gavilán Negro,Spanish; Castilian,false
+60130,Rhinoptera steindachneri,Pacific Cownose Ray,English,true
+60132,Torpedo andersoni,Caribbean Torpedo,English,true
+60141,Neoharriotta carri,Dwarf Sicklefin Chimaera,English,true
+60142,Neoharriotta pinnata,Sicklefin Chimaera,English,true
+60145,Rhinochimaera atlantica,Broadnose Chimaera,English,false
+60145,Rhinochimaera atlantica,Nishi-tenguginzame,Japanese,false
+60145,Rhinochimaera atlantica,Atlantic Longnose Chimaera,English,true
+60147,Telatrygon acutirostra,Yajiri-ei,Japanese,false
+60147,Telatrygon acutirostra,Sharpnose Ray,English,true
+60155,Hemitrygon izuensis,Izuhime-ei,Japanese,false
+60155,Hemitrygon izuensis,Izu Stingray,English,true
+60157,Hypanus longus,Raya Bagra,Spanish; Castilian,false
+60157,Hypanus longus,Raya De Lo Hondo,Spanish; Castilian,false
+60157,Hypanus longus,Raya Látigo Coluda,Spanish; Castilian,false
+60157,Hypanus longus,Longtail Stingray,English,true
+60158,Hypanus sabinus,Atlantic Stingray,English,true
+60163,Acroteriobatus annulatus,Lesser Sandshark,English,false
+60163,Acroteriobatus annulatus,Lesser Guitarfish,English,true
+60164,Acroteriobatus blochii,Fiddlefish,English,false
+60164,Acroteriobatus blochii,Bluntnose Guitarfish,English,true
+60167,Rhinobatos hynnicephalus,Komon-sakata-zame,Japanese,false
+60167,Rhinobatos hynnicephalus,Ringed Guitarfish,English,true
+60168,Pseudobatos leucorhynchus,Guitarra Trompa Blanca,Spanish; Castilian,false
+60168,Pseudobatos leucorhynchus,Poisson-guitare Nez Blanc,French,false
+60168,Pseudobatos leucorhynchus,Whitesnout Guitarfish,English,true
+60169,Rhinobatos nudidorsalis,Nakedback Guitarfish,English,false
+60169,Rhinobatos nudidorsalis,Bareback Guitarfish,English,true
+60178,Zapteryx xyster,Southern Banded Guitarfish,English,true
+60180,Rhynchobatus luebberti,Spikenose Wedgefish,English,false
+60180,Rhynchobatus luebberti,Poisson-paille Africain,French,false
+60180,Rhynchobatus luebberti,African Wedgefish,English,true
+60182,Rhynchobatus springeri,Broadnose Wedgefish,English,true
+60183,Chimaera cubana,Quimera Cubano,Spanish; Castilian,false
+60183,Chimaera cubana,Cuban Chimaera,English,true
+60184,Chimaera jordani,Jordan-ginzame,Japanese,false
+60184,Chimaera jordani,Jordan’s Chimaera,English,true
+60186,Chimaera owstoni,Shirobuchi-ginzame,Japanese,false
+60186,Chimaera owstoni,Owston’s Chimaera,English,true
+60188,Hydrolagus africanus,African Chimaera,English,true
+60190,Hydrolagus barbouri,Kokonohoshi-ginzame,Japanese,false
+60190,Hydrolagus barbouri,Ninespot Chimaera,English,true
+60193,Hydrolagus macrophthalmus,Bigeye Chimaera,English,true
+60194,Hydrolagus mitsukurii,Mitsukuri's Chimaera,English,true
+130420951,Chimaera ogilbyi,Ogilby’s Chimaera,English,true
+60196,Hydrolagus purpurescens,Purple Ghostshark,English,false
+60196,Hydrolagus purpurescens,Murasaki-ginzame,Japanese,false
+60196,Hydrolagus purpurescens,Purple Chimaera,English,true
+60205,Mustelus minicanis,Mammon Enano,Spanish; Castilian,false
+60205,Mustelus minicanis,Toyo,Spanish; Castilian,false
+60205,Mustelus minicanis,Venezuelan Dwarf Smoothhound,English,true
+60208,Centrophorus tessellatus,Mosaic Dogfish,English,false
+60208,Centrophorus tessellatus,Genrokuzame,Japanese,false
+60208,Centrophorus tessellatus,Mosaic Gulper Shark,English,true
+60211,Heteroscymnoides marleyi,Squale Mignon,French,false
+60211,Heteroscymnoides marleyi,Tollo Pigmeo Trompudo,Spanish; Castilian,false
+60211,Heteroscymnoides marleyi,Longnose Pygmy Shark,English,true
+60213,Somniosus microcephalus,Akula Poliarnaia,Russian,false
+60213,Somniosus microcephalus,Eishai,German,false
+60213,Somniosus microcephalus,Eqalussuaq,Kalaallisut; Greenlandic,false
+60213,Somniosus microcephalus,Haakjaringen,Swedish,false
+60213,Somniosus microcephalus,Haaskjardingen,Swedish,false
+60213,Somniosus microcephalus,Laimargue Du Groenland,French,false
+60213,Somniosus microcephalus,Tiburón Boreal,Spanish; Castilian,false
+60213,Somniosus microcephalus,Tollo De Groenlandia,Spanish; Castilian,false
+60213,Somniosus microcephalus,Greenland Shark,English,true
+124554059,Chiloscyllium plagiosum,Chalarm Lye,Thai,false
+124554059,Chiloscyllium plagiosum,Chalarm Seour,Thai,false
+124554059,Chiloscyllium plagiosum,Pan Chu Sha,Chinese,false
+124554059,Chiloscyllium plagiosum,Shiroboshi-tenjiku,Japanese,false
+124554059,Chiloscyllium plagiosum,Ta Sha,Chinese,false
+124554059,Chiloscyllium plagiosum,Whitespotted Bambooshark,English,true
+60226,Pristiophorus schroederi,American Sawshark,English,false
+60226,Pristiophorus schroederi,Bahamas Sawshark,English,true
+60229,Holohalaelurus melanostigma,Crying Izak Catshark,English,true
+60232,Scyliorhinus meadi,Alitán Pintarrajo,Spanish; Castilian,false
+60232,Scyliorhinus meadi,Roussette cloquée,French,false
+60232,Scyliorhinus meadi,Blotched Catshark,English,true
+60233,Scyliorhinus retifer,Alitán Mallero,Spanish; Castilian,false
+60233,Scyliorhinus retifer,Roussette maille,French,false
+60233,Scyliorhinus retifer,Chain Catshark,English,true
+60234,Scyliorhinus cervigoni,Alitán Africano,Spanish; Castilian,false
+60234,Scyliorhinus cervigoni,Roussette Thalassa,French,false
+60234,Scyliorhinus cervigoni,West African Catshark,English,true
+60235,Heterodontus mexicanus,Mexican Hornshark,English,true
+60237,Etmopterus bullisi,Lined Lanternshark,English,true
+60238,Etmopterus carteri,Carter Gilbert's Lanternshark,English,false
+60238,Etmopterus carteri,Cylindrical Lanternshark,English,true
+60240,Etmopterus perryi,Dwarf Lanternshark,English,true
+60241,Etmopterus polli,Sagre À Menton Lisse,French,false
+60241,Etmopterus polli,Tollo Lucerno Africano,Spanish; Castilian,false
+60241,Etmopterus polli,African Lanternshark,English,true
+60242,Etmopterus princeps,Rough Sagre,French,false
+60242,Etmopterus princeps,Sagre Rude,French,false
+60242,Etmopterus princeps,Tollo Lucero Raspa,Spanish; Castilian,false
+60242,Etmopterus princeps,Great Lanternshark,English,true
+60243,Etmopterus robinsi,West Indian Lanternshark,English,true
+60244,Etmopterus sentosus,Thorny Lanternshark,English,true
+60245,Etmopterus virens,Green Lanternshark,English,true
+60247,Mustelus palumbes,Whitespot Smoothhound,English,true
+61399,Bathyraja aguja,Aguja Skate,English,true
+61400,Bythaelurus canescens,Pejegato Café,Spanish; Castilian,false
+61400,Bythaelurus canescens,Dusky Catshark,English,true
+61401,Diplobatis colombiensis,Colombian Electric Ray,English,false
+61401,Diplobatis colombiensis,Colombian Dwarf Numbfish,English,true
+61402,Diplobatis guamachensis,Brownband Numbfish,English,false
+61402,Diplobatis guamachensis,Torpedo Redondo,Spanish; Castilian,false
+61402,Diplobatis guamachensis,Venezuelan Dwarf Numbfish,English,true
+61403,Diplobatis ommata,Bullseye Electric Ray,English,false
+61403,Diplobatis ommata,Ocellated Electric Ray,English,false
+61403,Diplobatis ommata,Raie Électrique Ocellée,French,false
+61403,Diplobatis ommata,Raya Eléctrica De Ocelo,Spanish; Castilian,false
+61403,Diplobatis ommata,Raya Eléctrica Diana,Spanish; Castilian,false
+61403,Diplobatis ommata,Raya Eléctrica Ocelada,Spanish; Castilian,false
+61403,Diplobatis ommata,Pacific Dwarf Numbfish,English,true
+61406,Narcine brevilabiata,Shortlip Electric Ray,English,false
+61406,Narcine brevilabiata,Shortlip Numbfish,English,true
+63102,Bathyraja albomaculata,Raya de Manchas Blancas,Spanish; Castilian,false
+63102,Bathyraja albomaculata,Rayas de Lunares,Spanish; Castilian,false
+63102,Bathyraja albomaculata,Whitedotted Skate,English,true
+63103,Hydrolagus pallidus,Pale Ghostshark,English,false
+63103,Hydrolagus pallidus,Pale Chimaera,English,true
+63104,Hydrolagus mirabilis,Quimera Ojón,Spanish; Castilian,false
+63104,Hydrolagus mirabilis,Large-eyed Rabbitfish,English,true
+63112,Bathyraja papilionifera,Whitemouth Skate,English,false
+63112,Bathyraja papilionifera,Atlantic Butterfly Skate,English,true
+63113,Bathyraja griseocauda,Greytail Skate,English,false
+63113,Bathyraja griseocauda,Raya Gris,Spanish; Castilian,false
+63113,Bathyraja griseocauda,Raya Lija,Spanish; Castilian,false
+63113,Bathyraja griseocauda,Graytail Skate,English,true
+63114,Chimaera monstrosa,Rabbitfish,English,true
+63115,Bathyraja pallida,Pale Ray,English,false
+63115,Bathyraja pallida,Raie Pále,French,false
+63115,Bathyraja pallida,Raya Pállida,Spanish; Castilian,false
+63115,Bathyraja pallida,Pallid Skate,English,true
+63122,Amblyraja doellojuradoi,Raya,Spanish; Castilian,false
+63122,Amblyraja doellojuradoi,Raya Erizo,Spanish; Castilian,false
+63122,Amblyraja doellojuradoi,Southern Thorny Skate,English,true
+63123,Hydrolagus affinis,Atlantic Chimaera,English,false
+63123,Hydrolagus affinis,Chimère À Petits Yeux,French,false
+63123,Hydrolagus affinis,Quimera Ojo Chico,Spanish; Castilian,false
+63123,Hydrolagus affinis,Small-eyed Rabbitfish,English,true
+63126,Malacoraja spinacidermis,Roughskin Skate,English,false
+63126,Malacoraja spinacidermis,Soft Skate,English,false
+63126,Malacoraja spinacidermis,Prickle Skate,English,true
+63129,Mustelus whitneyi,Musola Prieta,Spanish; Castilian,false
+63129,Mustelus whitneyi,Tollo Común,Spanish; Castilian,false
+63129,Mustelus whitneyi,Humpback Smoothhound,English,true
+63130,Triakis maculata,Tollo Manchado,Spanish; Castilian,false
+63130,Triakis maculata,Virli Tacheté,French,false
+63130,Triakis maculata,Spotted Houndshark,English,true
+63131,Rhinobatos rhinobatos,Violinfish,English,false
+63131,Rhinobatos rhinobatos,Guitare De Mer Commune,French,false
+63131,Rhinobatos rhinobatos,Guitarra,Spanish; Castilian,false
+63131,Rhinobatos rhinobatos,Guitarra Comùn,Spanish; Castilian,false
+63131,Rhinobatos rhinobatos,Guitarró,Spanish; Castilian,false
+63131,Rhinobatos rhinobatos,Pesce Violino,Italian,false
+63131,Rhinobatos rhinobatos,Common Guitarfish,English,true
+63135,Urobatis tumbesensis,Tumbes Round Ray,English,true
+63136,Dipturus ecuadoriensis,Ecuador Skate,English,true
+63140,Psammobatis scobina,Raya Pequén,Spanish; Castilian,false
+63140,Psammobatis scobina,Raspthorn Sandskate,English,true
+63141,Oxynotus centrina,Centrine Commune,French,false
+63141,Oxynotus centrina,Cerdo Marino,Spanish; Castilian,false
+63141,Oxynotus centrina,Pesce Porco,Italian,false
+63141,Oxynotus centrina,Angular Roughshark,English,true
+63145,Bathyraja scaphiops,Raya Nariguda Manchada,Spanish; Castilian,false
+63145,Bathyraja scaphiops,Raya Picuda,Spanish; Castilian,false
+63145,Bathyraja scaphiops,Cuphead Skate,English,true
+63148,Bathyraja peruana,Raya Peruana,Spanish; Castilian,false
+63148,Bathyraja peruana,Peruvian Skate,English,true
+63149,Galeus atlanticus,Chien Atlantique,French,false
+63149,Galeus atlanticus,Gattuccio Atlantico,Italian,false
+63149,Galeus atlanticus,Pintarroja Atlántica,Spanish; Castilian,false
+63149,Galeus atlanticus,Atlantic Sawtail Catshark,English,true
+63154,Narcine leoparda,Leopard Numbfish,English,true
+63155,Rostroraja cervigoni,Raie Yeux Noirs,French,false
+63155,Rostroraja cervigoni,Raya Espinosa,Spanish; Castilian,false
+63155,Rostroraja cervigoni,Venezuela Skate,English,true
+63156,Urotrygon venezuelae,Raya Redonda de Venezuela,Spanish; Castilian,false
+63156,Urotrygon venezuelae,Venezuelan Round Ray,English,true
+63158,Pseudobatos prahli,Gorgona Guitarfish,English,true
+63159,Etmopterus litvinovi,Smalleye Lanternshark,English,true
+63160,Etmopterus pycnolepis,Densescale Lanternshark,English,true
+63162,Rajella eisenhardti,Galápagos Skate,English,true
+63164,Hydrolagus mccoskeri,Galapagos Ghostshark,English,true
+63166,Rhinobatos penggali,Indonesian Guitarfish,English,true
+63167,Rhinobatos jimbaranensis,Jimbaran Guitarfish,English,true
+161317,Benthobatis marcida,Blind Torpedo,English,false
+161317,Benthobatis marcida,Caribbean Blind Numbfish,English,true
+161320,Rhinobatos albomaculatus,Guitarra Pecosa,Spanish; Castilian,false
+161320,Rhinobatos albomaculatus,Poisson-guitare à Lunaires,French,false
+161320,Rhinobatos albomaculatus,Whitespotted Guitarfish,English,true
+161324,Hydrolagus alphus,Whitespot Ghostshark,English,true
+161327,Etmopterus burgessi,Broadnose Lanternshark,English,true
+161328,Torpedo marmorata,Tembladera,Spanish; Castilian,false
+161328,Torpedo marmorata,Torpédine Marmorata,Italian,false
+161328,Torpedo marmorata,Torpille Marbrée,French,false
+161328,Torpedo marmorata,Marbled Torpedo Ray,English,true
+161330,Eridacnis barbouri,Tiburón Turquino,Spanish; Castilian,false
+161330,Eridacnis barbouri,Tollo Coludo Cubano,Spanish; Castilian,false
+161330,Eridacnis barbouri,Cuban Ribbontail Catshark,English,true
+161333,Galeus schultzi,Dwarf Sawtail Catshark,English,true
+161335,Urotrygon rogersi,Raya Redonda de Rogers,Spanish; Castilian,false
+161335,Urotrygon rogersi,Rogers' Round Ray,English,true
+161336,Scyliorhinus boa,Alitán Boa,Spanish; Castilian,false
+161336,Scyliorhinus boa,Roussette boa,French,false
+161336,Scyliorhinus boa,Boa Catshark,English,true
+161338,Beringraja cortezensis,Cortez Skate,English,true
+161341,Cruriraja durbanensis,Smoothnose Pygmy Skate,English,true
+161343,Raja herwigi,Raia de Cabo Verde,Portuguese,false
+161343,Raja herwigi,Cape Verde Skate,English,true
+161344,Rostroraja velezi,Velez Ray,English,false
+161344,Rostroraja velezi,Raie de Vélez,French,false
+161344,Rostroraja velezi,Raya de Velezi,Spanish; Castilian,false
+161344,Rostroraja velezi,Rasptail Skate,English,true
+161345,Rajella bathyphila,Deepwater Skate,English,true
+161347,Neoraja africana,West African Dwarf Skate,English,true
+161348,Fenestraja sibogae,Siboga Pygmy Skate,English,true
+161351,Cirrhoscyllium expolitum,Barbelthroat Carpetshark,English,true
+161354,Dipturus tengu,Cháng-bì-yáo,Chinese,false
+161354,Dipturus tengu,Sal-hong-eo,Korean,false
+161354,Dipturus tengu,Tengu-kasube,Japanese,false
+161354,Dipturus tengu,Acutenose Skate,English,true
+161355,Nasolamia velox,Cazón trompa blanca,Spanish; Castilian,false
+161355,Nasolamia velox,Whitenose Shark,English,true
+161357,Myliobatis tobijei,Kite Ray,English,false
+161357,Myliobatis tobijei,Tobi-ei,Japanese,false
+161357,Myliobatis tobijei,Japanese Eagle Ray,English,true
+161358,Sinobatis melanosoma,Blackbody Legskate,English,false
+161358,Sinobatis melanosoma,Blackbodied Legskate,English,true
+161359,Fenestraja ishiyamai,Plain Pygmy Skate,English,true
+161361,Oxynotus paradoxus,Cerdo Marino Velero,Spanish; Castilian,false
+161361,Oxynotus paradoxus,Humantin,French,false
+161361,Oxynotus paradoxus,Sailfin Roughshark,English,true
+161363,Scymnodon ichiharai,Ichihara-biroudozame,Japanese,false
+161363,Scymnodon ichiharai,Japanese Velvet Dogfish,English,true
+161364,Galeus eastmani,Gecko Catshark,English,true
+161366,Bathyraja spinicauda,Spinetail Ray,English,false
+161366,Bathyraja spinicauda,Spinetail Skate,English,false
+161366,Bathyraja spinicauda,Raie à Queue Épineuse,French,false
+161366,Bathyraja spinicauda,Raya Ferreiro,Spanish; Castilian,false
+161366,Bathyraja spinicauda,Spinytail Skate,English,true
+161367,Apristurus japonicus,Nihon-herazame,Japanese,false
+161367,Apristurus japonicus,Japanese Catshark,English,true
+161368,Hemitriakis complicofasciata,Ornate Topeshark,English,false
+161368,Hemitriakis complicofasciata,Ocellate Topeshark,English,true
+161371,Rajella bigelowi,Arraia,Portuguese,false
+161371,Rajella bigelowi,Bigelow's Rog,Dutch; Flemish,false
+161371,Rajella bigelowi,Raia,Portuguese,false
+161371,Rajella bigelowi,Raie de Bigelow,French,false
+161371,Rajella bigelowi,Raya de Bigelow,Spanish; Castilian,false
+161371,Rajella bigelowi,Bigelow's Skate,English,true
+161372,Bathyraja andriashevi,Скат Андрияшева,Russian,false
+161372,Bathyraja andriashevi,Little-eyed Skate,English,true
+161374,Cruriraja cadenati,Broadfoot Pygmy Skate,English,true
+161377,Rajella lintea,Sailray,English,false
+161377,Rajella lintea,Sail Skate,English,true
+169237868,Sinobatis borneensis,Borneo Legskate,English,true
+161384,Centrophorus atromarginatus,Hiu botol,Javanese,false
+161384,Centrophorus atromarginatus,Hiu senget,Balinese,false
+161384,Centrophorus atromarginatus,Dwarf Gulper Shark,English,true
+161388,Etmopterus spinax,Negrito,Spanish; Castilian,false
+161388,Etmopterus spinax,Sagre commun,French,false
+161388,Etmopterus spinax,Velvet Belly Lanternshark,English,true
+161391,Bathyraja murrayi,Murray's Skate,English,true
+161392,Amblyraja taaf,Whiteleg Skate,English,true
+161393,Dipturus gigas,Zou-kasube,Japanese,false
+161393,Dipturus gigas,Giant Skate,English,true
+161394,Urotrygon simulatrix,Raya Redonda Buhonera,Spanish; Castilian,false
+161394,Urotrygon simulatrix,Fake Round Ray,English,true
+161395,Triakis scyllium,Dochizame,Japanese,false
+161395,Triakis scyllium,Banded Houndshark,English,true
+161396,Aetomylaeus asperrimus,Roughskin Bullray,English,true
+161397,Torpedo torpedo,Common Torpedo Ray,English,false
+161397,Torpedo torpedo,Torpedine Ocellata,Italian,false
+161397,Torpedo torpedo,Torpille Ocellée,French,false
+161397,Torpedo torpedo,Tremolina Común,Spanish; Castilian,false
+161397,Torpedo torpedo,Ocellate Torpedo,English,true
+161398,Galeus melastomus,Blackmouth Catshark,English,true
+161307554,Scyliorhinus canicula,Petite roussette,English,false
+161307554,Scyliorhinus canicula,Pintarroja,Spanish; Castilian,false
+161307554,Scyliorhinus canicula,Smallspotted Catshark,English,true
+161400,Dipturus kwangtungensis,Kwangtung Skate,English,true
+161405,Rhinobatos holcorhynchus,Slender Guitarfish,English,true
+161406,Galeus sauteri,Blacktip Sawtail Catshark,English,true
+161408,Glaucostegus halavi,القرش الحلاوي,Arabic,false
+161408,Glaucostegus halavi,Halavi Guitarfish,English,true
+161409,Rhinobatos irvinei,Irvine Guitarra,Spanish; Castilian,false
+161409,Rhinobatos irvinei,Raie-Guitare d’Irvine,French,false
+161409,Rhinobatos irvinei,Spineback Guitarfish,English,true
+161410,Squalus hemipinnis,Indonesian Shortnose Spurdog,English,true
+161411,Torpedo mackayana,West African Torpedo,English,true
+161415,Breviraja mouldi,Mould's Skate,English,true
+161416,Breviraja claramaculata,Brightspot Skate,English,true
+161417,Centrophorus seychellorum,Seychelles Gulper Shark,English,true
+161418,Leucoraja erinacea,Little Skate,English,true
+161419,Leucoraja garmani,Rosette Skate,English,true
+161421,Okamejei heemstrai,Narrow Skate,English,true
+161422,Breviraja nigriventralis,Blackbelly Shortskate,English,false
+161422,Breviraja nigriventralis,Blackbelly Skate,English,true
+161423,Narcine vermiculata,Raie Électrique Vermiculée,French,false
+161423,Narcine vermiculata,Raya Eléctrica Rayada,Spanish; Castilian,false
+161423,Narcine vermiculata,Raya Eléctrica Vermiculada,Spanish; Castilian,false
+161423,Narcine vermiculata,Vermiculate Numbfish,English,true
+161424,Bathyraja matsubarai,Matsubara-ei,Japanese,false
+161424,Bathyraja matsubarai,Скат Мацубары,Russian,false
+161424,Bathyraja matsubarai,Duskypurple Skate,English,true
+161427,Dipturus bullisi,Tortugas Skate,English,true
+161428,Electrolux addisoni,Ornate Sleeper Ray,English,true
+161429,Scyliorhinus comoroensis,Comoro Catshark,English,true
+161432,Somniosus rostratus,Little Sleeper Shark,English,true
+161433,Squalus japonicus,Togari-Tunozame,Japanese,false
+161433,Squalus japonicus,Japanese Spurdog,English,true
+161308360,Scyliorhinus torazame,Cloudy Catshark,English,false
+161308360,Scyliorhinus torazame,Torazame Catshark,English,true
+161437,Pentanchus profundicolus,Onefin Catshark,English,true
+161438,Squalus brevirostris,Tsunozame,Japanese,false
+161438,Squalus brevirostris,Японская короткорылая акула,Russian,false
+161438,Squalus brevirostris,Japanese Shortnose Spurdog,English,true
+161440,Pseudoraja fischeri,Fanfin Skate,English,true
+161441,Etmopterus villosus,Hawaiian Lanternshark,English,true
+161444,Bathyraja tzinovskii,Tzinovsii Skate,English,false
+161444,Bathyraja tzinovskii,Tzinofusuki-kasube,Japanese,false
+161444,Bathyraja tzinovskii,СКАТ ЦИНОВСКОГО,Russian,false
+161444,Bathyraja tzinovskii,Creamback Skate,English,true
+161446,Rostroraja ackleyi,Ocellate Skate,English,true
+161448,Etmopterus splendidus,Futosimi-Fujikujira,Japanese,false
+161448,Etmopterus splendidus,Splendid Lanternshark,English,true
+161449,Scyliorhinus torrei,Cuban Catshark,English,false
+161449,Scyliorhinus torrei,Whitespotted Catshark,English,false
+161449,Scyliorhinus torrei,Alitán Enano,Spanish; Castilian,false
+161449,Scyliorhinus torrei,Roussette naine,French,false
+161449,Scyliorhinus torrei,Dwarf Catshark,English,true
+161450,Parmaturus lanatus,Holbiche Laineuse,French,false
+161450,Parmaturus lanatus,Velvet Catshark,English,true
+161451,Mustelus albipinnis,Tripa,Spanish; Castilian,false
+161451,Mustelus albipinnis,White-margin Fin Smoothhound,English,true
+161453,Dasyatis pastinaca,Pastenague commune,French,false
+161453,Dasyatis pastinaca,Raya látigo común,Spanish; Castilian,false
+161453,Dasyatis pastinaca,Common Stingray,English,true
+161455,Cephalurus cephalus,Holbiche Tetard,French,false
+161455,Cephalurus cephalus,Pejegato Renacuajo,Spanish; Castilian,false
+161455,Cephalurus cephalus,Lollipop Catshark,English,true
+161457,Pseudobatos glaucostigmus,Speckled Guitarfish,English,true
+161458,Scyliorhinus garmani,Brownspotted Catshark,English,true
+161460,Galeus cadenati,Longfin Sawtail Catshark,English,true
+161462,Bathyraja diplotaenia,Ribbon-kasube,Japanese,false
+161462,Bathyraja diplotaenia,Двухполосый скат,Russian,false
+161462,Bathyraja diplotaenia,Duskypink Skate,English,true
+161465,Pastinachus solocirostris,Roughnose Stingray,English,false
+161465,Pastinachus solocirostris,Roughnose Cowtail Ray,English,true
+161473,Galeus longirostris,Hashinaga-yamorizame,Japanese,false
+161473,Galeus longirostris,Longnose Sawtail Catshark,English,true
+161477,Malacoraja senta,Smooth Skate,English,true
+161478,Rhinobatos annandalei,Annandale's Guitarfish,English,false
+161478,Rhinobatos annandalei,سمكة السوس,Arabic,false
+161478,Rhinobatos annandalei,Bengal Guitarfish,English,true
+161479,Galeus arae,Chien à Queue Rude,French,false
+161479,Galeus arae,Pintarroja Rabolija,Spanish; Castilian,false
+161479,Galeus arae,Roughtail Catshark,English,true
+161483,Hongeo koreana,Korai-kasube,Japanese,false
+161483,Hongeo koreana,Ko-ryo-hong-eo,Korean,false
+161483,Hongeo koreana,Korean Skate,English,true
+161484,Scyliorhinus stellaris,Alitán,Spanish; Castilian,false
+161484,Scyliorhinus stellaris,Grande Roussette,French,false
+161484,Scyliorhinus stellaris,Nursehound,English,true
+161485,Mustelus punctulatus,Emissole Pointillee,French,false
+161485,Mustelus punctulatus,Musola Pimienta,Spanish; Castilian,false
+161485,Mustelus punctulatus,Paolombo Punteggiato,Italian,false
+161485,Mustelus punctulatus,Blackspotted Smoothhound,English,true
+161487,Okamejei meerdervoortii,Mài-shì-jin-yáo,Chinese,false
+161487,Okamejei meerdervoortii,Medama-kasube,Japanese,false
+161487,Okamejei meerdervoortii,O-dong-ga-o-ri,Korean,false
+161487,Okamejei meerdervoortii,Bigeye Skate,English,true
+161490,Amblyraja georgiana,Antarctic Starry Skate,English,true
+161491,Amblyraja jenseni,Jensen's Rog,Dutch; Flemish,false
+161491,Amblyraja jenseni,Jensens Rokke,Danish,false
+161491,Amblyraja jenseni,Jensens-skata,Icelandic,false
+161491,Amblyraja jenseni,Raie à Queue Courte,French,false
+161491,Amblyraja jenseni,Raie de Jensen,French,false
+161491,Amblyraja jenseni,Jensen's Skate,English,true
+161492,Leucoraja wallacei,Yellowspotted Skate,English,true
+161493,Orbiraja philipi,Aden Ring Skate,English,true
+161494,Springeria longirostris,Longnose Legskate,English,true
+161497,Parmaturus melanobranchus,Blackgill Catshark,English,true
+161498,Galeus springeri,Springer's Sawtail Catshark,English,true
+161502,Fenestraja maceachrani,Madagascar Pygmy Skate,English,true
+161504,Bathyraja tunae,Cristina's Skate,English,true
+161507,Hemitriakis japanica,Japanese Topeshark,English,false
+161507,Hemitriakis japanica,Cazón Japonés,Spanish; Castilian,false
+161507,Hemitriakis japanica,Eirakubuka,Japanese,false
+161507,Hemitriakis japanica,Requin-há  Dochizame,French,false
+161507,Hemitriakis japanica,Japanese Topeshark,English,true
+161508,Centroscyllium ritteri,Kasumizame,Japanese,false
+161508,Centroscyllium ritteri,Белоперая собачья акула,Russian,false
+161508,Centroscyllium ritteri,Whitefin Dogfish,English,true
+161512,Rajella fuliginea,Sooty Skate,English,true
+161513,Taeniurops grabatus,Round Fantail Stingray,English,false
+161513,Taeniurops grabatus,Chupare Redondo,Spanish; Castilian,false
+161513,Taeniurops grabatus,Pastenague Africaine,French,false
+161513,Taeniurops grabatus,Trigone Africano,Italian,false
+161513,Taeniurops grabatus,Round Stingray,English,true
+161515,Poroderma pantherinum,Leopard Catshark,English,true
+161516,Gymnura tentaculata,Tentacled Butterfly Ray,English,true
+161519,Zanobatus schoenleinii,Guitare Bouclee,French,false
+161519,Zanobatus schoenleinii,Raie tigrée,French,false
+161519,Zanobatus schoenleinii,Raja de Arena,Spanish; Castilian,false
+161519,Zanobatus schoenleinii,Striped Panray,English,true
+161520,Fontitrygon margaritella,Pearl Whipray,English,true
+161521,Centroscyllium fabricii,Aiguillat Noir,French,false
+161521,Centroscyllium fabricii,Tollo Negro Merga,Spanish; Castilian,false
+161521,Centroscyllium fabricii,Black Dogfish,English,true
+161522,Neoraja carolinensis,Carolina Dwarf Skate,English,true
+161523,Narcine lingula,Chinese Numbfish,English,true
+161527,Breviraja colesi,Lightnose Skate,English,true
+161528,Rostroraja bahamensis,Bahama Skate,English,true
+161529,Bathyraja maccaini,McCain's Skate,English,true
+161531,Holohalaelurus grennian,Grinning Izak Catshark,English,true
+161532,Okamejei hollandi,Holland Skate,English,false
+161532,Okamejei hollandi,Yellow Spotted Skate,English,true
+161534,Rhinoraja kujiensis,Dapplebellied Softnose Skate,English,true
+161537,Okamejei mengae,Meng's Skate,English,true
+161540,Maculabatis pastinacoides,Pari Pasir,Malay,false
+161540,Maculabatis pastinacoides,Round Whipray,English,true
+161541,Urotrygon reticulata,Raya Redonda Reticulada,Spanish; Castilian,false
+161541,Urotrygon reticulata,Reticulate Round Ray,English,true
+161542,Amblyraja radiata,Starry Ray,English,false
+161542,Amblyraja radiata,Thorny Skate,English,true
+161543,Paragaleus tengi,Comadreja Coluda,Spanish; Castilian,false
+161543,Paragaleus tengi,Milandre Belette,French,false
+161543,Paragaleus tengi,Straight-tooth Weasel Shark,English,true
+161544,Schroederichthys maculatus,Holbiche petite queue,French,false
+161544,Schroederichthys maculatus,Pejegato Rabo Fino,Spanish; Castilian,false
+161544,Schroederichthys maculatus,Narrowtail Catshark,English,true
+161546,Urogymnus lobistoma,Tubemouth Whipray,English,true
+161548,Orbiraja powelli,Indian Ring Skate,English,true
+161554,Narcine insolita,Madagascar Numbfish,English,true
+161555,Acroteriobatus leucospilus,Greyspot Guitarfish,English,true
+161556,Dactylobatus armatus,Skillet Skate,English,true
+161557,Chiloscyllium hasselti,Bamboa Indonesa,Spanish; Castilian,false
+161557,Chiloscyllium hasselti,Requin-chabot Indonésien,French,false
+161557,Chiloscyllium hasselti,Indonesian Bambooshark,English,true
+161560,Narcine maculata,Darkfinned Numbfish,English,false
+161560,Narcine maculata,Darkspotted Electric Ray,English,false
+161560,Narcine maculata,Smallspot Numbfish,English,true
+161561,Bathyraja smithii,African Softnose Skate,English,false
+161561,Bathyraja smithii,Softnose Skate,English,true
+161562,Torpedo bauchotae,Torpille à rosettes,French,false
+161562,Torpedo bauchotae,Rosette Torpedo,English,true
+161563,Orectolobus japonicus,Japanese Wobbegong,English,true
+161565,Dipturus garricki,San Blas Skate,English,true
+161567,Galeus nipponensis,Nihon-yamorizame,Japanese,false
+161567,Galeus nipponensis,Broadfin Sawtail Catshark,English,true
+161569,Myliobatis aquila,Aguila marina,Spanish; Castilian,false
+161569,Myliobatis aquila,Aigle commun,French,false
+161569,Myliobatis aquila,Common Eagle Ray,English,true
+169760690,Lamiopsis temminckii,Requin grandes ailes,French,false
+169760690,Lamiopsis temminckii,Tiburón Aletón,Spanish; Castilian,false
+169760690,Lamiopsis temminckii,Broadfin Shark,English,true
+161571,Mustelus widodoi,Whitefin Smoothhound,English,true
+161574,Holohalaelurus regani,Izak Catshark,English,true
+161575,Rhinoraja longicauda,Whitebelly Skate,English,true
+161576,Hemitrygon sinensis,Chinese Stingray,English,true
+161578,Centroscyllium ornatum,Aiguillat élégant,French,false
+161578,Centroscyllium ornatum,Tollo Negro Elegante,Spanish; Castilian,false
+161578,Centroscyllium ornatum,Ornate Dogfish,English,true
+161581,Parmaturus pilosus,Imorizame,Japanese,false
+161581,Parmaturus pilosus,Саламандровый парматурус,Russian,false
+161581,Parmaturus pilosus,Salamander Catshark,English,true
+161583,Scymnodalatias garricki,Azores Dogfish,English,true
+161584,Fenestraja atripinna,Blackfin Pygmy Skate,English,true
+161585,Etmopterus decacuspidatus,Combtooth Lanternshark,English,true
+161586,Raja straeleni,Raie tachetée,French,false
+161586,Raja straeleni,Raya manchada,Spanish; Castilian,false
+161586,Raja straeleni,Biscuit Skate,English,true
+169236406,Platyrhina sinensis,Chinese Fanray,English,true
+161591,Cephaloscyllium silasi,Indian Swellshark,English,true
+161592,Fenestraja mamillidens,Prickly Skate,English,true
+161598,Pateobatis hortlei,Hortle's Whipray,English,true
+124569516,Raja miraletus,Raie Miroir,French,false
+124569516,Raja miraletus,Raya de Espjos,Spanish; Castilian,false
+124569516,Raja miraletus,Razza Quattrocchi,Italian,false
+124569516,Raja miraletus,Brown Skate,English,true
+161601,Dipturus doutrei,Raie Violette,French,false
+161601,Dipturus doutrei,Raya Violeta,Spanish; Castilian,false
+161601,Dipturus doutrei,Javelin Skate,English,true
+161604,Leucoraja yucatanensis,Yucatán Skate,English,true
+161605,Notoraja tobitukai,Leadhued Skate,English,true
+161606,Cirrhoscyllium japonicum,Kurakakezame,Japanese,false
+161606,Cirrhoscyllium japonicum,Saddled Carpetshark,English,true
+161607,Narke dipterygia,Shibire-ei,Japanese,false
+161607,Narke dipterygia,Spottail Sleeper Ray,English,true
+161608,Tetronarce formosa,Taiwanese Pelagic Torpedo Ray,English,true
+161612,Bathyraja smirnovi,Dobyu-kasube,Japanese,false
+161612,Bathyraja smirnovi,Скат Смирнова,Russian,false
+161612,Bathyraja smirnovi,Golden Skate,English,true
+161614,Narke capensis,Cape Numbfish,English,false
+161614,Narke capensis,Cape Sleeper Ray,English,true
+161616,Chiloscyllium burmensis,Bamboa Birmana,Spanish; Castilian,false
+161616,Chiloscyllium burmensis,Chabot Birman,French,false
+161616,Chiloscyllium burmensis,Burmese Bambooshark,English,true
+161618,Hemitrygon laevigata,Yantai Stingray,English,true
+161619,Bathyraja meridionalis,Darkbelly Skate,English,true
+161620,Hypanus rudis,Smalltooth Stingray,English,true
+161621,Himantura undulata,Bleeker's Variegated Whipray,English,false
+161621,Himantura undulata,Ocellate Whipray,English,false
+161621,Himantura undulata,Pari Batik,Malay,false
+161621,Himantura undulata,Pari macan,Indonesian,false
+161621,Himantura undulata,Pari Rimau,Malay,false
+161621,Himantura undulata,Honeycomb Whipray,English,true
+161623,Bathyraja fedorovi,Fedorov Skate,English,false
+161623,Bathyraja fedorovi,Fedorov's Skate,English,false
+161623,Bathyraja fedorovi,Fedoofu-kasube,Japanese,false
+161623,Bathyraja fedorovi,ДЛИННОРЫЛЫЙ СКАТ,Russian,false
+161623,Bathyraja fedorovi,СКАТ ФЕДОРОВА,Russian,false
+161623,Bathyraja fedorovi,Скат Фёдорова,Russian,false
+161623,Bathyraja fedorovi,Cinnamon Skate,English,true
+161624,Benthobatis yangi,Taiwanese Blind Electric Ray,English,true
+161630,Gymnura japonica,Tsubakuro-ei,Japanese,false
+161630,Gymnura japonica,Скат-бабочка японская,Russian,false
+161630,Gymnura japonica,Japanese Butterfly Ray,English,true
+161631,Leucoraja ocellata,Winter Skate,English,true
+161633,Mustelus manazo,Starspotted Smooth-hound,English,true
+161634,Pristiophorus japonicus,Nokogirizame,Japanese,false
+161634,Pristiophorus japonicus,Japanese Sawshark,English,true
+161636,Okamejei acutispina,Moyou-kasube,Japanese,false
+161636,Okamejei acutispina,Sharpspine Skate,English,true
+161639,Paragaleus leucolomatus,Whitetip Weasel Shark,English,true
+161641,Bathyraja hesperafricana,West African Skate,English,true
+161642,Fenestraja plutonia,Pluto Pygmy Skate,English,true
+161643,Dasyatis chrysonota,Blue Stingray,English,true
+161644,Halaelurus maculosus,Indonesian Speckled Catshark,English,true
+161645,Okamejei kenojei,Ocellate Spot Skate,English,false
+161645,Okamejei kenojei,Bãn-yáo,Chinese,false
+161645,Okamejei kenojei,Gan-je-mi,Korean,false
+161645,Okamejei kenojei,Hong-eo,Korean,false
+161645,Okamejei kenojei,Komon-kasube,Japanese,false
+161645,Okamejei kenojei,Lao-bãn,Chinese,false
+161645,Okamejei kenojei,Yóu-hu,Chinese,false
+161645,Okamejei kenojei,Японский скат,Russian,false
+161645,Okamejei kenojei,Spiny Skate,English,true
+161646,Narcine rierai,Slank Drilvis,Afrikaans,false
+161646,Narcine rierai,Mozambique Numbfish,English,true
+161650,Haploblepharus pictus,Pretty Happy,English,false
+161650,Haploblepharus pictus,Dark Shyshark,English,true
+161652,Holohalaelurus favus,Natal Izak Catshark,English,false
+161652,Holohalaelurus favus,Honeycomb Izak Catshark,English,true
+161656,Fenestraja sinusmexicanus,Gulf Pygmy Skate,English,true
+161658,Rostroraja eglanteria,Clearnose Skate,English,true
+161659,Bathyraja irrasa,Kerguelen Sandpaper Skate,English,true
+161662,Rhizoprionodon longurio,Cazón Bironche,Spanish; Castilian,false
+161662,Rhizoprionodon longurio,Cazón Picudo del Pacífico,Spanish; Castilian,false
+161662,Rhizoprionodon longurio,Requin Bironche,French,false
+161662,Rhizoprionodon longurio,Pacific Sharpnose Shark,English,true
+161667,Haploblepharus kistnasamyi,Natal Shyshark,English,true
+161668,Squalus lalannei,Seychelles Spurdog,English,true
+161669,Beringraja pulchra,Cham-hong-eo,Korean,false
+161669,Beringraja pulchra,Megane-kasube,Japanese,false
+161669,Beringraja pulchra,Mei-yáo,Chinese,false
+161669,Beringraja pulchra,Mottled Skate,English,true
+161670,Sinobatis stenosoma,Narrow Legskate,English,true
+161672,Apristurus sibogae,Pale Catshark,English,true
+161675,Holohalaelurus punctatus,Whitespotted Izak,English,false
+161675,Holohalaelurus punctatus,African Spotted Catshark,English,true
+161676,Tetronarce tokionis,Yamato-shibire-ei,Japanese,false
+161676,Tetronarce tokionis,Longtail Torpedo Ray,English,true
+161677,Rhinobatos lionotus,Smoothback Guitarfish,English,true
+161678,Cruriraja parcomaculata,Triangular Legskate,English,true
+161679,Cirrhoscyllium formosanum,Taiwan Saddled Carpetshark,English,true
+161680,Halaelurus buergeri,Blackspotted Catshark,English,true
+161685,Leucoraja leucosticta,Raie à taches laiteuses,French,false
+161685,Leucoraja leucosticta,Raya mancha lechoso,Spanish; Castilian,false
+161685,Leucoraja leucosticta,Whitedapple Skate,English,true
+161689,Urotrygon aspidura,Raya Redonda de Rabo Espinudo,Spanish; Castilian,false
+161689,Urotrygon aspidura,Spinytail Round Ray,English,true
+201098826,Himantura uarnak,Reticulate Whipray,English,false
+201098826,Himantura uarnak,Pari Bunga,Malay,false
+201098826,Himantura uarnak,Pari Harimau,Malay,false
+201098826,Himantura uarnak,Ruget,Arabic,false
+201098826,Himantura uarnak,Coach Whipray,English,true
+161693,Fenestraja cubensis,Cuban Pygmy Skate,English,true
+161694,Rostroraja equatorialis,Raie Équatorienne,French,false
+161694,Rostroraja equatorialis,Raya Ecuatorial,Spanish; Castilian,false
+161694,Rostroraja equatorialis,Equatorial Skate,English,true
+161697,Acroteriobatus ocellatus,Speckled Guitarfish,English,true
+161698,Makararaja chindwinensis,Chindwin Cowtail Ray,English,true
+161701,Bathyraja trachouros,File Skate,English,false
+161701,Bathyraja trachouros,Cкат эримо,Russian,false
+161701,Bathyraja trachouros,Zara-kasube,Japanese,false
+161701,Bathyraja trachouros,Eremo Skate,English,true
+161704,Leucoraja compagnoi,Tigertail Skate,English,true
+161707,Paragaleus pectoralis,Little Tiger Shark,English,false
+161707,Paragaleus pectoralis,Milandre Jaune,French,false
+161707,Paragaleus pectoralis,Tiburón Comadiza,Spanish; Castilian,false
+161707,Paragaleus pectoralis,Atlantic Weasel Shark,English,true
+161708,Breviraja spinosa,Spinose Skate,English,true
+161710,Cruriraja andamanica,Andaman Pygmy Skate,English,true
+161711,Cruriraja poeyi,Poey's Pygmy Skate,English,true
+161712,Cruriraja atlantis,Atlantic Pygmy Skate,English,true
+161714,Heterodontus japonicus,Nekozame,Japanese,false
+161714,Heterodontus japonicus,Japanese Bullhead Shark,English,true
+161715,Mustelus griseus,Emissole Côtière,French,false
+161715,Mustelus griseus,Musola Gris,Spanish; Castilian,false
+161715,Mustelus griseus,Spotless Smooth-hound,English,true
+161716,Narcine entemedor,Cortez Numbfish,English,true
+161719,Fluvitrygon kittipongi,Roughback Whipray,English,true
+161721,Rajella annandalei,Indonesian Round Skate,English,false
+161721,Rajella annandalei,Annandale's Skate,English,true
+161722,Bathyraja bergi,Raspback Skate,English,false
+161722,Bathyraja bergi,Ba-dak-ga-o-ri,Korean,false
+161722,Bathyraja bergi,Same-karagea,Japanese,false
+161722,Bathyraja bergi,Same-kasube,Japanese,false
+161722,Bathyraja bergi,Soko-gangi-ei,Japanese,false
+161722,Bathyraja bergi,Ten-kasube,Japanese,false
+161722,Bathyraja bergi,Скат Берга,Russian,false
+161722,Bathyraja bergi,Bottom Skate,English,true
+169232956,Cephaloscyllium umbratile,Nanukazame,Japanese,false
+169232956,Cephaloscyllium umbratile,Японская головастая кошачья акула,Russian,false
+169232956,Cephaloscyllium umbratile,Japanese Swellshark,English,true
+161725,Okamejei schmidti,Tsumari-kasube,Japanese,false
+161725,Okamejei schmidti,Browneye Skate,English,true
+161730,Urotrygon munda,Raya Redonda Munda,Spanish; Castilian,false
+161730,Urotrygon munda,Munda Round Ray,English,true
+161732,Galeus antillensis,Antilles Catshark,English,true
+161733,Proscyllium habereri,Graceful Catshark,English,true
+161735,Okamejei boesemani,Boeseman's Skate,English,true
+161736,Atelomycterus baliensis,Hiu Tokek,Indonesian,false
+161736,Atelomycterus baliensis,Bali Catshark,English,true
+161738,Dipturus macrocauda,Dà-wei-yáo,Chinese,false
+161738,Dipturus macrocauda,Do-rang-ga-o-ri,Korean,false
+161738,Dipturus macrocauda,Kitsune-kasube,Japanese,false
+161738,Dipturus macrocauda,Bigtail Skate,English,true
+161739,Bathyraja eatonii,Eaton's Skate,English,true
+161740,Centroscyllium excelsum,Ookasumizame,Japanese,false
+161740,Centroscyllium excelsum,Highfin Dogfish,English,true
+161741,Hemitrygon navarrae,Oriental Black Stingray,English,false
+161741,Hemitrygon navarrae,Blackfish Stingray,English,true
+161742,Rhinoraja odai,Oda-ei,Japanese,false
+161742,Rhinoraja odai,Oda Skate,English,true
+161745,Temera hardwickii,Finless Sleeper ray,English,true
+124488765,Squalus acutipinnis,Stompneus-penhaai,Afrikaans,false
+124488765,Squalus acutipinnis,Bluntnose Spurdog,English,true
+161746,Heteronarce garmani,Natal Drilvis,Afrikaans,false
+161746,Heteronarce garmani,Natal Sleeper Ray,English,true
+161747,Urotrygon nana,Dwarf Round Ray,English,true
+161748,Dasyatis marmorata,Marbled Stingray,English,true
+195428,Chimaera bahamaensis,Bahamas Ghostshark,English,true
+195431,Chimaera notafricana,Cape Chimaera,English,true
+195432,Chimaera obscura,Shortspine Chimaera,English,true
+124356938,Squalus bassi,African Longnose Spurdog,English,true
+195435,Hydrolagus melanophasma,Eastern Pacific Ghostshark,English,true
+195454,Dipturus wuhanlingi,China Skate,English,false
+195454,Dipturus wuhanlingi,Wu-kasube,Japanese,false
+195454,Dipturus wuhanlingi,Wu's Skate,English,true
+124357052,Squalus mahia,Malagasy Skinny Spurdog,English,true
+124357112,Squalus margaretsmithae,Smith's Spurdog,English,true
+14134429,Gymnura marmorata,Raya Mariposa,Spanish; Castilian,false
+14134429,Gymnura marmorata,Raya Mariposa Californiana,Spanish; Castilian,false
+14134429,Gymnura marmorata,California Butterfly Ray,English,true
+14134431,Gymnura crebripunctata,Longsnout Butterfly Ray,English,false
+14134431,Gymnura crebripunctata,Raya Mariposa Picuda,Spanish; Castilian,false
+14134431,Gymnura crebripunctata,Mazatlan Butterfly Ray,English,true
+18901743,Chimaera opalescens,Opal Chimaera,English,true
+124357224,Etmopterus alphus,Whitecheek Lanternshark,English,true
+70682232,Pastinachus ater,Banana-tail Ray,English,false
+70682232,Pastinachus ater,Amarbirra,Australian languages,false
+70682232,Pastinachus ater,Par,Papuan (Other),false
+70682232,Pastinachus ater,Pari Bendera,Indonesian,false
+70682232,Pastinachus ater,Pari Daun,Malay,false
+70682232,Pastinachus ater,Pari Nyonya,Malay,false
+70682232,Pastinachus ater,Pari Tanjung,Malay,false
+70682232,Pastinachus ater,Yimarbirra,Australian languages,false
+70682232,Pastinachus ater,Broad Cowtail Ray,English,true
+91209505,Squalus acanthias,Picked Dogfish,English,false
+91209505,Squalus acanthias,Spurdog,English,false
+91209505,Squalus acanthias,Aiguillat commun,French,false
+91209505,Squalus acanthias,Cazón Espinoso,Spanish; Castilian,false
+91209505,Squalus acanthias,Spiny Dogfish,English,true
+124357844,Etmopterus compagnoi,Brown Lanternshark,English,true
+124357891,Etmopterus sculptus,Sculpted Lanternshark,English,true
+124396026,Bythaelurus bachi,Bach's Catshark,English,true
+124396124,Bythaelurus naylori,Duskysnout Catshark,English,true
+124396530,Rhinobatos austini,Austin's Guitarfish,English,true
+124396693,Raja ocellifera,Twineye Skate,English,true
+124397220,Rajella paucispinosa,Sparsethorn Skate,English,true
+124398187,Chimaera buccanigella,Dark-mouth Chimaera,English,true
+124398222,Chimaera didierae,Falkor Chimaera,English,true
+124398312,Chimaera willwatchi,Seafarer’s Ghostshark,English,true
+124398342,Hydrolagus erithacus,Robin's Ghostshark,English,true
+124552788,Chiloscyllium caeruleopunctatum,Bluespotted Bambooshark,English,true
+129494544,Chimaera orientalis,Eastern Pacific Black Chimaera,English,true
+129495269,Squalus albicaudus,Brazilian Whitetail Dogfish,English,true
+129495390,Squalus bahiensis,Northeastern Brazilian Dogfish,English,true
+129495487,Squalus lobularis,Atlantic Lobefin Dogfish,English,true
+129495645,Squalus quasimodo,Western Humpback Dogfish,English,true
+129495825,Scyliorhinus cabofriensis,Cabo Frio Catshark,English,true
+129495856,Scyliorhinus ugoi,Dark-Freckled Catshark,English,true
+129495899,Discopyge castelloi,Castello's Apron Numbfish,English,true
+129495924,Dipturus argentinensis,Raya Hocicuda de Cola Larga,Spanish; Castilian,false
+129495924,Dipturus argentinensis,Argentine Skate,English,true
+130389813,Squatina varii,Vari's Angelshark,English,true
+130391495,Rhynchorhina mauritaniensis,Raie-guitare Mauritanienne,French,false
+130391495,Rhynchorhina mauritaniensis,False Shark Ray,English,true
+130393378,Squatina guggenheim,Hidden Angelshark,English,false
+130393378,Squatina guggenheim,Spiny Angel Shark,English,false
+130393378,Squatina guggenheim,Angular Angelshark,English,true
+161456,Squatina formosa,Taiwan Angelshark,English,true
+161325,Squatina nebulosa,Ange de Mer Nébuleux,French,false
+161325,Squatina nebulosa,Angelote Nebuloso,Spanish; Castilian,false
+161325,Squatina nebulosa,Korozame,Japanese,false
+161325,Squatina nebulosa,Clouded Angelshark,English,true
+161525,Squatina tergocellatoides,Ocellated Angelshark,English,true
+161558,Squatina japonica,Ange de Mer Kasuzame,French,false
+161558,Squatina japonica,Angelote Japonés,Spanish; Castilian,false
+161558,Squatina japonica,Kasuzame,Japanese,false
+161558,Squatina japonica,Japanese Angelshark,English,true
+44228,Bythaelurus hispidus,Bristly Catshark,English,true
+161480,Mustelus mosis,قرش الكلب,Arabic,false
+161480,Mustelus mosis,Arabian Smoothhound,English,true
+107605014,Maculabatis ambigua,Baraka's Whipray,English,true
+110834677,Carcharhinus humani,Human's Whaler Shark,English,true
+195489,Chlamydoselachus africana,Southern African Frilled Shark,English,true
+44614,Heterodontus ramalheira,Whitespotted Bullhead Shark,English,true
+103054942,Pristiophorus nancyae,African Dwarf Sawshark,English,true
+161468,Eridacnis radcliffei,Pygmy Ribbontail Catshark,English,true
+161617,Dipturus johannisdavisi,Travancore Skate,English,true
+161653,Dipturus springeri,Roughbelly Skate,English,true
+60136,Torpedo sinuspersici,Marbled Electric Ray,English,false
+60136,Torpedo sinuspersici,Gulf Torpedo,English,true
+110903105,Bythaelurus tenuicephalus,Narrowhead Catshark,English,true
+141745938,Bythaelurus vivaldii,Vivaldi's Catshark,English,true
+141747777,Bythaelurus stewarti,Error Seamount Catshark,English,true
+18584848,Pristis pristis,Freshwater Sawfish,English,false
+18584848,Pristis pristis,Liara,Urdu,false
+18584848,Pristis pristis,Largetooth Sawfish,English,true
+39389,Anoxypristis cuspidata,Knifetooth Sawfish,English,false
+39389,Anoxypristis cuspidata,Pointed Sawfish,English,false
+39389,Anoxypristis cuspidata,Pejepeine,Spanish; Castilian,false
+39389,Anoxypristis cuspidata,Pez Sierra,Spanish; Castilian,false
+39389,Anoxypristis cuspidata,Poisson-scie,French,false
+39389,Anoxypristis cuspidata,Sayyaf,Arabic,false
+39389,Anoxypristis cuspidata,Sayyafah,Arabic,false
+39389,Anoxypristis cuspidata,سمكة المنشار ذات السن الحا,Arabic,false
+39389,Anoxypristis cuspidata,Narrow Sawfish,English,true
+39390,Pristis clavata,Queensland Sawfish,English,false
+39390,Pristis clavata,Dwarf Sawfish,English,true
+18175,Pristis pectinata,Wide Sawfish,English,false
+18175,Pristis pectinata,Pejepeine,Spanish; Castilian,false
+18175,Pristis pectinata,Poisson-scie,French,false
+18175,Pristis pectinata,Sayyafah,Spanish; Castilian,false
+18175,Pristis pectinata,Smalltooth Sawfish,English,true
+39393,Pristis zijsron,Narrowsnout Sawfish,English,false
+39393,Pristis zijsron,Olive Sawfish,English,false
+39393,Pristis zijsron,Blundo,Urdu,false
+39393,Pristis zijsron,Pejepeine,Spanish; Castilian,false
+39393,Pristis zijsron,Poisson-scie,French,false
+39393,Pristis zijsron,Sayyaf,Arabic,false
+39393,Pristis zijsron,سمكة المنشار الخضراء,Arabic,false
+39393,Pristis zijsron,Green Sawfish,English,true
+144135467,Etmopterus benchleyi,Ninja Lanternshark,English,true
+144137478,Carcharhinus cerdale,Pacific Smalltail Shark,English,true
+144151831,Ginglymostoma unami,Pacific Nurse Shark,English,true
+144152304,Bythaelurus giddingsi,Galápagos Catshark,English,true
+144153067,Notoraja martinezi,Raya de Púas,Spanish; Castilian,false
+144153067,Notoraja martinezi,Barbedwire-tailed Skate,English,true
+144161826,Dipturus brevicaudatus,Raya hocicuda de cola corta,Spanish; Castilian,false
+144161826,Dipturus brevicaudatus,Shorttail Yellownose Skate,English,true
+144162359,Urobatis pardalis,Leopard Round Ray,English,true
+144163683,Styracura pacifica,Pacific Chupare,English,true
+60181,Rhynchobatus cooki,Roughnose Wedgefish,English,false
+60181,Rhynchobatus cooki,Clown Wedgefish,English,true
+44575,Atlantoraja castelnaui,Raia-chita,Spanish; Castilian,false
+44575,Atlantoraja castelnaui,Raia-jereba,Spanish; Castilian,false
+44575,Atlantoraja castelnaui,Raya a Lunares,Spanish; Castilian,false
+44575,Atlantoraja castelnaui,Raya Chita,Spanish; Castilian,false
+44575,Atlantoraja castelnaui,Raya Pintada,Spanish; Castilian,false
+44575,Atlantoraja castelnaui,Spotback Skate,English,true
+152501278,Parmaturus angelae,Angela's Catshark,English,false
+152501278,Parmaturus angelae,Brazilian Filetail Catshark,English,true
+152781715,Hexanchus vitulus,Atlantic Sixgill Shark,English,true
+153198442,Mollisquama mississippiensis,American Pocket Shark,English,true
+41878,Stegostoma tigrinum,Thalab al bahar,Arabic,false
+41878,Stegostoma tigrinum,قِرش عَنَّابي,Arabic,false
+41878,Stegostoma tigrinum,Zebra Shark,English,true
+162154636,Squalus hawaiiensis,Hawaiian Spurdog,English,true
+162209137,Etmopterus lailae,Laila’s Lanternshark,English,true
+162209242,Etmopterus marshae,Marsha's Lanternshark,English,true
+162209351,Etmopterus samadiae,Papuan Lanternshark,English,true
+162209834,Pristiophorus lanae,Lana's Sawshark,English,true
+162209907,Apristurus yangi,Yang's Longnose Catshark,English,true
+162209990,Galeus corriganae,Corrigan's Catshark,English,true
+162215361,Parmaturus nigripalatum,Indonesian Filetail Catshark,English,true
+162215534,Cephaloscyllium pictum,Painted Swellshark,English,true
+162215596,Cephaloscyllium stevensi,Steven's Swellshark,English,true
+162215695,Gollum suluensis,Sulu Gollum Shark,English,true
+162215720,Planonasus indicus,Eastern Dwarf False Catshark,English,true
+162215803,Dipturus amphispinus,Ridgeback Skate,English,true
+162215826,Notoraja sereti,Papuan Velvet Skate,English,true
+162215884,Sinobatis andamanensis,Andaman Legskate,English,true
+162216008,Sinobatis brevicauda,Shorttail Legskate,English,true
+162216137,Sinobatis kotlyari,Kotlyar's Legskate,English,true
+162292301,Centrophorus longipinnis,Longfin Gulper Shark,English,true
+162292832,Centrophorus lesliei,African Gulper Shark,English,true
+162207827,Cephaloscyllium fasciatum,Holbiche bouffie,French,false
+162207827,Cephaloscyllium fasciatum,Pejegato Mallero,Spanish; Castilian,false
+162207827,Cephaloscyllium fasciatum,Reticulated Swellshark,English,true
+41793,Chimaera panthera,Leopard Chimaera,English,true
+169229426,Squalus formosus,Hiretaka-Tsunozame,Japanese,false
+169229426,Squalus formosus,Taiwan Spurdog,English,true
+169231349,Etmopterus joungi,Shortfin Smooth Lanternshark,English,true
+169232559,Cephaloscyllium formosanum,Formosa Swellshark,English,true
+169233669,Scoliodon macrorhynchos,New Spadenose Shark,English,true
+169234837,Platyrhina hyugaensis,Onino-uchiwa,Japanese,false
+169234837,Platyrhina hyugaensis,Hyuga Fanray,English,true
+169234885,Platyrhina tangi,Yellow-spotted Fanray,English,true
+169236848,Dipturus chinensis,Polkadot Skate,English,true
+169755340,Lamiopsis tephrodes,Hiu Bujit,Indonesian,false
+169755340,Lamiopsis tephrodes,Yu Sirip Lebar,Malay,false
+169755340,Lamiopsis tephrodes,Borneo Broadfin Shark,English,true
+169836996,Akheilos suwartanai,Ambon Catshark,English,true
+144162654,Urotrygon cimar,Cimar Round Ray,English,true
+171729462,Pliotrema annae,Anna's Sixgill Sawshark,English,true
+171729431,Pliotrema kajae,Kaja's Sixgill Sawshark,English,true
+39337,Pseudocarcharias kamoharai,Requin Crocodile,French,false
+39337,Pseudocarcharias kamoharai,Tiburón Cocodrilo,Spanish; Castilian,false
+39337,Pseudocarcharias kamoharai,Tubarão Cachorro,Portuguese,false
+39337,Pseudocarcharias kamoharai,Crocodile Shark,English,true
+152783714,Sphyrna gilberti,Carolina Hammerhead,English,true
+39365,Carcharhinus amblyrhynchos,Gray Reef Shark,English,false
+39365,Carcharhinus amblyrhynchos,Grey Reef Shark,English,true
+39366,Carcharhinus amboinensis,Java Shark,English,false
+39366,Carcharhinus amboinensis,Hiu buas,Javanese,false
+39366,Carcharhinus amboinensis,Javahaj,Danish,false
+39366,Carcharhinus amboinensis,Merak bulu,Balinese,false
+39366,Carcharhinus amboinensis,Mongiwa,Malay,false
+39366,Carcharhinus amboinensis,رش كبير العين,Arabic,false
+39366,Carcharhinus amboinensis,高鰭真鯊,Chinese,false
+39366,Carcharhinus amboinensis,Pigeye Shark,English,true
+41737,Carcharhinus macloti,Maclot's shark,English,false
+41737,Carcharhinus macloti,Cá Nhám mõm dài,Vietnamese,false
+41737,Carcharhinus macloti,Chalarm Thao,Thai,false
+41737,Carcharhinus macloti,Hiu aron,Javanese,false
+41737,Carcharhinus macloti,Hoko saki,Japanese,false
+41737,Carcharhinus macloti,Kooseh-e-noktiz,Persian,false
+41737,Carcharhinus macloti,Yu jereh,Malay,false
+41737,Carcharhinus macloti,قرش ذو الأنف الصلب,Arabic,false
+41737,Carcharhinus macloti,大沙,Chinese,false
+41737,Carcharhinus macloti,Hardnose Shark,English,true
+161376,Carcharhinus sorrah,قرش ذو الذيل المبقع,Arabic,false
+161376,Carcharhinus sorrah,Spottail Shark,English,true
+41831,Loxodon macrorhinus,Jordan's Blue Dogshark,English,false
+41831,Loxodon macrorhinus,Slender Dogshark,English,false
+41831,Loxodon macrorhinus,قرش ذو العيون المغولية,Arabic,false
+41831,Loxodon macrorhinus,Sliteye Shark,English,true
+41836,Negaprion acutidens,Gursh,Arabic,false
+41836,Negaprion acutidens,قرش غرين مِنْجَل,Arabic,false
+41836,Negaprion acutidens,Sharptooth Lemon Shark,English,true
+41851,Rhizoprionodon oligolinx,قرش الصنارة الرمادي,Arabic,false
+41851,Rhizoprionodon oligolinx,Grey Sharpnose Shark,English,true
+39384,Triaenodon obesus,Whitetip Reef Shark,English,true
+41835,Nebrius ferrugineus,قِرش رضيع أشقر,Arabic,false
+41835,Nebrius ferrugineus,Tawny Nurse Shark,English,true
+161695,Chaenogaleus macrostoma,Milandre Harpoon,French,false
+161695,Chaenogaleus macrostoma,قِرش خُطّاف,Arabic,false
+161695,Chaenogaleus macrostoma,Hooktooth Shark,English,true
+161506,Paragaleus randalli,قرش ابن عرس المستدق الخطم,English,false
+161506,Paragaleus randalli,Slender Weasel Shark,English,true
+161501,Iago omanensis,قرش القزم,Arabic,false
+161501,Iago omanensis,Bigeye Houndshark,English,true
+107605000,Maculabatis bineeshi,Shorttail Whipray,English,true
+161566,Maculabatis gerrardi,Whitespotted Whipray,English,true
+104166988,Neotrygon caeruleopunctata,Bluespotted Maskray,English,true
+104208524,Pateobatis bleekeri,Bleeker's Whipray,English,true
+161547,Pateobatis uarnacoides,Pari Pasir,Malay,false
+161547,Pateobatis uarnacoides,Whitenose Whipray,English,true
+195474,Rhinoptera jayakari,Shorttail Cownose Ray,English,false
+195474,Rhinoptera jayakari,Oman Cownose Ray,English,true
+176485629,Proscyllium magnificum,Magnificent Catshark,English,true
+176485916,Atelomycterus erdmanni,Spotted-belly Catshark,English,true
+176486023,Hemitriakis indroyonoi,Indonesian Houndshark,English,true
+176486152,Orectolobus leptolineatus,False Cobbler Wobbegong,English,false
+176486152,Orectolobus leptolineatus,Hiu Jenggot,Indonesian,false
+176486152,Orectolobus leptolineatus,Hiu Kodok,Indonesian,false
+176486152,Orectolobus leptolineatus,Hiu Lepang,Indonesian,false
+176486152,Orectolobus leptolineatus,Yu Misai,Malay,false
+176486152,Orectolobus leptolineatus,Indonesian Wobbegong,English,true
+176486201,Okamejei cairae,Borneo Sand Skate,English,true
+176486224,Rhinobatos manai,Papuan Guitarfish,English,true
+176486239,Rhinobatos ranongensis,Ranong Guitarfish,English,true
+176486271,Platyrhina psomadakisi,Bamar Kyei Nga Mann Phar,Burmese,false
+176486271,Platyrhina psomadakisi,Indian Fanray,English,true
+161744,Pateobatis jenkinsii,Krabane Hang-nahm,Thai,false
+161744,Pateobatis jenkinsii,Leik-kyauk Htamin-ne,Burmese,false
+161744,Pateobatis jenkinsii,Lukhmah,Arabic,false
+161744,Pateobatis jenkinsii,Shafane,Somali,false
+161744,Pateobatis jenkinsii,Jenkins' Whipray,English,true
+39328,Squatina californica,Pacific Angelshark,English,false
+39328,Squatina californica,Pacific Angel Shark,English,true
+161431,Urogymnus granulatus,MacLeay's Coachwhip Ray,English,false
+161431,Urogymnus granulatus,Whitetail Stingray,English,false
+161431,Urogymnus granulatus,Whitetail Whipray,English,false
+161431,Urogymnus granulatus,Ojiro-ei,Japanese,false
+161431,Urogymnus granulatus,Mangrove Whipray,English,true
+177301951,Dipturus lamillai,Raya Guará,Spanish; Castilian,false
+177301951,Dipturus lamillai,Warrah Skate,English,true
+161660,Narcine atzi,Oman Numbfish,English,true
+161545,Narcine prodorsalis,Tonkin Numbfish,English,true
+161445,Narcine timlei,Brown Numbfish,English,true
+169229923,Squalus blainville,Aiguillat coq,French,false
+169229923,Squalus blainville,Galludo,Spanish; Castilian,false
+169229923,Squalus blainville,Longnose Spurdog,English,true
+180502386,Gymnura sereti,Seret's Butterfly Ray,English,true
+181244306,Hypanus berthalutzae,Raia de Pedra,Portuguese,false
+181244306,Hypanus berthalutzae,Raia prego,Portuguese,false
+181244306,Hypanus berthalutzae,Lutz's Stingray,English,true
+183782506,Hemitrygon yemenensis,Heins’ Stingray,English,true
+183784866,Zanobatus maculatus,Maculate Panray,English,true
+60138,Callorhinchus capensis,Cape Elephantfish,English,false
+60138,Callorhinchus capensis,Josef,English,false
+60138,Callorhinchus capensis,St. Joseph,English,true
+185198377,Psammobatis normani,Shortfin Sandskate,English,true
+185495181,Raja parva,African Brown Skate,English,true
+4292,Cetorhinus maximus,Pelerin,French,false
+4292,Cetorhinus maximus,Peregrino,Spanish; Castilian,false
+4292,Cetorhinus maximus,Basking Shark,English,true
+161454,Bathyraja isotrachys,Challenger's Skate,English,false
+161454,Bathyraja isotrachys,Challenger-kasube,Japanese,false
+161454,Bathyraja isotrachys,Jeo-ja-ga-o-ri,Korean,false
+161454,Bathyraja isotrachys,Гладкий скат,Russian,false
+161454,Bathyraja isotrachys,Raspback Skate,English,true
+157877009,Pseudobatos buthi,Guitarra Pala,Spanish; Castilian,false
+157877009,Pseudobatos buthi,Spadenose Guitarfish,English,true
+197258416,Leucoraja elaineae,Elaine’s Skate,English,true
+197258574,Squalus boretzi,Boretz's Dogfish,English,true
+197258874,Arctoraja sexoculata,Simushir Skate,English,true
+60246,Etmopterus schultzi,Sagre à nageoires frangées,French,false
+60246,Etmopterus schultzi,Tollo Lucero Franjeado,Spanish; Castilian,false
+60246,Etmopterus schultzi,Fringefin Lanternshark,English,true
+199932,Hemiscyllium freycineti,Freycinet's Epaulette Shark,English,false
+199932,Hemiscyllium freycineti,Indonesian Speckled Carpet Shark,English,false
+199932,Hemiscyllium freycineti,The Raja Ampat Epaulette Shark,English,true
+195436,Hemiscyllium galei,Gale's Epaulette Shark,English,true
+176486052,Hemiscyllium halmahera,Halmahera Epaulette Shark,English,true
+195437,Hemiscyllium henryi,Henry's Epaulette Shark,English,true
+195438,Hemiscyllium michaeli,Michael's Epaulette Shark,English,true
+41819,Hemiscyllium strahani,Hooded Carpet Shark,English,true
+144159779,Dipturus chilensis,Kite Ray,English,false
+144159779,Dipturus chilensis,Raya de Ramales,English,false
+144159779,Dipturus chilensis,Raya Picuda,Spanish; Castilian,false
+144159779,Dipturus chilensis,Raya Trompa de Cristal,Spanish; Castilian,false
+144159779,Dipturus chilensis,Yellownose Skate,English,true
+63111,Bathyraja brachyurops,Raya de Cola Corta,Spanish; Castilian,false
+63111,Bathyraja brachyurops,Raya de los Canales,Spanish; Castilian,false
+63111,Bathyraja brachyurops,Broadnose Skate,English,true
+63106,Bathyraja cousseauae,Raya Aletas Juntas,Spanish; Castilian,false
+63106,Bathyraja cousseauae,Cousseau's Skate,English,true
+63117,Bathyraja macloviana,Raya Espinosa,Spanish; Castilian,false
+63117,Bathyraja macloviana,Patagonian Skate,English,true
+60228,Galeus piperatus,Chien Poivré,French,false
+60228,Galeus piperatus,Pejegato Pimienta,Spanish; Castilian,false
+60228,Galeus piperatus,Peppered Catshark,English,true
+44641,Psammobatis rudis,Smallthorn Sandskate,English,true
+200322937,Urogymnus acanthobothrium,Mumburarr Whipray,English,true
+161568,Myliobatis freminvillei,Bullnose Ray,English,false
+161568,Myliobatis freminvillei,Aigle de Mer Taureau,French,false
+161568,Myliobatis freminvillei,Chucho Blanco,Spanish; Castilian,false
+161568,Myliobatis freminvillei,Bullnose Eagle Ray,English,true
+42564343,Aetobatus narinari,Bonnetray,English,false
+42564343,Aetobatus narinari,White-spotted Eagle Ray,English,false
+42564343,Aetobatus narinari,Whitespotted Eagle Ray,English,true
+161686,Rostroraja texana,Roundel Skate,English,true
+201621105,Tetronarce tremens,Tembladera,Spanish; Castilian,false
+201621105,Tetronarce tremens,Chilean Torpedo,English,true
+201629258,Narke japonica,Japanese Sleeper Ray,English,true
+203364219,Dipturus batis,Blue Skate,English,false
+203364219,Dipturus batis,Common Blue Skate,English,true
+63128,Mustelus mento,Musola fina,Spanish; Castilian,false
+63128,Mustelus mento,Tollo fino,Spanish; Castilian,false
+63128,Mustelus mento,Speckled Smoothhound,English,true
+39387,Sphyrna tiburo,Bonnethead Shark,English,true
+161526,Carcharhinus albimarginatus,قرش الأبيض الحافة,Arabic,false
+161526,Carcharhinus albimarginatus,Silvertip Shark,English,true
+39370,Carcharhinus falciformis,القرش الحريري,Arabic,false
+39370,Carcharhinus falciformis,Silky Shark,English,true
+161481,Schroederobatis americana,American Legskate,English,true
+60109,Urobatis jamaicensis,Yellow Stingray,English,true
+41747,Centroscymnus coelolepis,Portuguese Dogfish,English,true
+152781911,Squalus clarkae,Genie’s Dogfish,English,true
+152784569,Gymnura lessae,Lessa's Butterfly Ray,English,true
+60170,Glaucostegus obtusus,Widenose Guitarfish,English,true
+60175,Glaucostegus thouin,Clubnose Guitarfish,English,true
+41821,Hemitriakis abdita,Deepwater Sicklefin Hound Shark,English,false
+41821,Hemitriakis abdita,Darksnout Hound Shark,English,true
+39327,Pristiophorus cirratus,Longnose Sawshark,English,false
+39327,Pristiophorus cirratus,Common Sawshark,English,true
+169234201,Scoliodon laticaudus,قرش حسام,Arabic,false
+169234201,Scoliodon laticaudus,Spadenose Shark,English,true
+104167028,Neotrygon orientalis,Oriental Bluespotted Maskray,English,true
+104167083,Neotrygon varidens,Mahogany Maskray,English,true
+3855,Carcharodon carcharias,Great White Shark,English,false
+3855,Carcharodon carcharias,White Shark,English,true
+39339,Alopias vulpinus,Atlantic Thresher,English,false
+39339,Alopias vulpinus,Fox Shark,English,false
+39339,Alopias vulpinus,Grayfish,English,false
+39339,Alopias vulpinus,Green Thresher,English,false
+39339,Alopias vulpinus,Sea Fox,English,false
+39339,Alopias vulpinus,Slasher,English,false
+39339,Alopias vulpinus,Swingletail,English,false
+39339,Alopias vulpinus,Swiveltail,English,false
+39339,Alopias vulpinus,Thintail thresher,English,false
+39339,Alopias vulpinus,Thrasher,English,false
+39339,Alopias vulpinus,Whip-tailed Shark,English,false
+39339,Alopias vulpinus,Zorro Thresher Shark,English,false
+39339,Alopias vulpinus,흰배환도상어,Korean,false
+39339,Alopias vulpinus,Aleposkylos,"Greek, Modern (1453-)",false
+39339,Alopias vulpinus,Almindelig Rævehaj,Danish,false
+39339,Alopias vulpinus,Azotador,Spanish; Castilian,false
+39339,Alopias vulpinus,Budenb,Maltese,false
+39339,Alopias vulpinus,Cação-pena,Portuguese,false
+39339,Alopias vulpinus,Cação-raposa,Portuguese,false
+39339,Alopias vulpinus,Cá Nhàm đuôi dài,Vietnamese,false
+39339,Alopias vulpinus,Chichi espada,Spanish; Castilian,false
+39339,Alopias vulpinus,Coleto,Spanish; Castilian,false
+39339,Alopias vulpinus,Coludo,Spanish; Castilian,false
+39339,Alopias vulpinus,Coludo Pinto,Spanish; Castilian,false
+39339,Alopias vulpinus,Drescher,German,false
+39339,Alopias vulpinus,Drescherhai,German,false
+39339,Alopias vulpinus,Faux,French,false
+39339,Alopias vulpinus,Fuchshai,German,false
+39339,Alopias vulpinus,Fynstert-sambokhaai,Afrikaans,false
+39339,Alopias vulpinus,Gewöhnlicher Fuchshai,German,false
+39339,Alopias vulpinus,Grillo,Spanish; Castilian,false
+39339,Alopias vulpinus,Guadaña,Spanish; Castilian,false
+39339,Alopias vulpinus,Guilla,Catalan; Valencian,false
+39339,Alopias vulpinus,Harilik Rebashai,Estonian,false
+39339,Alopias vulpinus,Jarjur,Arabic,false
+39339,Alopias vulpinus,Kalb,Arabic,false
+39339,Alopias vulpinus,Karage,Swahili,false
+39339,Alopias vulpinus,Kettuhai,Finnish,false
+39339,Alopias vulpinus,Kosogon,Polish,false
+39339,Alopias vulpinus,K'wet'thenéchte,Salishan languages,false
+39339,Alopias vulpinus,Langschweif,German,false
+39339,Alopias vulpinus,Lisica,Croatian,false
+39339,Alopias vulpinus,Lisica,Serbian,false
+39339,Alopias vulpinus,Llwynog Môr,Welsh,false
+39339,Alopias vulpinus,Loup de mer,French,false
+39339,Alopias vulpinus,Mango-ripi,Maori,false
+39339,Alopias vulpinus,Mano 'ula,Hawaiian,false
+39339,Alopias vulpinus,Ma'o Aero,Tahitian,false
+39339,Alopias vulpinus,Mao-naga,Japanese,false
+39339,Alopias vulpinus,Morska Lisica,Croatian,false
+39339,Alopias vulpinus,Ndandau,Bantu (Other),false
+39339,Alopias vulpinus,Ndrandrau,Bantu (Other),false
+39339,Alopias vulpinus,Nigudigumiyaru,Divehi; Dhivehi; Maldivian,false
+39339,Alopias vulpinus,Panganile Ndandau,Bantu (Other),false
+39339,Alopias vulpinus,Papa Kinengo,Swahili,false
+39339,Alopias vulpinus,Papa Kinengwe,Swahili,false
+39339,Alopias vulpinus,Pas lisica,Serbian,false
+39339,Alopias vulpinus,Pas lisica,Croatian,false
+39339,Alopias vulpinus,Pas macun,Croatian,false
+39339,Alopias vulpinus,Pas sabljas,Croatian,false
+39339,Alopias vulpinus,Pating,Philippine (Other),false
+39339,Alopias vulpinus,Pei ratu,Italian,false
+39339,Alopias vulpinus,Pèis rato,French,false
+39339,Alopias vulpinus,Peixe-rato,Portuguese,false
+39339,Alopias vulpinus,Pejerrabo,Spanish; Castilian,false
+39339,Alopias vulpinus,Peje sable,Spanish; Castilian,false
+39339,Alopias vulpinus,Peje zorra,Spanish; Castilian,false
+39339,Alopias vulpinus,Pejezorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Peje zorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Pesce bandiera,Italian,false
+39339,Alopias vulpinus,Pesce pavone,Italian,false
+39339,Alopias vulpinus,Pesce spada,Italian,false
+39339,Alopias vulpinus,Pesce volpe,Italian,false
+39339,Alopias vulpinus,Pesce volpe comune,Italian,false
+39339,Alopias vulpinus,Pesciu rattu,Italian,false
+39339,Alopias vulpinus,Pesciu volpe,Corsican,false
+39339,Alopias vulpinus,Peshkaqeni bishtshpatë,Albanian,false
+39339,Alopias vulpinus,Peshkaqeni dhelpër,Albanian,false
+39339,Alopias vulpinus,Peshkdhelpën,Albanian,false
+39339,Alopias vulpinus,Peshkdhelper,Albanian,false
+39339,Alopias vulpinus,Peshku dhelpër,Albanian,false
+39339,Alopias vulpinus,Pez espada,Spanish; Castilian,false
+39339,Alopias vulpinus,Pez palo,Spanish; Castilian,false
+39339,Alopias vulpinus,Pez zorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Pichirata,Spanish; Castilian,false
+39339,Alopias vulpinus,Pisci bannera,Italian,false
+39339,Alopias vulpinus,Pisci cuda longa,Italian,false
+39339,Alopias vulpinus,Pisci cudutu,Italian,false
+39339,Alopias vulpinus,Pisci sciabula turca,Italian,false
+39339,Alopias vulpinus,Pisci surci,Italian,false
+39339,Alopias vulpinus,Pixxivolpi,Maltese,false
+39339,Alopias vulpinus,Poisson-épée,French,false
+39339,Alopias vulpinus,Psina lisica,Serbian,false
+39339,Alopias vulpinus,Qatwa al bahar,Arabic,false
+39339,Alopias vulpinus,Rabilongo,Portuguese,false
+39339,Alopias vulpinus,Rabo de zorra,Spanish; Castilian,false
+39339,Alopias vulpinus,Raevehai,Norwegian,false
+39339,Alopias vulpinus,Raevehai,Danish,false
+39339,Alopias vulpinus,Rævehaj,Danish,false
+39339,Alopias vulpinus,Raposa,Spanish; Castilian,false
+39339,Alopias vulpinus,Raposa marina,Spanish; Castilian,false
+39339,Alopias vulpinus,Raposo,Portuguese,false
+39339,Alopias vulpinus,Ratto,Italian,false
+39339,Alopias vulpinus,Rävhaj,Swedish,false
+39339,Alopias vulpinus,Rechin-vulpe,Romanian,false
+39339,Alopias vulpinus,Renard,French,false
+39339,Alopias vulpinus,Renard de mer,French,false
+39339,Alopias vulpinus,Renard de mers,"Creoles and pidgins, French-based (Other)",false
+39339,Alopias vulpinus,Renard marin,French,false
+39339,Alopias vulpinus,Requin renard,French,false
+39339,Alopias vulpinus,Requin renard commun,French,false
+39339,Alopias vulpinus,Revaháur,Faroese,false
+39339,Alopias vulpinus,Revahávur,Faroese,false
+39339,Alopias vulpinus,Romano,Portuguese,false
+39339,Alopias vulpinus,Romão,Portuguese,false
+39339,Alopias vulpinus,Sabljorep,Croatian,false
+39339,Alopias vulpinus,Santira,Malagasy,false
+39339,Alopias vulpinus,Sapan,Turkish,false
+39339,Alopias vulpinus,Sapan balığı,Turkish,false
+39339,Alopias vulpinus,Sapan köpekbaligi,Turkish,false
+39339,Alopias vulpinus,Seefuchs,German,false
+39339,Alopias vulpinus,Singe de mer,French,false
+39339,Alopias vulpinus,Skylópsaro,"Greek, Modern (1453-)",false
+39339,Alopias vulpinus,Sorcio,Italian,false
+39339,Alopias vulpinus,Squalo volpe,Italian,false
+39339,Alopias vulpinus,Surci 'mperiali,Italian,false
+39339,Alopias vulpinus,Tærsker,Danish,false
+39339,Alopias vulpinus,Tchissouéndji,Bantu (Other),false
+39339,Alopias vulpinus,Te bakoa,Gilbertese,false
+39339,Alopias vulpinus,Te kimoa,Gilbertese,false
+39339,Alopias vulpinus,Tiburón pez zorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Tiburón zorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Tiburón zorro común,Spanish; Castilian,false
+39339,Alopias vulpinus,Toke kimoa,Tokelau,false
+39339,Alopias vulpinus,Topo,Italian,false
+39339,Alopias vulpinus,Tubarão-raposa,Portuguese,false
+39339,Alopias vulpinus,Tubarão-raposa,Portuguese,false
+39339,Alopias vulpinus,Tubarão-zorra,Portuguese,false
+39339,Alopias vulpinus,Volpe,Italian,false
+39339,Alopias vulpinus,Volpe di mare,Italian,false
+39339,Alopias vulpinus,Voshaai,Dutch; Flemish,false
+39339,Alopias vulpinus,Watwa albahar,Arabic,false
+39339,Alopias vulpinus,Zoro cauda longa,Portuguese,false
+39339,Alopias vulpinus,Zorra,Portuguese,false
+39339,Alopias vulpinus,Zorra de mar,Spanish; Castilian,false
+39339,Alopias vulpinus,Zorro,Spanish; Castilian,false
+39339,Alopias vulpinus,Zorro blanco,Spanish; Castilian,false
+39339,Alopias vulpinus,Žralok mlatec obecný,Czech,false
+39339,Alopias vulpinus,القرش الثّعلب,Arabic,false
+39339,Alopias vulpinus,Αλεπούσκυλος,"Greek, Modern (1453-)",false
+39339,Alopias vulpinus,Αλεπού της θάλασσας,"Greek, Modern (1453-)",false
+39339,Alopias vulpinus,Σκυλόψαρο,"Greek, Modern (1453-)",false
+39339,Alopias vulpinus,акула-лисица,Russian,false
+39339,Alopias vulpinus,Лисица морская обыкновенная,Russian,false
+39339,Alopias vulpinus,弧形長尾鯊,Chinese,false
+39339,Alopias vulpinus,弧形长尾鲨,Chinese,false
+39339,Alopias vulpinus,狐形长尾鲨,Chinese,false
+39339,Alopias vulpinus,狐鮫,Chinese,false
+39339,Alopias vulpinus,狐鲛,Chinese,false
+39339,Alopias vulpinus,長尾鯊,Chinese,false
+39339,Alopias vulpinus,长尾沙,Chinese,false
+39339,Alopias vulpinus,长尾鲨,Chinese,false
+39339,Alopias vulpinus,Common Thresher,English,true
+60200,Mobula thurstoni,Lesser Devil Ray,English,false
+60200,Mobula thurstoni,Smoothtail Devil Ray,English,false
+60200,Mobula thurstoni,Smoothtail Mobula,English,false
+60200,Mobula thurstoni,Thurton’s Devil Ray,English,false
+60200,Mobula thurstoni,Chupasangre,Spanish; Castilian,false
+60200,Mobula thurstoni,Chupa Sangre,Spanish; Castilian,false
+60200,Mobula thurstoni,Cubana de lomo azul,Spanish; Castilian,false
+60200,Mobula thurstoni,Diablo Chupasangre,Spanish; Castilian,false
+60200,Mobula thurstoni,Diablo Manta,Spanish; Castilian,false
+60200,Mobula thurstoni,Gladdestert-mobula,Afrikaans,false
+60200,Mobula thurstoni,Manta Diablo,Spanish; Castilian,false
+60200,Mobula thurstoni,Manta Raya,Spanish; Castilian,false
+60200,Mobula thurstoni,Mante Vampire,French,false
+60200,Mobula thurstoni,Muciélago,Spanish; Castilian,false
+60200,Mobula thurstoni,شيطان البحر الناعم الذيل,Arabic,false
+60200,Mobula thurstoni,Bentfin Devil Ray,English,true
+60199,Mobula tarapacana,Box Ray,English,false
+60199,Mobula tarapacana,Chilean Devil Ray,English,false
+60199,Mobula tarapacana,Greater Guinean Mobula,English,false
+60199,Mobula tarapacana,Spiny Mobula,English,false
+60199,Mobula tarapacana,Diable Géant De Guinée,French,false
+60199,Mobula tarapacana,Diabolo Gigante De Guinea,Spanish; Castilian,false
+60199,Mobula tarapacana,Gestekelde Mobula,Afrikaans,false
+60199,Mobula tarapacana,Manta Cornuada,Spanish; Castilian,false
+60199,Mobula tarapacana,Manta Cornuda,Spanish; Castilian,false
+60199,Mobula tarapacana,Mante Chilienne,French,false
+60199,Mobula tarapacana,Raya Cornuda,Spanish; Castilian,false
+60199,Mobula tarapacana,Vaquetilla,Spanish; Castilian,false
+60199,Mobula tarapacana,Sicklefin Devil Ray,English,true
+41832,Mobula eregoodoo,Pygmy Devil Ray,English,false
+41832,Mobula eregoodoo,شيطان البحر القزم ذي القرن الطويل,Arabic,false
+41832,Mobula eregoodoo,Longhorned Pygmy Devil Ray,English,true
+110847130,Mobula mobular,Giant Devil Ray,English,false
+110847130,Mobula mobular,Spinetail Devilray,English,false
+110847130,Mobula mobular,Baqra,Maltese,false
+110847130,Mobula mobular,Golub Uhan,Croatian,false
+110847130,Mobula mobular,Kulaklifolya,Turkish,false
+110847130,Mobula mobular,Manta,Spanish; Castilian,false
+110847130,Mobula mobular,Mante,French,false
+110847130,Mobula mobular,Mobula,Italian,false
+110847130,Mobula mobular,Teufelsroche,German,false
+110847130,Mobula mobular,شيطان البحر العملاق,Arabic,false
+110847130,Mobula mobular,Διαβολόψαρο,"Greek, Modern (1453-)",false
+110847130,Mobula mobular,Spinetail Devil Ray,English,true
+195459,Mobula alfredi,Coastal Manta Ray,English,false
+195459,Mobula alfredi,Inshore Manta Ray,English,false
+195459,Mobula alfredi,Prince Alfred's Ray,English,false
+195459,Mobula alfredi,Riifu-oniitomakiei,Japanese,false
+195459,Mobula alfredi,Reef Manta Ray,English,true
+198921,Mobula birostris,Chevron Manta Ray,English,false
+198921,Mobula birostris,Giant Manta Ray,English,false
+198921,Mobula birostris,Pacific Manta Ray,English,false
+198921,Mobula birostris,Pelagic Manta Ray,English,false
+198921,Mobula birostris,Manta Cornuda,Spanish; Castilian,false
+198921,Mobula birostris,Manta Diablo,Spanish; Castilian,false
+198921,Mobula birostris,Manta Gigante,Spanish; Castilian,false
+198921,Mobula birostris,Manta Raya,Spanish; Castilian,false
+198921,Mobula birostris,Manta Voladora,Spanish; Castilian,false
+198921,Mobula birostris,Oniitomakiei,Japanese,false
+198921,Mobula birostris,شيطان البحر المحيطي,Arabic,false
+198921,Mobula birostris,Oceanic Manta Ray,English,true
+126710128,Mobula hypostoma,Atlantic Devil Ray,English,false
+126710128,Mobula hypostoma,Lesser Devil Ray,English,false
+126710128,Mobula hypostoma,Diable Géant,French,false
+126710128,Mobula hypostoma,Manta del Golfo,Spanish; Castilian,false
+126710128,Mobula hypostoma,Atlantic Pygmy Devil Ray,English,true
+161439,Mobula kuhlii,Kuhl's Devil Ray,English,false
+161439,Mobula kuhlii,Shortfin Devil Ray,English,false
+161439,Mobula kuhlii,Petit Diable,French,false
+161439,Mobula kuhlii,Shorthorned Pygmy Devil Ray,English,true
+60198,Mobula munkiana,Manta De Monk,English,false
+60198,Mobula munkiana,Munk’s Devil Ray,English,false
+60198,Mobula munkiana,Pygmy Devil Ray,English,false
+60198,Mobula munkiana,Smoothtail Mobula,English,false
+60198,Mobula munkiana,Diabolo Manta,Spanish; Castilian,false
+60198,Mobula munkiana,Mante De Munk,French,false
+60198,Mobula munkiana,Munk's Pygmy Devil Ray,English,true
+61404,Diplobatis picta,Variegated Electric Ray,English,false
+61404,Diplobatis picta,Raya Electrica Variegada,Spanish; Castilian,false
+61404,Diplobatis picta,Painted Dwarf Numbfish,English,true
